@@ -1,14 +1,14 @@
 ---
-layout: cover
+layout: default
+permalink: /past_news/
 ---
 
-<div class="post">
-  
-  <a class="anchor" id="news">News</a>
-  <h1 class="post-title">Recent News</h1>
+<div class="home">
+
+  <h1 class="post-title">Older News</h1>
 
   <ul class="post-list">
-    {% for item in site.posts limit:4 %}
+    {% for item in site.posts offset:4 %}
       <li>
         <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
 
@@ -20,6 +20,5 @@ layout: cover
     {% endfor %}
   </ul>
   
-  <a href="{{ site.baseurl }}/past_news/">Older News</a>
-
+  <a href="{{ site.baseurl }}/#news">Recent News</a>
 </div>

@@ -1,0 +1,57 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+link-years:
+  - 2014
+  - 2012
+  - 2010
+  - 2008
+  - 2006
+  - 2004
+  - 2002
+  - 2000
+  - 1998
+---
+{% comment %} Script required for altmetric embed. {% endcomment %}  
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div class="post">
+
+  <h1 class="post-title">Publications</h1>
+  
+  {% comment %} Navigation shortcut. {% endcomment %}  
+  <p>
+  {% for year in page.link-years %}
+  <a href="/publications/#{{ year }}">{{ year }}</a>&nbsp;&nbsp;&nbsp;
+  {% endfor %}
+  </p>
+
+  {% comment %} Count publications backwards. {% endcomment %}  
+  {% assign count = site.data.publications.size %}
+  
+  <ul class="pub-list">
+    {% assign year = "0000" %}
+    {% for pub in site.data.publications %}
+      {% if year != pub.year %}
+        {% assign year = pub.year %}
+        <a class="anchor" id="{{ year }}">{{ year | capitalize }}</a>
+        <li class="pub-year">{{ year | capitalize }}</li>
+      {% endif %}
+      <li>
+        {{ count | minus: forloop.index0 }}. 
+        {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.<br/>
+        {% if pub.doi %}
+          doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
+        {% endif %}
+        {% if pub.pmcid %}
+          pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
+        {% endif %}
+        
+        {% if pub.doi %}
+        <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
