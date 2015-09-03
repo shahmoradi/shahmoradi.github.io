@@ -11,11 +11,11 @@ description: > # this means to ignore newlines until "baseurl:"
   201 E 24th Street | POB 6.328 | Austin, TX 78712 <br>
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  shahmoradi
-twitter_username: AmirShahmoradi
-linkedin_username: shahmoradi
 googles_username: shahmoradi
 instagram_username: a.shahmoradi
+linkedin_username: shahmoradi
+twitter_username: AmirShahmoradi
+github_username:  shahmoradi
 
 # Build settings
 markdown: kramdown
