@@ -47,10 +47,10 @@ body, html {
     /* background: #15161d; */
     background: #000000;
     color: #ffffff;
-    a:link{color:#2a7ae2};
-    a:visited{color:#2a7ae2}
-    /* a:link{color:#ffef99};
-    a:visited{color:#ffef99} */
+    a:link{color:#ffef99};
+    a:visited{color:#ffef99}
+    /* a:link{color:#2a7ae2}; */ /* This is light blue */
+    /* a:visited{color:#2a7ae2} */ /*  This is light blue */
     /* mouse over link         */
     a:hover{color:$grey-color-light}
 }
@@ -286,6 +286,8 @@ a.anchor {
     background-color: #000000;
     color: $text-color-light;
     padding: $spacing-unit 0;
+    a:link{color:#ffef99};      /* This makes the color of links golden */
+    a:visited{color:#ffef99}
 
     min-height: 0px;    
         
