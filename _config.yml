@@ -1,9 +1,9 @@
 # Site settings
 title: Amir Shahmoradi, PhD
 address: The University of Texas at Austin
-email: amir@physics.utexas.edu
-email: shahmoradi@utexas.edu
-email: amir@ices.utexas.edu
+email1: amir@physics.utexas.edu
+email2: shahmoradi@utexas.edu
+email3: amir@ices.utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
   ICES Fellow, Institute for Computational Engineering and Sciences (ICES) <br>
   The University of Texas at Austin <br>
