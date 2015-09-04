@@ -47,8 +47,10 @@ body, html {
     /* background: #15161d; */
     background: #000000;
     color: #ffffff;
-    a:link{color:#ffef99};
-    a:visited{color:#ffef99}
+    a:link{color:#2a7ae2};
+    a:visited{color:#2a7ae2}
+    /* a:link{color:#ffef99};
+    a:visited{color:#ffef99} */
     /* mouse over link         */
     a:hover{color:$grey-color-light}
 }
