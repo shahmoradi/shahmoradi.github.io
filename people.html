@@ -21,7 +21,16 @@ permalink: /people/
           {{ person.joined }}–present
         {% endif %}<br/>
         {% if person.history %}
-        {{ person.history }}<br/>
+          {{ person.history }}<br/>
+        {% endif %}
+        {% if person.relationship %}
+          <br/>Relationship:
+          <!-- These people are not my students, so no need for their current URL
+          {% if person.url %}
+            <a href="{{ person.url }}">{{ person.relationship }}</a>
+          {% else %} -->
+            {{  person.relationship }}
+          <!-- {% endif %} -->
         {% endif %}
         {% if person.url %}
           <a href="{{ person.url }}" class="people-icon">
@@ -72,13 +81,14 @@ permalink: /people/
         {% else %}
           {{ person.joined }}–{{ person.left }}
         {% endif %}
-        {% if person.currently %}
-          <br/>Last known whereabouts:
+        {% if person.relationship %}
+          <br/>Relationship:
+          <!-- These people are not my students, so no need for their current URL
           {% if person.url %}
-            <a href="{{ person.url }}">{{ person.currently }}</a>
-          {% else %}
-            {{  person.currently }}
-          {% endif %}
+            <a href="{{ person.url }}">{{ person.relationship }}</a>
+          {% else %} -->
+            {{  person.relationship }}
+          <!-- {% endif %} -->
         {% endif %}
       </li>
     {% endfor %}
