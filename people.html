@@ -24,13 +24,13 @@ permalink: /people/
           {{ person.history }}<br/>
         {% endif %}
         {% if person.relationship %}
-          <br/><b>Relationship:</b>
+          <b>Relationship:</b>{{  person.relationship }}<br/>
           <!-- These people are not my students, so no need for their current URL
           {% if person.url %}
             <a href="{{ person.url }}">{{ person.relationship }}</a>
-          {% else %} -->
+          {% else %}
             {{  person.relationship }}
-          <!-- {% endif %} -->
+          {% endif %} -->
         {% endif %}
         {% if person.url %}
           <a href="{{ person.url }}" class="people-icon">
@@ -82,7 +82,7 @@ permalink: /people/
           {{ person.joined }}–{{ person.left }}
         {% endif %}
         {% if person.relationship %}
-          <br/><b>Relationship:</b>
+          <b>Relationship:</b>
           <!-- These people are not my students, so no need for their current URL
           {% if person.url %}
             <a href="{{ person.url }}">{{ person.relationship }}</a>
