@@ -16,6 +16,7 @@ permalink: /people/
   <ul class="post-list">
     {% for person in site.data.current_members %}
       <li>
+        <IMG SRC={{ person.image }} ALT={{ person.name }}><br/>
         <strong>{{ person.name }}</strong><br/>
         {{ person.role }}{% if person.joined %},
           {{ person.joined }}–present
