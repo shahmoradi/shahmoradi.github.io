@@ -18,7 +18,7 @@ permalink: /people/
       <li>
         <strong>{{ person.name }}</strong><br/>
         {{ person.role }}{% if person.joined %},
-          {{ person.joined }}–present
+          <b>Relationship:</b>{{  person.relationship }} ({{ person.joined }}–present)
         {% endif %}<br/>
         {% if person.history %}
           {{ person.history }}<br/>
@@ -53,7 +53,7 @@ permalink: /people/
             <svg>
               <use xlink:href="#svg-blog-icon"/>
             </svg> 
-            <div class="icon-tooltip"><p>Blog</p></div>         
+            <div class="icon-tooltip"><p>more information</p></div>         
           </a> 
         {% endif %}
         {% if person.github %}
