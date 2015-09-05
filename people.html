@@ -17,9 +17,9 @@ permalink: /people/
     {% for person in site.data.current_members %}
       <li>
         {% if person.image %}
-          <IMG SRC={{ person.image }} >
-        {% endif %}<br/>
-        <strong>{{ person.name }}</strong>
+          <br/><IMG SRC={{ person.image }} >
+        {% endif %}
+        <br/><strong>{{ person.name }}</strong>
         {{ person.role }}{% if person.joined %},
           {{ person.joined }}–present
         {% endif %}<br/>
