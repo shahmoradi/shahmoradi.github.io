@@ -18,7 +18,7 @@ permalink: /people/
       <li>
         <strong>{{ person.name }}</strong><br/>
         {{ person.role }}{% if person.joined %},
-          <b>Relationship:</b>{{  person.relationship }} ({{ person.joined }}–present)
+          {{ person.joined }}–present
         {% endif %}<br/>
         {% if person.history %}
           {{ person.history }}<br/>
