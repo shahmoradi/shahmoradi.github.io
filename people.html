@@ -18,8 +18,8 @@ permalink: /people/
       <li>
         {% if person.image %}
           <br/><IMG SRC={{ person.image }} >
-        {% endif %}
-        <br/><strong>{{ person.name }}</strong>
+        {% endif %}<br/>
+        <strong>{{ person.name }}</strong>
         {{ person.role }}{% if person.joined %},
           {{ person.joined }}–present
         {% endif %}<br/>
