@@ -30,13 +30,13 @@ permalink: /people/
           <b>Relationship: </b>{{  person.relationship }}<br/>
           <!-- These people are not my students, so no need for their current URL
           {% if person.url %}
-            <a href="{{ person.url }}">{{ person.relationship }}</a>
+            <a target="_blank" href="{{ person.url }}">{{ person.relationship }}</a>
           {% else %}
             {{  person.relationship }}
           {% endif %} -->
         {% endif %}
         {% if person.url %}
-          <a href="{{ person.url }}" class="people-icon">
+          <a target="_blank" href="{{ person.url }}" class="people-icon">
             <svg>
               <use xlink:href="#svg-home-icon"/>
             </svg>
@@ -44,15 +44,15 @@ permalink: /people/
           </a> 
         {% endif %}
         {% if person.pubs %}
-          <a href="{{ person.pubs }}" class="people-icon">
+          <a target="_blank" href="{{ person.pubs }}" class="people-icon">
             <svg>
               <use xlink:href="#svg-google-scholar-icon"/>
             </svg>
-            <div class="icon-tooltip"><p>Google&nbsp;Scholar</p></div>
+            <div class="icon-tooltip"><p>Publications</p></div>
           </a> 
         {% endif %}
         {% if person.blog %}
-          <a href="{{ person.blog }}" class="people-icon">
+          <a target="_blank" href="{{ person.blog }}" class="people-icon">
             <svg>
               <use xlink:href="#svg-blog-icon"/>
             </svg> 
@@ -60,7 +60,7 @@ permalink: /people/
           </a> 
         {% endif %}
         {% if person.github %}
-          <a href="https://github.com/{{ person.github }}" class="people-icon">
+          <a target="_blank" href="https://github.com/{{ person.github }}" class="people-icon">
             <svg>
               <use xlink:href="#svg-github-icon"/>
             </svg> 
@@ -88,7 +88,7 @@ permalink: /people/
           <b>Relationship:</b>
           <!-- These people are not my students, so no need for their current URL
           {% if person.url %}
-            <a href="{{ person.url }}">{{ person.relationship }}</a>
+            <a target="_blank" href="{{ person.url }}">{{ person.relationship }}</a>
           {% else %} -->
             {{  person.relationship }}
           <!-- {% endif %} -->
