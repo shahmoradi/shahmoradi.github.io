@@ -5,8 +5,8 @@ email1: amir@physics.utexas.edu
 email2: shahmoradi@utexas.edu
 email3: amir@ices.utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
-  J.T. Oden Fellow<br>
-  Institute for Computational Engineering and Sciences<br>
+  ICES Fellow <br>
+  Institute for Computational Engineering and Sciences <br>
   201 E 24th Street | POB 6.328 <br>
   Austin, TX 78712 <br>
 baseurl: "" # the subpath of your site, e.g. /blog/
