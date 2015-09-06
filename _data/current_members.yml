@@ -39,6 +39,17 @@
   url: "http://www.mtu.edu/physics/department/faculty/nemiroff/"
   blog: "https://en.wikipedia.org/wiki/Robert_J._Nemiroff"
  
+- image: "../img/people/samimi.jpg"
+  name: Jalal Samimi <br/>
+  role: Professor Emeritus of Physics, Sharif University of Technology <br>
+  relationship: Former BSc Adviser, Principal Investigator ( 2005 - 2007 )
+  url: "http://physics.sharif.edu/~physinfo/samimi.html"
+
+- image: "../img/people/mba.jpg"
+  name: Mahmoud Bahmanabadi <br/>
+  role: Professor of Physics, Sharif University of Technology <br>
+  relationship: Former BSc Adviser, Principal Investigator ( 2005 - 2007 )
+  url: "http://sina.sharif.edu/~bahmanabadi/"
 
 # - name: Dariya K. Sydykova
 #   role: Graduate Student (CMB)
