@@ -41,13 +41,13 @@
  
 - image: "../img/people/samimi.jpg"
   name: Jalal Samimi <br/>
-  role: Professor Emeritus of Physics, Sharif University of Technology <br>
+  role: Professor Emeritus of Physics, Sharif University of Technology
   relationship: Former BSc Adviser, Principal Investigator ( 2005 - 2007 )
   url: "http://physics.sharif.edu/~physinfo/samimi.html"
 
 - image: "../img/people/mba.jpg"
   name: Mahmoud Bahmanabadi <br/>
-  role: Professor of Physics, Sharif University of Technology <br>
+  role: Professor of Physics, Sharif University of Technology
   relationship: Former BSc Adviser, Principal Investigator ( 2005 - 2007 )
   url: "http://sina.sharif.edu/~bahmanabadi/"
 
