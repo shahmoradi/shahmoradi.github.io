@@ -8,7 +8,7 @@
   
 - image: "../img/people/rlo.jpg"
   name: Raymond Lee Orbach <br/>
-  role: First Undesecratary for Science, The United States Department of Energy <br> Founding Director, The Energy Institute, University of Texas Austin <br> Cockrell Family Regents' Chair in Engineering No. 12, UT Austin <br> Professor of Mechanical Engineering, UT Austin <br> Professor of Physics, UT Austin
+  role: First Undesecratary for Science, The United States Department of Energy <br> Founding Director, The Energy Institute, University of Texas at Austin <br> Cockrell Family Regents' Chair in Engineering No. 12, UT Austin <br> Professor of Mechanical Engineering, UT Austin <br> Professor of Physics, UT Austin
   relationship: Teaching/Research Adviser ( 2013 - 2015 )
   url: "http://www.me.utexas.edu/directory/faculty/orbach/raymond/224/"
   pubs: "https://scholar.google.com/citations?user=40l91XYAAAAJ&hl=en&oi=sra"
@@ -39,39 +39,12 @@
   url: "http://www.mtu.edu/physics/department/faculty/nemiroff/"
   blog: "https://en.wikipedia.org/wiki/Robert_J._Nemiroff"
  
-- name: Dakota Derryberry
-  role: Graduate Student (CMB)
-  joined: 2010
-  github: dakotaz
-  
-- name: Benjamin Jack
-  role: Graduate Student (CMB)
-  joined: 2015
-  github: benjaminjack
 
-- name: Eleisha L. Jackson
-  role: Graduate Student (EEB)
-  joined: 2012
-  github: elj299
-  
-- name: Stephanie J. Spielman
-  role: Graduate Student (EEB) 
-  joined: 2011
-  url: "http://sjspielman.org"
-  pubs: "http://scholar.google.com/citations?user=6xAqQtIAAAAJ"
-  github: sjspielman
-  
+<!--
 - name: Dariya K. Sydykova
   role: Graduate Student (CMB)
   joined: 2015
   history: Undergraduate, 2012–2014
   pubs: "https://scholar.google.com/citations?user=D5G8bBAAAAAJ&hl=en"
-  github: dariyasydykova  
-  
-- name: Larry Clay
-  role: Undergraduate
-  joined: 2015
-  
-- name: Alishah Momin
-  role: Undergraduate
-  joined: 2015
+  github: dariyasydykova
+-->
