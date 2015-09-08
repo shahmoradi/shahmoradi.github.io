@@ -22,7 +22,7 @@ On a regular winter day of 2008, <a href="http://apod.nasa.gov/htmltest/rjn.html
 
 Here is an example plot of the "<i>Hardness -- </i>E<sub>P,obs</sub>" correlation taken from <a href="http://adsabs.harvard.edu/abs/2010MNRAS.407.2075S" target="_blank">Shahmoradi &amp; Nemiroff (2010)</a>:
 
-<br><br>
+<br>
 
 <div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/HRH_Epk_relation.png" imageanchor="1" target="_blank"><img src="../img/research/aca/HRH_Epk_relation.png" border="0"></a></div>
 
