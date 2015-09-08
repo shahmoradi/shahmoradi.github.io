@@ -21,13 +21,13 @@ On a regular winter day of 2008, <a href="http://apod.nasa.gov/htmltest/rjn.html
 Here is an example plot of the "<i>Hardness -- </i>E<sub>P,obs</sub>" correlation taken from <a href="http://adsabs.harvard.edu/abs/2010MNRAS.407.2075S" target="_blank">Shahmoradi &amp; Nemiroff (2010)</a>:
 
 <br><br>
-<a href="../img/research/aca/HRH_Epk_relation.png" imageanchor="1" target="_blank"><img src="../img/research/aca/HRH_Epk_relation.png" border="0"></a>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/HRH_Epk_relation.png" imageanchor="1" target="_blank"><img src="../img/research/aca/HRH_Epk_relation.png" border="0"></a></div>
 <br><br>
 
 Perhaps more important than the correlation itself, was the (re)discovery of the two classes of Short-duration GRBs (SGRBs) and Long-duration GRBs (LGRBs) by the double-component shape of the <i>E<sub>P,obs</sub></i> distribution of BATSE 2130 GRBs:<br>
 
 <br><br>
-<a href="../img/research/aca/BATSE_2130_Epk_histogram.png" imageanchor="1" target="_blank"><img src="../img/research/aca/BATSE_2130_Epk_histogram.png" border="0"></a>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/BATSE_2130_Epk_histogram.png" imageanchor="1" target="_blank"><img src="../img/research/aca/BATSE_2130_Epk_histogram.png" border="0"></a></div>
 <br><br><br>
 
 For the first time in GRB research history, the <i>Hardness-E<sub>P,obs</i> relation enabled us to unravel the potential shape of the <i>E<sub>P,obs</i> distributions of the two classes of GRBs in the <a href="http://www.batse.msfc.nasa.gov/batse/grb/catalog/" target="_blank">largest catalog of GRBs</a> available to date (as of August 2012). The above plot clearly shows that the <i>E<sub>P,obs</i> distribution of 2130 BATSE GRBs is likely the result of the superposition of two Gaussian components, with long-soft class of BATSE GRBs having a Gaussian <i>E<sub>P,obs</sub></i> distribution centered at <i>140 keV</i> and short-hard class of BATSE GRBs having a Gaussian <i>E<sub>P,obs</sub></i> distribution centered at <span style="color:rgb(255,0,0)"><i>520 keV</i></span>.   Also according to the observed ratio of the two Gaussian components of the BATSE <i>E<sub>P,obs</sub></i> distribution in the plot above, <i>~%70</i> of BATSE GRBs belong to long-soft class of bursts (<span style="color:rgb(255,0,0)">LGRBs</span>) and <span style="color:rgb(255,0,0)"><i>~%30</i></span> of BATSE GRBs belong to short-hard class of bursts (<span style="color:rgb(255,0,0)">SGRBs</span>).
