@@ -5,9 +5,7 @@ date:   2010-04-07 00:00:01
 author: Amir Shahmoradi
 ---
 
-<div class="align-justify">
-
-One of the most widely used spectral parameters in the studies of <a href="http://en.wikipedia.org/wiki/Gamma-ray_burst" target="_blank">Gamma-Ray Bursts</a> (GRBs) is the time-integrated νF<sub>ν</sub> spectrum peak energy of these cosmic events. Since the early 1990s, there has been a growing trend in the research community to plot GRBs's spectra in the form of E<sup>2</sup> dE or νF<sub>ν</sub> versus energy, (E), where F<sub>ν</sub> is the spectral flux at the frequency ν. This has the advantage of making it easy to discern the energy of the <i>peak power</i> from the burst. The νF<sub>ν</sub> plot of many of the bursts’ spectra shows a peak which is denoted by E<sub>P,obs</sub> where the subscript "<sub>P,obs</sub>" stands for OBServer-frame spectral Peak energy (in contrast to the Comoving-frame Peak energy).<br><br>
+<p> One of the most widely used spectral parameters in the studies of <a href="http://en.wikipedia.org/wiki/Gamma-ray_burst" target="_blank">Gamma-Ray Bursts</a> (GRBs) is the time-integrated νF<sub>ν</sub> spectrum peak energy of these cosmic events. Since the early 1990s, there has been a growing trend in the research community to plot GRBs's spectra in the form of E<sup>2</sup> dE or νF<sub>ν</sub> versus energy, (E), where F<sub>ν</sub> is the spectral flux at the frequency ν. This has the advantage of making it easy to discern the energy of the <i>peak power</i> from the burst. The νF<sub>ν</sub> plot of many of the bursts’ spectra shows a peak which is denoted by E<sub>P,obs</sub> where the subscript "<sub>P,obs</sub>" stands for OBServer-frame spectral Peak energy (in contrast to the Comoving-frame Peak energy).<br><br></p>
 
 <br><div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/grb_photon_spectrum.png" imageanchor="1" target="_blank" title=""><img src="../img/research/aca/grb_photon_spectrum.png" title=" " border="0"></a></div><br><br>
 
