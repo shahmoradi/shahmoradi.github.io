@@ -20,7 +20,7 @@ On a regular winter day of 2008, <a href="http://apod.nasa.gov/htmltest/rjn.html
 Here is an example plot of the "<i>Hardness -- </i>E<sub>P,obs</sub>" correlation taken from <a href="http://adsabs.harvard.edu/abs/2010MNRAS.407.2075S" target="_blank">Shahmoradi &amp; Nemiroff (2010)</a>:
 
 <br><br>
-<a href="../img/research/aca/HRH_Epk_relation.png" imageanchor="1" target="_blank"><img src=""../img/research/aca/HRH_Epk_relation.png" border="0"></a>
+<a href="../img/research/aca/HRH_Epk_relation.png" imageanchor="1" target="_blank"><img src="../img/research/aca/HRH_Epk_relation.png" border="0"></a>
 <br><br>
 
 Perhaps more important than the correlation itself, was the (re)discovery of the two classes of Short-duration GRBs (SGRBs) and Long-duration GRBs (LGRBs) by the double-component shape of the <i>E<sub>P,obs</sub></i> distribution of BATSE 2130 GRBs:<br>
