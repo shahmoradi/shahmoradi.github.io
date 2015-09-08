@@ -30,7 +30,7 @@ Here is an example plot of the "<i>Hardness -- </i>E<sub>P,obs</sub>" correlatio
 
 Perhaps more important than the correlation itself, was the (re)discovery of the two classes of Short-duration GRBs (SGRBs) and Long-duration GRBs (LGRBs) by the double-component shape of the <i>E<sub>P,obs</sub></i> distribution of BATSE 2130 GRBs:
 
-<br><br>
+<br>
 
 <div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/BATSE_2130_Epk_histogram.png" imageanchor="1" target="_blank"><img src="../img/research/aca/BATSE_2130_Epk_histogram.png" border="0"></a></div>
 
