@@ -2,7 +2,7 @@
 layout: post
 title:  "Hardness as a proxy measure of the spectral peak energy of Gamma-Ray Bursts"
 date:   2010-04-07 00:00:01
-meta: "research post"
+author: Amir Shahmoradi
 ---
 
 <div class="align-justify">
