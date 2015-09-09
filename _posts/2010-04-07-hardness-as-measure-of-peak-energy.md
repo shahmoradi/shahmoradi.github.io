@@ -20,8 +20,6 @@ Now, it turns out that measuring of this quantity (i.e., the spectral peak energ
 
 On a regular winter day of 2008, <a href="http://apod.nasa.gov/htmltest/rjn.html" target="_blank">professor Nemiroff</a> &amp; I were thinking of finding an easy way to measure the peak energies (E<sub>P,obs</sub>) of Gamma-Ray Bursts without having to go through the hassle of spectral fitting: To find another spectral parameter of GRBs that would serve as a proxy for E<sub>P,obs</sub></font> of the bursts. Based on Dr. Nemiroff's original suggestion to use hardness as E<sub>P,obs</sub> proxy, it turned out that a new definition of <a href="http://adsabs.harvard.edu/abs/2010MNRAS.407.2075S" target="_blank">GRB <i>hardness</i></a> could indeed serve as a good indicator of the spectral peak energy of the bursts. The correlation of E<sub>P,obs</sub> and GRB hardness had been long known. However, our rigorous analysis allowed for the first time to quantify this correlation and use it to estimate the peak energies of the entire <a href="http://www.batse.msfc.nasa.gov/batse/grb/catalog/" target="_blank">catalog of BATSE Gamma-Ray Bursts</a>: <a href="https://docs.google.com/spreadsheet/ccc?key=0ApSwPt7SvosHdFJRSk9zaGtwNjdXZnRNRkREVkxpTVE" target="_blank">2130 GRBs</a>.
 
-<br>
-
 Here is an example plot of the "<i>Hardness -- </i>E<sub>P,obs</sub>" correlation taken from <a href="http://adsabs.harvard.edu/abs/2010MNRAS.407.2075S" target="_blank">Shahmoradi &amp; Nemiroff (2010)</a>:
 
 <br>
