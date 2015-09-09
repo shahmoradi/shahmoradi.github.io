@@ -424,6 +424,7 @@ a.anchor {
 .post-header {
     margin-bottom: $spacing-unit;
     font-weight: bold;
+    text-align: justify;
 }
 
 .post-title {
@@ -431,6 +432,7 @@ a.anchor {
     letter-spacing: -1px;
     line-height: 1;
     font-weight: bold;
+    text-align: justify;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -439,6 +441,7 @@ a.anchor {
 
 .post-content {
     margin-bottom: $spacing-unit;
+    text-align: justify;
     
     h2 {
         font-size: 32px;
