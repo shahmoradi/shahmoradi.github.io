@@ -7,7 +7,9 @@ date:   2010-10-04 00:00:01
 The psychological literature is full of studies that demonstrate how the humans' limited senses can result in cognitive flaws and biases in our understanding of the universe. In fact, psychologists have pinpointed many specific biases that affect not only the way we see but how we think about and perceive the world. <a href="http://en.wikipedia.org/wiki/Confirmation_bias" target="_blank">Confirmation bias</a>, for example, is the tendency to notice, accept, and remember data that confirms what we already believe, and <i>to ignore, forget, or explain away</i> data that is contradictory to our beliefs. To make things worse, add the (unknown) limitations of instruments by which human probes the universe. The combined effects of human and instrument biases can result in erroneous conclusions and predictions.
 
 <br><br><br>
+
 <div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://apod.nasa.gov/apod/ap070717.html" target="_blank"><img src="../img/research/aca/20101004_SameColorIllusion.png" title="" border="0"></a></div>
+
 <br><br>
 
 Fortunately, many of such biases are now well understood by scientists, in particular, experimental physicists, observational astronomers and quantitative biologists. An example, is the well-known <a href="http://en.wikipedia.org/wiki/Malmquist_bias" target="_blank">Malmquist bias</a> in Observational Astronomy. Nevertheless, <a href="http://www.goodreads.com/quotes/143906-as-our-circle-of-knowledge-expands-so-does-the-circumference" target="_blank">as our circle of knowledge expands, so does the circumference of darkness surrounding it</a>, bringing new types of biases and <a href="http://en.wikipedia.org/wiki/Selection_bias" target="_blank">selection effects</a> with it, that might affect humans' understanding of natural phenomena.<br><br>
@@ -17,7 +19,8 @@ Back in 2008, I and my adviser -- <a href="http://apod.nasa.gov/htmltest/rjn.htm
 Here is an example graph taken from <a href="http://adsabs.harvard.edu//abs/2011MNRAS.411.1843S" target="_blank">Shahmoradi &amp; Nemiroff (2011)</a>, demonstrating the extent of BATSE LGRBs inconsistency with the proposed Amati &amp; Yonetoku relations for LGRBs:<br><br><br>
 
 <div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/20101004_hardness_brightness.png" target="_blank"><img src="../img/research/aca/20101004_hardness_brightness.png" title="" height="400" border="0" width="308"></a></div>
-<br>
+
+<br><br><br>
 
 
 
