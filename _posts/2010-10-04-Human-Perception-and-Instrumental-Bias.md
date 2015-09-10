@@ -4,9 +4,9 @@ title:  "Human Perception and Instrumental Bias"
 date:   2010-10-04 00:00:01
 ---
 
-References: 
-&nbsp --  <a href="http://mnras.oxfordjournals.org/content/411/3/1843" target="_blank">The Possible Impact of Gamma-Ray Burst Detector Thresholds on Cosmological Standard Candles</a>
-&nbsp --  <a href="http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3155940" target="_blank">How Real Detector Thresholds Create False Standard Candles</a>
+References: <br>
+  --  <a href="http://mnras.oxfordjournals.org/content/411/3/1843" target="_blank">The Possible Impact of Gamma-Ray Burst Detector Thresholds on Cosmological Standard Candles</a><br>
+  --  <a href="http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3155940" target="_blank">How Real Detector Thresholds Create False Standard Candles</a>
 
 The psychological literature is full of studies that demonstrate how the humans' limited senses can result in cognitive flaws and biases in our understanding of the universe. In fact, psychologists have pinpointed many specific biases that affect not only the way we see but how we think about and perceive the world. <a href="http://en.wikipedia.org/wiki/Confirmation_bias" target="_blank">Confirmation bias</a>, for example, is the tendency to notice, accept, and remember data that confirms what we already believe, and <i>to ignore, forget, or explain away</i> data that is contradictory to our beliefs. To make things worse, add the (unknown) limitations of instruments by which human probes the universe. The combined effects of human and instrument biases can result in erroneous conclusions and predictions.
 
