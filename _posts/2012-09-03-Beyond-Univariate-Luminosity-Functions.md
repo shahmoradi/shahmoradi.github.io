@@ -4,14 +4,14 @@ title:  "Beyond Univariate Luminosity Functions for Long Gamma-Ray Bursts"
 date:   2012-09-03 00:00:01
 ---
 
-<b> References: </b><br>
+<b> Reference: </b><br>
   --  <a href="http://adsabs.harvard.edu/abs/2013ApJ...766..111S" target="_blank">A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts</a><br>
   
 <b> Available Downloads: </b><br>
-  -- <a href="https://docs.google.com/spreadsheets/d/16SJ-EpNSgDozAG6go9ln8CRfPyyu-6czso1HqFrtIP4/edit?usp=sharing" target="_blank">BATSE Catalog Trigger numbers for 1366 Events Classified as Long GRBs in This Analysis</a> <br>
-  -- Spectral data for these triggers are available from <a href="http://gammaray.nsstc.nasa.gov/batse/grb/catalog/" target="_blank">BATSE Current & 4B GRB Catalogs</a>. <br>
-  -- The spectral peak energy estimates and the full conditional E<sub>P,obs</sub> probability densities of these bursts can be obtained from <a href="http://www.shahmoradi.org/2010/04/07/hardness-as-measure-of-peak-energy.html" target="_blank">Shahmoradi & Nemiroff (2010)</a>. <br>
-  -- Full MCMC samples of the LGRB world model parameters based on three LGRB redshift distributions can be obtained from the project's <a href="https://github.com/shahmoradi/grb_world/tree/master/LGRBs" target="_blank">repository</a>. <br>
+&nbsp;&nbsp; -- <a href="https://docs.google.com/spreadsheets/d/16SJ-EpNSgDozAG6go9ln8CRfPyyu-6czso1HqFrtIP4/edit?usp=sharing" target="_blank">BATSE Catalog Trigger numbers for 1366 Events Classified as Long GRBs in This Analysis</a> <br>
+&nbsp;&nbsp; -- Spectral data for these triggers are available from <a href="http://gammaray.nsstc.nasa.gov/batse/grb/catalog/" target="_blank">BATSE Current & 4B GRB Catalogs</a>. <br>
+&nbsp;&nbsp; -- The spectral peak energy estimates and the full conditional E<sub>P,obs</sub> probability densities of these bursts can be obtained from <a href="http://www.shahmoradi.org/2010/04/07/hardness-as-measure-of-peak-energy.html" target="_blank">Shahmoradi & Nemiroff (2010)</a>. <br>
+&nbsp;&nbsp; -- Full MCMC samples of the LGRB world model parameters based on three LGRB redshift distributions can be obtained from the project's <a href="https://github.com/shahmoradi/grb_world/tree/master/LGRBs" target="_blank">repository</a>. <br>
 
 <b>A Brief (incomplete) Introduction to the Story:<br></b>
 
