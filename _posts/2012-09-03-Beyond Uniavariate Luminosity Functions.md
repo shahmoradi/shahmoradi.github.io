@@ -8,9 +8,7 @@ date:   2012-09-03 00:00:01
 
 The <a href="http://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29" target="_blank"> Luminosity Function</a> (LF) of <a href="http://en.wikipedia.org/wiki/Gamma-ray_burst#Long_gamma-ray_bursts" target="_blank">Long-duration Gamma-Ray Bursts</a> (LGRBs) has been subject of many researches in GRB community. Early attempts to constrain the LF of LGRBs in the <a href="http://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory#BATSE" target="_blank">BATSE</a> era were primarily aimed at finding the true origin of LGRBs: Cosmological vs. Galactic. Back in the 90' there was a <a href="http://apod.nasa.gov/diamond_jubilee/debate95.html" target="_blank">great debate and suspicion</a> about the cosmological origin of LGRBs with some scientists arguing that a cosmological origin for GRBs would imply an enormous output of energy on the order of. 10<sup>51</sup> [erg] in a matter of a few seconds. Nevertheless, observations of the GRB afterglows in the late 90' and the <a href="http://www.nature.com/nature/journal/v387/n6636/full/387878a0.html" target="_blank">first measurement of a GRB redshift</a>, ruled out the galactic models as a potential candidate for GRBs, or at best, for many classes of Gamma-Ray events. Now with GRB distance puzzle being solved, researchers turned into other interesting aspects of these bursts, such as the studies of GRB energetics and the correlations among the spectral parameters of the prompt gamma-ray emission from (mostly) LGRBs. Most prominently, some observational astronomers reported strong correlations between the total isotropic emission of the gamma-ray energies (E<sub>iso</sub>), or the isotropic peak luminosity (L<sub>iso</sub>) and [the spectral peak energies (E<sub>P,z</sub>)]({% post_url 2010-04-07-hardness-as-measure-of-peak-energy %}) of LGRBs. Such correlations were later criticized by some other researchers for the lack of significance and sample incompleteness. The culprit here turns out to be the unknown complex selection effects in the GRB detection mechanism, spectral analysis, and redshift measurement which modify the observed sample of LGRBs from the true underlying population without leaving a clear trace. Nevertheless, the debate still goes on to this date among GRB researchers (c.f. <a href="https://sites.google.com/site/amshportal/research/aca/in-the-news/perception-and-bias" target="_blank">Shahmoradi &amp; Nemiroff 2011</a> for a complete review).
 
-<br><br>
 <b>Motivation:</b>
-<br><br>
 
 The goal of the presented analysis was to derive a multivariate model capable of reproducing the joint 4-dimensional distribution of 4 spectral parameters of 1366 BATSE LGRBs:
 
@@ -23,7 +21,7 @@ Examples of multivariate treatment of LGRB data are rare in Gamma-Ray Burst lite
 
 <b>A 4-D Multivariate Model of LGRBs Spectral Parameters:</b><br>
 <br><br>
-<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/20120903_Eiso-Epkz.png"><img src="../img/research/aca/20120903_Eiso-Epkz.png" title="" border="0"></a></div>
+<a href="../img/research/aca/20120903_Eiso-Epkz.png"><img src="../img/research/aca/20120903_Eiso-Epkz.png" title="" border="0"></a>
 <br><br>
 
 Here, the multivariate <a href="http://en.wikipedia.org/wiki/Log-normal_distribution" target="_blank">log-normal distribution</a> is proposed as the simplest natural candidate model capable of describing data. The motivation behind this choice of model comes from the available observational data that closely resembles a joint multivariate log-normal distribution for four most widely studied spectral parameters of LGRBs in the observer-frame:
