@@ -8,20 +8,10 @@ date:   2012-09-03 00:00:01
   --  <a href="http://adsabs.harvard.edu/abs/2013ApJ...766..111S" target="_blank">A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts</a><br>
   
 <b> Available Downloads: </b><br>
--- BATSE Catalog Trigger numbers for 1366 Events Classified as Long GRBs in This Analysis
-                                    -- Spectral data for these triggers are available in BATSE Current & 4B GRB Catalogs.
-                                    -- The spectral peak energy estimates and the full conditional EP,obs probability densities of these bursts can be obtained from Shahmoradi & Nemiroff (2010).
-                                    -- MCMC samples of the LGRB world model parameters based on three LGRB redshift distributions considered:
-                                             1 -- MCMC sample (MS Excel file: 24.2 MB): based on LGRB rate tracing Star Formation Rate (SFR) of Hopkins & Beacom (2006).
-                                             2 -- MCMC sample (MS Excel file: 28.7 MB): based on LGRB rate tracing the Star Formation Rate (SFR) of Li (2008).
-                                             3 -- MCMC sample (MS Excel file: 14.9 MB): based on LGRB rate of Butler et al. (2010).
-
-                                            Note:  For a description of the parameters in the above Markov Chain samples please refer to,
-                                                               
-                                                                --  Shahmoradi, A., 2013, ApJ, 766, 111
-
-                                                       or email  Amir Shahmoradi.
-
+  -- <a href="https://docs.google.com/spreadsheets/d/16SJ-EpNSgDozAG6go9ln8CRfPyyu-6czso1HqFrtIP4/edit?usp=sharing" target="_blank">BATSE Catalog Trigger numbers for 1366 Events Classified as Long GRBs in This Analysis</a> <br>
+  -- Spectral data for these triggers are available from <a href="http://gammaray.nsstc.nasa.gov/batse/grb/catalog/" target="_blank">BATSE Current & 4B GRB Catalogs</a>. <br>
+  -- The spectral peak energy estimates and the full conditional E<sub>P,obs</sub> probability densities of these bursts can be obtained from <a href="http://www.shahmoradi.org/2010/04/07/hardness-as-measure-of-peak-energy.html" target="_blank">Shahmoradi & Nemiroff (2010)</a>. <br>
+  -- Full MCMC samples of the LGRB world model parameters based on three LGRB redshift distributions can be obtained from the project's <a href="https://github.com/shahmoradi/grb_world/tree/master/LGRBs" target="_blank">repository</a>. <br>
 
 <b>A Brief (incomplete) Introduction to the Story:<br></b>
 
