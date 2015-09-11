@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hardness as a proxy measure of the spectral peak energy of Gamma-Ray Bursts"
+title:  "Hardness as a proxy for the spectral peak energy of Gamma-Ray Bursts"
 date:   2010-04-07 00:00:01
 ---
 
