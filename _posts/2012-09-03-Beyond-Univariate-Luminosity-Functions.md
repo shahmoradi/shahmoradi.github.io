@@ -11,7 +11,7 @@ date:   2012-09-03 00:00:01
 &nbsp; -- BATSE Catalog trigger numbers for 1366 events classified as Long GRBs in this analysis can be found <a href="https://docs.google.com/spreadsheets/d/16SJ-EpNSgDozAG6go9ln8CRfPyyu-6czso1HqFrtIP4/edit?usp=sharing" target="_blank">here</a>. <br>
 &nbsp; -- Spectral data for these triggers are available from <a href="http://gammaray.nsstc.nasa.gov/batse/grb/catalog/" target="_blank">BATSE Current & 4B GRB Catalogs</a>. <br>
 &nbsp; -- The spectral peak energy E<sub>P,obs</sub> estimates for all LGRBs can be found <a href="http://www.shahmoradi.org/2010/04/07/hardness-as-measure-of-peak-energy.html" target="_blank">here</a>. <br>
-&nbsp; -- Full MCMC samples of the LGRB world model parameters for different cosmic rates can be obtained from the project's <a href="https://github.com/shahmoradi/grb_world/tree/master/LGRBs" target="_blank">repository</a>. <br>
+&nbsp; -- Full MCMC samples of the model parameters for different cosmic rates can be found in the project's <a href="https://github.com/shahmoradi/grb_world/tree/master/LGRBs" target="_blank">repository</a>. <br>
 
 <b>A Brief (incomplete) Introduction to the Story:<br></b>
 
