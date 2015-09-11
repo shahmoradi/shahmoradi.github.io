@@ -12,7 +12,7 @@ The psychological literature is full of studies that demonstrate how the humans'
 
 <br><br><br>
 
-<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://apod.nasa.gov/apod/ap070717.html" target="_blank"><img src="../img/research/aca/20101004_SameColorIllusion.png" title="" border="0"></a></div>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://apod.nasa.gov/apod/ap070717.html" target="_blank"><img src="http://www.shahmoradi.org/img/research/aca/20101004_SameColorIllusion.png" title="" border="0"></a></div>
 
 <br><br>
 
@@ -22,7 +22,7 @@ Back in 2008, I and my adviser -- <a href="http://apod.nasa.gov/htmltest/rjn.htm
 
 Here is an example graph taken from <a href="http://adsabs.harvard.edu//abs/2011MNRAS.411.1843S" target="_blank">Shahmoradi &amp; Nemiroff (2011)</a>, demonstrating the extent of BATSE LGRBs inconsistency with the proposed Amati &amp; Yonetoku relations for LGRBs:
 
-<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/20101004_hardness_brightness.png" target="_blank"><img src="../img/research/aca/20101004_hardness_brightness.png" title="" border="0"></a></div>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://www.shahmoradi.org/img/research/aca/20101004_hardness_brightness.png" target="_blank"><img src="http://www.shahmoradi.org/img/research/aca/20101004_hardness_brightness.png" title="" border="0"></a></div>
 
 <br><br><br>
 
