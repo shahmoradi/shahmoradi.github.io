@@ -41,7 +41,7 @@ For this study, LGRB data were collected from the largest catalog of bursts avai
 Here is an example prediction of the LGRB world model for the well-known E<sub>iso</sub>-E<sub>P,z</sub> (<a href="http://www.iasfbo.inaf.it/%7Eamati/" target="_blank">the Amati</a>) relation:
 
 <br><br>
-<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/20120903_Eiso-Epkz.png" imageanchor="1" title=" "><img src="../img/research/aca/20120903_Eiso-Epkz.png" title=" " border="0"></a></div>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="../img/research/aca/20120903_Eiso-Epkz.png"><img src="../img/research/aca/20120903_Eiso-Epkz.png" title="" border="0"></a></div>
 <br><br>
 
 and here is an example plot of the reconstruction of the univariate BATSE LGRB data measured in the observer-frame according to the best-fit parameters:
