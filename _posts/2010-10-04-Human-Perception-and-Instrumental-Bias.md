@@ -4,7 +4,7 @@ title:  "Human Perception and Instrumental Bias"
 date:   2010-10-04 00:00:01
 ---
 
-References: <br>
+<b> References: </b><br>
   --  <a href="http://mnras.oxfordjournals.org/content/411/3/1843" target="_blank">The Possible Impact of Gamma-Ray Burst Detector Thresholds on Cosmological Standard Candles</a><br>
   --  <a href="http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3155940" target="_blank">How Real Detector Thresholds Create False Standard Candles</a>
 

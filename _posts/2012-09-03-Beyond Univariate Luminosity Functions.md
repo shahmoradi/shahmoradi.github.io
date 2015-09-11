@@ -4,6 +4,25 @@ title:  "Beyond Univariate Luminosity Functions for Long Gamma-Ray Bursts"
 date:   2012-09-03 00:00:01
 ---
 
+<b> References: </b><br>
+  --  <a href="http://adsabs.harvard.edu/abs/2013ApJ...766..111S" target="_blank">A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts</a><br>
+  
+<b> Available Downloads: </b><br>
+-- BATSE Catalog Trigger numbers for 1366 Events Classified as Long GRBs in This Analysis
+                                    -- Spectral data for these triggers are available in BATSE Current & 4B GRB Catalogs.
+                                    -- The spectral peak energy estimates and the full conditional EP,obs probability densities of these bursts can be obtained from Shahmoradi & Nemiroff (2010).
+                                    -- MCMC samples of the LGRB world model parameters based on three LGRB redshift distributions considered:
+                                             1 -- MCMC sample (MS Excel file: 24.2 MB): based on LGRB rate tracing Star Formation Rate (SFR) of Hopkins & Beacom (2006).
+                                             2 -- MCMC sample (MS Excel file: 28.7 MB): based on LGRB rate tracing the Star Formation Rate (SFR) of Li (2008).
+                                             3 -- MCMC sample (MS Excel file: 14.9 MB): based on LGRB rate of Butler et al. (2010).
+
+                                            Note:  For a description of the parameters in the above Markov Chain samples please refer to,
+                                                               
+                                                                --  Shahmoradi, A., 2013, ApJ, 766, 111
+
+                                                       or email  Amir Shahmoradi.
+
+
 <b>A Brief (incomplete) Introduction to the Story:<br></b>
 
 The <a href="http://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29" target="_blank"> Luminosity Function</a> (LF) of <a href="http://en.wikipedia.org/wiki/Gamma-ray_burst#Long_gamma-ray_bursts" target="_blank">Long-duration Gamma-Ray Bursts</a> (LGRBs) has been subject of many researches in GRB community. Early attempts to constrain the LF of LGRBs in the <a href="http://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory#BATSE" target="_blank">BATSE</a> era were primarily aimed at finding the true origin of LGRBs: Cosmological vs. Galactic. Back in the 90' there was a <a href="http://apod.nasa.gov/diamond_jubilee/debate95.html" target="_blank">great debate and suspicion</a> about the cosmological origin of LGRBs with some scientists arguing that a cosmological origin for GRBs would imply an enormous output of energy on the order of. 10<sup>51</sup> [erg] in a matter of a few seconds. Nevertheless, observations of the GRB afterglows in the late 90' and the <a href="http://www.nature.com/nature/journal/v387/n6636/full/387878a0.html" target="_blank">first measurement of a GRB redshift</a>, ruled out the galactic models as a potential candidate for GRBs, or at best, for many classes of Gamma-Ray events. Now with GRB distance puzzle being solved, researchers turned into other interesting aspects of these bursts, such as the studies of GRB energetics and the correlations among the spectral parameters of the prompt gamma-ray emission from (mostly) LGRBs. Most prominently, some observational astronomers reported strong correlations between the total isotropic emission of the gamma-ray energies (E<sub>iso</sub>), or the isotropic peak luminosity (L<sub>iso</sub>) and <a href="http://www.shahmoradi.org/2010/04/07/hardness-as-measure-of-peak-energy.html" target="_blank">the spectral peak energies (E<sub>P,z</sub>)</a> of LGRBs. Such correlations were later criticized by some other researchers for the lack of significance and sample incompleteness. The culprit here turns out to be the unknown complex selection effects in the GRB detection mechanism, spectral analysis, and redshift measurement which modify the observed sample of LGRBs from the true underlying population without leaving a clear trace. Nevertheless, the debate still goes on to this date among GRB researchers (c.f. <a href="http://www.shahmoradi.org/2010/10/04/Human-Perception-and-Instrumental-Bias.html" target="_blank">Shahmoradi &amp; Nemiroff 2011</a> for a complete review).
