@@ -1,18 +1,8 @@
-- author: A. Shahmoradi, C. O. Wilke
+- author: A. G. Meyer, S. J. Spielman, T. Bedford, C. O. Wilke
   year: 2015
-  title: Dissecting the roles of local packing density and longer-range effects in protein sequence evolution
-  ref: "Proteins: Structure,Function, and Bioinformatics (under review)"
-  pdf: ../pubs/Shahmoradi_2015b.pdf
-  nasa: 2015arXiv150708335S
-  biorxiv: 2015/07/30/023499
-  arxiv: 1507.08335
-  doi: 10.1101/023499
-  
-- author: H. Lou, M. Delshad, Z. Li, A. Shahmoradi
-  year: 2015
-  title: A multilevel local grid refinement method to study the impact of polymer rheology on polymer injectivity of oil fields
-  ref: "Journal of Petroleum Science (under review)"
-  pdf: ../pubs/Shahmoradi_2015c.pdf
+  title: On the time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak
+  ref: "Virus Evolution 1:vev006"
+  doi: 10.1093/ve/vev006 
   
 - author: J. R. Houser, C. Barnhart, D. R. Boutz, S. M. Carroll, A. Dasgupta, J. K. Michener, B. D. Needham, O. Papoulas, V. Sridhara, D. K. Sydykova, C. J. Marx, M. S. Trent, J. E. Barrick, E. M. Marcotte, C. O. Wilke
   year: 2015
