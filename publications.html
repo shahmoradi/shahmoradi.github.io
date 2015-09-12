@@ -38,17 +38,23 @@ link-years:
       <li>
         {{ count | minus: forloop.index0 }}. 
         {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. <b>{{ pub.ref }}</b>.<br/>
-        {% if pub.doi %}
-          doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; <br/>
-        {% endif %}
-        {% if pub.arxiv %}
-          arXiv: <a href="http://arxiv.org/abs/{{ pub.arxiv }}">{{pub.arxiv}}</a>&nbsp;&nbsp; <br/>
+        {% if pub.pdf %}
+          Download: <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp; <br/>
         {% endif %}
         {% if pub.nasa %}
-          NASA: <a href="http://arxiv.org/abs/{{ pub.arxiv }}">{{pub.arxiv}}</a>&nbsp;&nbsp; <br/>
+          NASA ADS: <a target="_blank" href="http://adsabs.harvard.edu/cgi-bin/bib_query?{{ pub.nasa }}">{{pub.nasa}}</a>&nbsp;&nbsp; <br/>
+        {% endif %}
+        {% if pub.biorxiv %}
+          bioRxiv: <a target="_blank" href="http://biorxiv.org/content/early/{{ pub.biorxiv }}">{{pub.biorxiv}}</a>&nbsp;&nbsp; <br/>
+        {% endif %}
+        {% if pub.arxiv %}
+          arXiv: <a target="_blank" href="http://arxiv.org/abs/{{ pub.arxiv }}">{{pub.arxiv}}</a>&nbsp;&nbsp; <br/>
         {% endif %}
         {% if pub.pmcid %}
-          pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; <br/>
+          pmcid: <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; <br/>
+        {% endif %}
+        {% if pub.doi %}
+          doi: <a target="_blank" href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; <br/>
         {% endif %}
         
         {% if pub.doi %}

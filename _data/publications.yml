@@ -1,9 +1,12 @@
-- author: A. Shahmoradi, C. O. Wilke
+- author: <b>A. Shahmoradi</b>, C. O. Wilke
   year: 2015
   title: Dissecting the roles of local packing density and longer-range effects in protein sequence evolution
   ref: "Proteins: Structure,Function, and Bioinformatics (under review)"
-  doi: 10.1101/023499
+  pdf: ../pubs/Shahmoradi_2015b.pdf
+  nasa: 2015arXiv150708335S
+  biorxiv: 2015/07/30/023499
   arxiv: 1507.08335
+  doi: 10.1101/023499
   
 - author: H. Lou, M. Delshad, Z. Li, A. Shahmoradi
   year: 2015
