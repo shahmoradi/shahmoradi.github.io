@@ -41,7 +41,7 @@ link-years:
         Links:&nbsp;&nbsp;
         {% if pub.pdf %}
           <!-- Download: <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp; <br/> -->
-          <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp; <br/>
+          <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp;
         {% endif %}
         {% if pub.nasa %}
           <!--NASA ADS: <a target="_blank" href="http://adsabs.harvard.edu/cgi-bin/bib_query?{{ pub.nasa }}">{{pub.nasa}}</a>&nbsp;&nbsp; <br/> -->
@@ -52,19 +52,19 @@ link-years:
         {% endif %}
         {% if pub.arxiv %}
           <!-- arXiv: <a target="_blank" href="http://arxiv.org/abs/{{ pub.arxiv }}">{{pub.arxiv}}</a>&nbsp;&nbsp; <br/> -->
-          arXiv: <a target="_blank" href="{{ pub.arxiv }}">arXiv</a>&nbsp;&nbsp;
+          <a target="_blank" href="{{ pub.arxiv }}">arXiv</a>&nbsp;&nbsp;
         {% endif %}
         {% if pub.biorxiv %}
           <!-- bioRxiv: <a target="_blank" href="http://biorxiv.org/content/early/{{ pub.biorxiv }}">{{pub.biorxiv}}</a>&nbsp;&nbsp; <br/> -->
-          bioRxiv: <a target="_blank" href="{{ pub.biorxiv }}">bioRxiv</a>&nbsp;&nbsp;
-        {% endif %}
-        {% if pub.pmcid %}
-          pmcid: <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp;
+          <a target="_blank" href="{{ pub.biorxiv }}">bioRxiv</a>&nbsp;&nbsp;
         {% endif %}
         {% if pub.doi %}
           doi: <a target="_blank" href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; <br/>
         {% endif %}
-        
+        {% if pub.pmcid %}
+          pmcid: <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp;
+        {% endif %}
+
         {% if pub.doi %}
         <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
         {% endif %}
