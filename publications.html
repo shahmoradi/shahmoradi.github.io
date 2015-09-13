@@ -31,7 +31,6 @@ link-years:
 
     {% assign year = "0000" %}
     {% for pub in site.data.publications %}
-      <br>
       {% if year != pub.year %}
         {% assign year = pub.year %}
         <a class="anchor" id="{{ year }}">{{ year | capitalize }}</a>
