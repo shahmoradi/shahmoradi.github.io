@@ -69,8 +69,11 @@ link-years:
           pmcid: <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp;&nbsp;<br/>
         {% endif %}
 
-        {% if pub.doi || pub.arxiv %}
+        {% if pub.doi %}
         <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div>
+        {% endif %}
+        {% if pub.arxiv %}
+        <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div>
         {% endif %}
       </li>
     {% endfor %}
