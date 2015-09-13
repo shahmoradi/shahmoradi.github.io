@@ -416,6 +416,11 @@ a.anchor {
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+        
+        > li {
+            margin-top: $spacing-unit / 4;
+            margin-bottom: $spacing-unit / 4;
+        }
     }
 }
 
