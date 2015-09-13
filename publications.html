@@ -20,7 +20,7 @@ link-years:
   {% comment %} Navigation shortcut. {% endcomment %}  
   <p>
   {% for year in page.link-years %}
-  <br><a href="/publications/#{{ year }}">{{ year }}</a>
+  <a href="/publications/#{{ year }}">{{ year }}</a>
   {% endfor %}
   </p>
 
@@ -28,6 +28,7 @@ link-years:
   {% assign count = site.data.publications.size %}
   
   <ul class="pub-list">
+    <br>
     {% assign year = "0000" %}
     {% for pub in site.data.publications %}
       {% if year != pub.year %}
@@ -43,14 +44,14 @@ link-years:
           Links:&nbsp;&nbsp;
           {% if pub.pdf %}
             <!-- Download: <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp; <br/> -->
-            <a target="_blank" href="{{ pub.pdf }}">PDF</a>&emsp;&emsp;&emsp;
+            <a target="_blank" href="{{ pub.pdf }}">PDF</a>&nbsp;&nbsp;&nbsp;
           {% endif %}
           {% if pub.nasa %}
             <!--NASA ADS: <a target="_blank" href="http://adsabs.harvard.edu/cgi-bin/bib_query?{{ pub.nasa }}">{{pub.nasa}}</a>&nbsp;&nbsp;&nbsp; <br/> -->
-            <a target="_blank" href="{{ pub.nasa }}">NASA ADS</a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="{{ pub.nasa }}">NASA&nbsp;ADS</a>&nbsp;&nbsp;&nbsp;
           {% endif %}
           {% if pub.googles %}
-            <a target="_blank" href="{{ pub.googles }}">Google Scholar</a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="{{ pub.googles }}">Google&nbsp;Scholar</a>&nbsp;&nbsp;&nbsp;
           {% endif %}
           {% if pub.arxiv %}
             <!-- arXiv: <a target="_blank" href="http://arxiv.org/abs/{{ pub.arxiv }}">{{pub.arxiv}}</a>&nbsp;&nbsp;&nbsp; <br/> -->
