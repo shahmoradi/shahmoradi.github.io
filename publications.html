@@ -70,7 +70,7 @@ link-years:
         {% endif %}
 
         {% if pub.doi || pub.arxiv %}
-        <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="true" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="-1"></div>
+        <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div>
         {% endif %}
       </li>
     {% endfor %}
