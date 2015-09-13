@@ -406,12 +406,14 @@ a.anchor {
     /* text-align: justify; */
     
     > li {
+        /* margin-bottom: $spacing-unit / 2; */
         margin-bottom: $spacing-unit;
     }
     
     .pub-year {
         font-weight: bold;
         font-size: 22px;
+        margin-bottom: $spacing-unit/10;
        
         @include media-query($on-laptop) {
             font-size: 18px;
