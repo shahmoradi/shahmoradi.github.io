@@ -37,7 +37,7 @@ link-years:
       {% endif %}
       <li>
         <b>{{ count | minus: forloop.index0 }}.</b>&nbsp;
-        {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. <b>{{ pub.ref }}</b>.<br/>
+        {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. <b>"{{ pub.ref }}"</b>.<br/>
         {% if pub.pdf || pub.nasa || pub.googles || pub.arxiv || pub.biorxiv %}
         
           Links:&nbsp;&nbsp;
