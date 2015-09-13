@@ -20,7 +20,7 @@ link-years:
   {% comment %} Navigation shortcut. {% endcomment %}  
   <p>
   {% for year in page.link-years %}
-  <a href="/publications/#{{ year }}">{{ year }}</a>&nbsp;&nbsp;&nbsp;
+  <br><a href="/publications/#{{ year }}">{{ year }}</a>
   {% endfor %}
   </p>
 
@@ -30,7 +30,7 @@ link-years:
   <ul class="pub-list">
     {% assign year = "0000" %}
     {% for pub in site.data.publications %}
-      <br>{% if year != pub.year %}
+      {% if year != pub.year %}
         {% assign year = pub.year %}
         <a class="anchor" id="{{ year }}">{{ year | capitalize }}</a>
         <li class="pub-year">{{ year | capitalize }}</li>
@@ -43,7 +43,7 @@ link-years:
           Links:&nbsp;&nbsp;
           {% if pub.pdf %}
             <!-- Download: <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp; <br/> -->
-            <a target="_blank" href="{{ pub.pdf }}">PDF</a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="{{ pub.pdf }}">PDF</a>&emsp;&emsp;&emsp;
           {% endif %}
           {% if pub.nasa %}
             <!--NASA ADS: <a target="_blank" href="http://adsabs.harvard.edu/cgi-bin/bib_query?{{ pub.nasa }}">{{pub.nasa}}</a>&nbsp;&nbsp;&nbsp; <br/> -->
