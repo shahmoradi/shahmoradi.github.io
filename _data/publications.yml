@@ -49,7 +49,7 @@
 - author: <b>A. Shahmoradi</b>
   title: A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts
   year: 2013
-  ref: The Astophysical Journal (ApJ) 766:111-133
+  ref: "The Astophysical Journal (ApJ) 766:111-133"
   doi: 10.1088/0004-637X/766/2/111
   pdf: ../pubs/Shahmoradi_2013a.pdf
   nasa: http://adsabs.harvard.edu/abs/2013ApJ...766..111S
@@ -59,7 +59,7 @@
 - author: <b>A. Shahmoradi</b>, R. J. Nemiroff  
   title: The possible impact of gamma-ray burst detector thresholds on cosmological standard candles
   year: 2011
-  ref: Monthly Notices of the Royal Astronomical Society (MNRAS) 411:1843-1856
+  ref: "Monthly Notices of the Royal Astronomical Society (MNRAS) 411:1843-1856"
   doi: 10.1111/j.1365-2966.2010.17805.x
   pdf: ../pubs/Shahmoradi_2011.pdf
   nasa: http://adsabs.harvard.edu/abs/2011MNRAS.411.1843S
@@ -98,5 +98,4 @@
   title: On the Muon Content of Gamma-Ray-Initiated Extensive Air Showers
   year: 2007
   ref: Proceedings of the 11<sup>th</sup> National Conference on Astronomical Research
-  doi: 10.1063/1.3155911
   pdf: ../pubs/Shahmoradi_2007_AstroProc11.pdf
