@@ -1,10 +1,102 @@
 - author: <b>A. Shahmoradi</b>, C. O. Wilke
   title: Dissecting the roles of local packing density and longer-range effects in protein sequence evolution
   year: 2015
-  ref: Proteins: Structure,Function, and Bioinformatics (under review)
+  ref: "Proteins: Structure,Function, and Bioinformatics (under review)"
   doi: 10.1101/023499
   pdf: ../pubs/Shahmoradi_2015b.pdf
   nasa: http://adsabs.harvard.edu/abs/2015arXiv150708335S
   arxiv: http://arxiv.org/abs/1507.08335
   biorxiv: http://biorxiv.org/content/early/2015/07/30/023499
   googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:LI9QrySNdTsC
+  
+- author: H. Lou, M. Delshad, Z. Li, <b>A. Shahmoradi</b>
+  title: A multilevel local grid refinement method to study the impact of polymer rheology on polymer injectivity of oil fields
+  year: 2015
+  ref: Journal of Petroleum Science (under review)
+  pdf: ../pubs/Shahmoradi_2015c.pdf
+  
+- author: <b>A. Shahmoradi</b>, R. J. Nemiroff  
+  title: "Short versus long gamma-ray bursts: a comprehensive study of energetics and prompt gamma-ray correlations"
+  year: 2015
+  ref: Monthly Notices of the Royal Astronomical Society (MNRAS) 451:4645-4662
+  doi: 10.1093/mnras/stv714
+  pdf: ../pubs/Shahmoradi_2015a.pdf
+  nasa: http://adsabs.harvard.edu/abs/2015MNRAS.451..126S
+  arxiv: http://arxiv.org/abs/1412.5630  
+  googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:kuK5TVdYjLIC
+
+- author: <b>A. Shahmoradi</b>, D. K. Sydykova, S. J. Spielman, E. L. Jackson, E. T. Dawson, A. G. Meyer, C. O. Wilke
+  title: "Predicting evolutionary site variability from structure in viral proteins: buriedness, packing, flexibility, and design"
+  year: 2014
+  ref: Journal of Molecular Evolution (JME) 79:130–142
+  doi: 10.1007/s00239-014-9644-x
+  pdf: ../pubs/Shahmoradi_2014.pdf
+  nasa: http://adsabs.harvard.edu/abs/2014arXiv1404.7511S
+  arxiv: http://arxiv.org/abs/1404.7511 
+  pmcid: PMC4216736
+  biorxiv: http://www.biorxiv.org/content/early/2014/07/21/004481.abstract
+  googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:TIZ-Mc8IlK0C
+
+- author: <b>A. Shahmoradi</b>
+  title: Gamma-Ray bursts: Energetics and Prompt Correlations
+  year: 2014
+  ref: Stanford Conference Proceedings, C1304143, paper 14
+  doi: 10.1126/science.aaa0769
+  pdf: ../pubs/Shahmoradi_2013b.pdf
+  nasa: http://adsabs.harvard.edu/abs/2013arXiv1308.1097S
+  arxiv: http://arxiv.org/abs/1308.1097
+
+- author: <b>A. Shahmoradi</b>
+  title: A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts
+  year: 2013
+  ref: The Astophysical Journal (ApJ) 766:111-133
+  doi: 10.1088/0004-637X/766/2/111
+  pdf: ../pubs/Shahmoradi_2013a.pdf
+  nasa: http://adsabs.harvard.edu/abs/2013ApJ...766..111S
+  arxiv: http://arxiv.org/abs/1209.4647
+  googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:Tyk-4Ss8FVUC
+  
+- author: <b>A. Shahmoradi</b>, R. J. Nemiroff  
+  title: The possible impact of gamma-ray burst detector thresholds on cosmological standard candles
+  year: 2011
+  ref: Monthly Notices of the Royal Astronomical Society (MNRAS) 411:1843-1856
+  doi: 10.1111/j.1365-2966.2010.17805.x
+  pdf: ../pubs/Shahmoradi_2011.pdf
+  nasa: http://adsabs.harvard.edu/abs/2011MNRAS.411.1843S
+  arxiv: http://arxiv.org/abs/0904.1464
+  googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:ILKRHgRFtOwC
+  
+- author: <b>A. Shahmoradi</b>, R. J. Nemiroff  
+  title: Hardness as a spectral peak estimator for gamma-ray bursts
+  year: 2010
+  ref: Monthly Notices of the Royal Astronomical Society (MNRAS) 407:2075-2090
+  doi: 10.1111/j.1365-2966.2010.16793.x
+  pdf: ../pubs/Shahmoradi_2010.pdf
+  nasa: http://adsabs.harvard.edu/abs/2010MNRAS.407.2075S
+  arxiv: http://arxiv.org/abs/0912.2148
+  googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:u-x6o8ySG0sC
+  
+- author: <b>A. Shahmoradi</b>, R. J. Nemiroff  
+  title: How Real detector thresholds create false standard candles
+  year: 2009
+  ref: American Institute of Physics (AIP) Conference Proceedings 1133:425-427
+  doi: 10.1063/1.3155940
+  pdf: ../pubs/Shahmoradi_2009b.pdf
+  nasa: http://adsabs.harvard.edu/abs/2009AIPC.1133..425S
+  googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:2osOgNQ5qMEC
+
+- author: R. J. Nemiroff, <b>A. Shahmoradi</b>
+  title: What Causes GRB Time Dilation?
+  year: 2009
+  ref: American Institute of Physics (AIP) Conference Proceedings 1133:323-327
+  doi: 10.1063/1.3155911
+  pdf: ../pubs/Shahmoradi_2009a.pdf
+  nasa: http://adsabs.harvard.edu/abs/2009AIPC.1133..323N
+  googles: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CEqJI2wAAAAJ&citation_for_view=CEqJI2wAAAAJ:d1gkVwhDpl0C
+
+- author: <b>A. Shahmoradi</b>, Mahmoud Bahmanabadi, Jalal Samimi
+  title: On the Muon Content of Gamma-Ray-Initiated Extensive Air Showers
+  year: 2007
+  ref: Proceedings of the 11<sup>th</sup> National Conference on Astronomical Research
+  doi: 10.1063/1.3155911
+  pdf: ../pubs/Shahmoradi_2007_AstroProc11.pdf
