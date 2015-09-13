@@ -70,10 +70,10 @@ link-years:
         {% endif %}
 
         {% if pub.doi %}
-        <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div>
+          <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div> ( doi )
         {% endif %}
         {% if pub.arxiv %}
-        <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div>
+          <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div> ( arXiv )
         {% endif %}
       </li>
     {% endfor %}
