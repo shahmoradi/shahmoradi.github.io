@@ -38,7 +38,9 @@ link-years:
       <li>
         {{ count | minus: forloop.index0 }}. 
         {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. <b>{{ pub.ref }}</b>.<br/>
-        Links:&nbsp;&nbsp;
+        {% if pub.pdf || pub.nasa || pub.googles || pub.arxiv || pub.biorxiv %}
+          Links:&nbsp;&nbsp;
+        {% endif %}
         {% if pub.pdf %}
           <!-- Download: <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp; <br/> -->
           <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp;
