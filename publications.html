@@ -39,6 +39,7 @@ link-years:
         {{ count | minus: forloop.index0 }}. 
         {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. <b>{{ pub.ref }}</b>.<br/>
         {% if pub.pdf || pub.nasa || pub.googles || pub.arxiv || pub.biorxiv %}
+        
           Links:&nbsp;&nbsp;
           {% if pub.pdf %}
             <!-- Download: <a target="_blank" href="{{ pub.nasa }}">PDF</a>&nbsp;&nbsp; <br/> -->
@@ -60,6 +61,7 @@ link-years:
             <a target="_blank" href="{{ pub.biorxiv }}">bioRxiv</a>&nbsp;&nbsp;
           {% endif %}
         {% endif %}<br/>
+        
         {% if pub.doi %}
           doi: <a target="_blank" href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; <br/>
         {% endif %}
