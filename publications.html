@@ -28,7 +28,7 @@ link-years:
   {% assign count = site.data.publications.size %}
   
   <ul class="pub-list">
-    <br>
+
     {% assign year = "0000" %}
     {% for pub in site.data.publications %}
       {% if year != pub.year %}
@@ -76,7 +76,7 @@ link-years:
         {% if pub.doi %}
           <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-arxiv-id="{{pub.arxiv}}" data-hide-no-mentions="false" class="altmetric-embed" data-link-target="_blank" data-hide-less-than="0"></div> (doi)
         {% endif %}
-        <br>
+
       </li>
     {% endfor %}
   </ul>
