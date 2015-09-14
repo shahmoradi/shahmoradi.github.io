@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+
+  <title>SDS 348, Spring 2015</title>
+  <meta name="description" content="ICES Fellow <br> Institute for Computational Engineering and Sciences <br> 201 E 24th Street | POB 6.328 <br> Austin, TX 78712 <br>
+">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="/classes/SDS348_spring_2015.html">
+  
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+  <script type="text/javascript">
+    function sticky_relocate() {
+      var window_top = $(window).scrollTop();
+      var div_top = $('#content-anchor').offset().top;
+      if (window_top > div_top) {
+        $('#sticky').addClass('stick');
+        $('#sticky-phantom').show();
+      } else {
+        $('#sticky').removeClass('stick');
+        $('#sticky-phantom').hide();
+      }
+    }
+
+    $(function () {
+      $(window).scroll(sticky_relocate);
+      sticky_relocate();
+    });
+    
+    $(window).load(function() {
+	    $(".loader").fadeOut( "medium" );
+    })
+  </script>
+
+</head>
+
+
+  <body>
+    
+    <div id="content-anchor"></div>
+<div id="sticky-phantom">
+  <header class="site-header">
+    <div class="wrapper"><a class="site-title" href="/">Amir Shahmoradi, PhD</a></div>
+  </header>
+</div>
+<div id="sticky">
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="/">Amir Shahmoradi, PhD</a>
+      <nav class="site-nav">
+         <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      
+        <div class="trigger">
+          <a class="page-link" href="/#about">About</a>
+          <a class="page-link" href="/research/">Research</a>
+          <a class="page-link" href="/teaching/">Teaching</a>
+          <a class="page-link" href="/publications/">Publications</a>
+          <a class="page-link" href="/people/">People</a>
+          <a class="page-link" href="/self/">Self</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+</div>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">SDS 348, Spring 2015</h1>
+  </header>
+
+  <article class="post-content">
+    <p>This is the home page for class SDS 348, Computational Biology and Bioinformatics. All relevant course materials will be posted here.</p>
+
+<p>Syllabus and schedule: <a href="/classes/SDS348/SDS348_syllabus_spring2015.pdf">SDS348_syllabus_spring2015.pdf</a></p>
+
+<h2 id="lectures">Lectures</h2>
+<p><strong>1. Jan 20, 2015 – Introduction</strong></p>
+
+<ul>
+  <li>Download R from here: <a href="http://cran.r-project.org/">http://cran.r-project.org/</a></li>
+  <li>Download RStudio from here: <a href="http://www.rstudio.com/products/rstudio/download/">http://www.rstudio.com/products/rstudio/download/</a></li>
+  <li>R Markdown basics: <a href="http://rmarkdown.rstudio.com/authoring_basics.html">http://rmarkdown.rstudio.com/authoring_basics.html</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class1.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class1.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class1_solutions.Rmd">Solutions, R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class1_solutions.html">Solutions, HTML</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>2. Jan 22, 2015 – R review, R Markdown</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class2.pdf">class2.pdf</a></li>
+  <li>Biostats supplement on regression modeling: <a href="/classes/SDS348/statistical_modeling.pdf">statistical_modeling.pdf</a></li>
+  <li>General R tutorial (fairly long and detailed): <a href="http://www.cyclismo.org/tutorial/R/index.html">http://www.cyclismo.org/tutorial/R/index.html</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class2.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class2.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class2_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>3. Jan 27, 2015 – Data visualization with ggplot2</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class3.pdf">class3.pdf</a></li>
+  <li>ggplot2 reference manual: <a href="http://docs.ggplot2.org/current/">http://docs.ggplot2.org/current/</a></li>
+  <li>ggplot2 video tutorial: <a href="http://varianceexplained.org/RData/lessons/lesson2/segment1/">http://varianceexplained.org/RData/lessons/lesson2/segment1/</a></li>
+  <li>ggplot2 materials on the Cookbook for R site: <a href="http://www.cookbook-r.com/Graphs/">http://www.cookbook-r.com/Graphs/</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class3.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class3.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class3_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>4. Jan 29, 2015 – Data visualization with ggplot2</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class4.pdf">class4.pdf</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class4.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class4.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class4_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>5. Feb 03, 2015 – Working with tidy data</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class5.pdf">class5.pdf</a></li>
+  <li>Tidy data paper by Wickham: <a href="http://www.jstatsoft.org/v59/i10/paper">J. Stat. Soft. 59:10, 2014</a></li>
+  <li>Introduction to dplyr: <a href="http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html">http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html</a></li>
+  <li>dplyr package on CRAN: <a href="http://cran.r-project.org/web/packages/dplyr/index.html">http://cran.r-project.org/web/packages/dplyr/index.html</a></li>
+  <li>dplyr video tutorial: <a href="http://rpubs.com/justmarkham/dplyr-tutorial">http://rpubs.com/justmarkham/dplyr-tutorial</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class5.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class5.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class5_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>6. Feb 05, 2015 – Working with tidy data</strong></p>
+
+<ul>
+  <li>Data-wrangling tutorial by Bradley Boehmke: <a href="http://rpubs.com/bradleyboehmke/data_wrangling">http://rpubs.com/bradleyboehmke/data_wrangling</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class6.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class6.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class6_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>7. Feb 10, 2015 – Working with tidy data</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class7.pdf">class7.pdf</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class7.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class7.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class7_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>8. Feb 12, 2015 – Rearranging data tables with tidyr</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class8.pdf">class8.pdf</a></li>
+  <li>tidyr vignette: <a href="http://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html">http://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class8.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class8.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class8_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>9. Feb 17, 2015 – Principal Components Analysis (PCA)</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class9.pdf">class9.pdf</a></li>
+  <li>Intro to PCA: <a href="http://setosa.io/ev/principal-component-analysis/">http://setosa.io/ev/principal-component-analysis/</a></li>
+  <li>PCA tutorial with mathematical background: <a href="http://arxiv.org/pdf/1404.1100.pdf">http://arxiv.org/pdf/1404.1100.pdf</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class9.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class9.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class9_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>10. Feb 19, 2015 – k-means clustering</strong></p>
+
+<ul>
+  <li>Interactive k-means demonstration: <a href="http://www.naftaliharris.com/blog/visualizing-k-means-clustering/">http://www.naftaliharris.com/blog/visualizing-k-means-clustering/</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class10.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class10.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class10_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>11. Feb 24, 2015 – Binary prediction/logistic regression</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class11.pdf">class11.pdf</a></li>
+  <li>Wikipedia page on logistic regression: <a href="http://en.wikipedia.org/wiki/Logistic_regression">http://en.wikipedia.org/wiki/Logistic_regression</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class11.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class11.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class11_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>12. Feb 26, 2015 – Sensitivity/Specificity, ROC curves</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class12.pdf">class12.pdf</a></li>
+  <li>Wikipedia page on sensitivity and specificity: <a href="http://en.wikipedia.org/wiki/Sensitivity_and_specificity">http://en.wikipedia.org/wiki/Sensitivity_and_specificity</a></li>
+  <li>Wikipedia page on ROC curves: <a href="http://en.wikipedia.org/wiki/Receiver_operating_characteristic">http://en.wikipedia.org/wiki/Receiver_operating_characteristic</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class12.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class12.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class12_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>13. Mar 3, 2015 – Training and test data sets, cross-validation</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class13.pdf">class13.pdf</a></li>
+  <li>Wikipedia page on cross-validation: <a href="http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29">here</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class13.Rmd">R Markdown</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class13.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class13_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>14. Mar 5, 2015 – Cancelled due to inclement weather</strong></p>
+
+<p><strong>15. Mar 10, 2015 – Installing and running python</strong></p>
+
+<ul>
+  <li>Download python from here: <a href="https://store.continuum.io/cshop/anaconda/">https://store.continuum.io/cshop/anaconda/</a></li>
+  <li>Official python tutorial: <a href="https://docs.python.org/2/tutorial/">https://docs.python.org/2/tutorial/</a></li>
+  <li>Many more tutorials are available by googling “python tutorial”</li>
+  <li>For Mac users: optional TextWrangler download from here: <a href="http://www.barebones.com/products/textwrangler/">http://www.barebones.com/products/textwrangler/</a></li>
+  <li>For Mac/PC/Linux users: optional SublimeText download from here: <a href="http://www.sublimetext.com/2">http://www.sublimetext.com/2</a></li>
+  <li>UT Biocomputing 2015 class materials: <a href="https://github.com/sjspielman/UTbiocomputing2015">https://github.com/sjspielman/UTbiocomputing2015</a></li>
+</ul>
+
+<p><strong>16. Mar 12, 2015 – Data structures in python</strong></p>
+
+<ul>
+  <li>Introduction to Python lesson plan: <a href="/classes/SDS348/2015_spring_slides/class15_python1.pdf">class15_python1.pdf</a></li>
+  <li>Data structures cheatsheet: <a href="/classes/SDS348/2015_spring_worksheets/python_datastructures.pdf">python_datastructures.pdf</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class16.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class16.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class16_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>17. Mar 24, 2015 – Control flow (if/for) in python</strong></p>
+
+<ul>
+  <li>Control flow lesson plan: <a href="/classes/SDS348/2015_spring_slides/class17_controlflow.html">class17_controlflow.html</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class17.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class17.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class17_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>18. Mar 26, 2015 – Functions in python</strong></p>
+
+<ul>
+  <li>Functions lesson plan: <a href="/classes/SDS348/2015_spring_slides/class18_functions.html">class18_functions.html</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class18.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class18.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class18_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>19. Mar 31, 2015 – Introduction to Biopython</strong></p>
+
+<ul>
+  <li>Biopython website: <a href="http://biopython.org">http://biopython.org</a></li>
+  <li>Official Biopython tutorial: <a href="http://biopython.org/DIST/docs/tutorial/Tutorial.html">http://biopython.org/DIST/docs/tutorial/Tutorial.html</a></li>
+  <li>NCBI Entrez/PubMed website: <a href="http://www.ncbi.nlm.nih.gov/pubmed">http://www.ncbi.nlm.nih.gov/pubmed</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class19.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class19.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class19_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>20. Apr. 2, 2015 – More Biopython, File Input/Output</strong></p>
+
+<ul>
+  <li>Introduction to file input/output: <a href="/classes/SDS348/2015_spring_slides/file_io.html">file_io.html</a></li>
+  <li>Tutorial on reading and writing files in python: <a href="http://www.pythonforbeginners.com/files/reading-and-writing-files-in-python">http://www.pythonforbeginners.com/files/reading-and-writing-files-in-python</a></li>
+  <li>Official python documentation on file operations: <a href="https://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files">https://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class20.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class20.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class20_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>21. Apr. 7, 2015 – Working with genomes</strong></p>
+
+<ul>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class21.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class21.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class21_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>22. Apr. 9, 2015 – Regular expressions</strong></p>
+
+<ul>
+  <li>Regular expression tutorial: <a href="https://developers.google.com/edu/python/regular-expressions">https://developers.google.com/edu/python/regular-expressions</a></li>
+  <li>Official python regular expression documentation: <a href="https://docs.python.org/2/howto/regex.html">https://docs.python.org/2/howto/regex.html</a></li>
+  <li>Regular expression cheatsheet: <a href="https://github.com/tartley/python-regex-cheatsheet/releases/download/v0.3.3/cheatsheet.pdf">cheatsheet.pdf</a></li>
+  <li>Python regular expression editor: <a href="http://pythex.org/">http://pythex.org/</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class22.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class22.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class22_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>23. Apr. 14, 2015 – Using regular expressions to analyze data</strong></p>
+
+<ul>
+  <li>E. coli genome: <a href="/classes/SDS348/2015_spring_worksheets/Ecoli_K12.gb">Ecoli_K12.gb</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class23.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class23.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class23_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>24. Apr. 16, 2015 – Aligning sequences</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class24.pdf">class24.pdf</a></li>
+  <li>In class exercise + solutions: <a href="/classes/SDS348/2015_spring_slides/class24_exercise+solution.pdf">class24_exercise+solution.pdf</a></li>
+  <li>Wikipedia page on Needleman–Wunsch algorithm: <a href="http://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm">http://en.wikipedia.org/wiki/Needleman–Wunsch_algorithm</a></li>
+  <li>Alignment software:
+    <ul>
+      <li><a href="http://mafft.cbrc.jp/alignment/software/">MAFFT</a></li>
+      <li><a href="http://www.clustal.org/omega/">Clustal Omega</a></li>
+      <li><a href="http://wasabiapp.org/software/prank/">PRANK</a></li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/wilkelab/therm_constraints_rate_variation/tree/master/empirical_rate_calculations/protein_alignments/mafft_alignments">Example alignments</a></li>
+</ul>
+
+<p><strong>25. Apr. 21, 2015 – Multiple sequence alignments and phylogenetic trees</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class25.pdf">class25.pdf</a></li>
+  <li>Phylogenetic tree inference algorithms:
+    <ul>
+      <li>Neighbor joining: <a href="http://en.wikipedia.org/wiki/Neighbor_joining">http://en.wikipedia.org/wiki/Neighbor_joining</a></li>
+      <li>Maximum parsimony, likelihood and others: <a href="http://en.wikipedia.org/wiki/Maximum_parsimony_(phylogenetics)">wikipedia article</a></li>
+      <li>Bayesian methods: <a href="http://en.wikipedia.org/wiki/Bayesian_inference_in_phylogeny">http://en.wikipedia.org/wiki/Bayesian_inference_in_phylogeny</a></li>
+    </ul>
+  </li>
+  <li>Web-sites and materials for in-class exercises:
+    <ul>
+      <li><a href="http://www.ebi.ac.uk/Tools/msa/clustalo/">Multiple sequence alignments</a></li>
+      <li><a href="http://www.ebi.ac.uk/Tools/sfc/readseq/">File-format converter</a></li>
+      <li><a href="http://www.trex.uqam.ca/">Phylogenetic-tree reconstruction</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class25_rhodopsin_aa.fasta">Mammalian rhodopsin sequences (FASTA format)</a></li>
+    </ul>
+  </li>
+  <li>Interpreting phylogenetic trees
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/tree_exercises.pdf">Practice worksheet</a> and <a href="/classes/SDS348/2015_spring_worksheets/tree_exercises_solutions.pdf">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>26. Apr. 23, 2015 – BLAST</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class26.pdf">class26.pdf</a></li>
+  <li>NCBI BLAST search: <a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">http://blast.ncbi.nlm.nih.gov/Blast.cgi</a></li>
+  <li>Wikipedia page: <a href="http://en.wikipedia.org/wiki/BLAST">http://en.wikipedia.org/wiki/BLAST</a></li>
+  <li>Biopython BLAST documentation: <a href="http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc84">http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc84</a></li>
+  <li>In-class worksheet:
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class26.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class26.html">HTML</a></li>
+      <li><a href="/classes/SDS348/2015_spring_worksheets/class26_solutions.html">Solutions</a></li>
+      <li>Example BLAST results: <a href="/classes/SDS348/2015_spring_worksheets/Machupo_BLAST.xml">Machupo_BLAST.xml</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>27. Apr. 28, 2015 – Working with protein structures</strong></p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class27.pdf">class27.pdf</a></li>
+  <li>Protein data bank: <a href="http://www.rcsb.org/">http://www.rcsb.org/</a></li>
+  <li>PyMOL tutorial: <a href="http://www.pymolwiki.org/index.php/Practical_Pymol_for_Beginners">here</a></li>
+</ul>
+
+<p><strong>28. Apr. 30, 2015 – PDB’s, protein structure, and dynamics</strong></p>
+
+<p>Guest lecture by Austin Meyer</p>
+
+<ul>
+  <li>Slides: <a href="/classes/SDS348/2015_spring_slides/class28.pdf">class28.pdf</a></li>
+</ul>
+
+<p><strong>29. May 5, 2015 – Epidemiology</strong></p>
+
+<p>Guest lecture by Steve Bellan</p>
+
+<ul>
+  <li>Slides: <a href="class29_Bellan_Intro_to_Dis_Epi.pdf">class29_Bellan_Intro_to_Dis_Epi.pdf</a></li>
+</ul>
+
+<p><strong>30. May 7, 2015</strong></p>
+
+<p>Guest lecture by Howard Ochman</p>
+
+<h2 id="homeworks">Homeworks</h2>
+<ul>
+  <li>Homework 1: <a href="/classes/SDS348/2015_spring_homeworks/HW1.Rmd">HW1.Rmd</a> (due Jan 27, 2015) <a href="/classes/SDS348/2015_spring_homeworks/HW1-solution.html">Answer Key</a></li>
+  <li>Homework 2: <a href="/classes/SDS348/2015_spring_homeworks/HW2.Rmd">HW2.Rmd</a> (due Feb 3, 2015) <a href="/classes/SDS348/2015_spring_homeworks/HW2-solution.html">Answer Key</a></li>
+  <li>Homework 3: <a href="/classes/SDS348/2015_spring_homeworks/HW3.Rmd">HW3.Rmd</a> (due Feb 10, 2015) <a href="/classes/SDS348/2015_spring_homeworks/HW3-solution.html">Answer Key</a></li>
+  <li>Homework 4: <a href="/classes/SDS348/2015_spring_homeworks/HW4.Rmd">HW4.Rmd</a> (due Feb 17, 2015) <a href="/classes/SDS348/2015_spring_homeworks/HW4-solution.html">Answer Key</a></li>
+  <li>Homework 5: <a href="/classes/SDS348/2015_spring_homeworks/HW5.Rmd">HW5.Rmd</a> (due Mar 3, 2015)  <a href="/classes/SDS348/2015_spring_homeworks/HW5-solution.html">Answer Key</a></li>
+  <li>Homework 6: <a href="/classes/SDS348/2015_spring_homeworks/HW6.Rmd">HW6.Rmd</a> (due Mar 10, 2015) <a href="/classes/SDS348/2015_spring_homeworks/HW6-solution.html">Answer Key</a></li>
+  <li>Homework 7: <a href="/classes/SDS348/2015_spring_homeworks/HW7.ipynb">HW7.ipynb</a> 
+<a href="/classes/SDS348/2015_spring_homeworks/HW7.html">HW7.html</a> (due <strong>Thursday Mar 26</strong>, 2015)  <a href="/classes/SDS348/2015_spring_homeworks/HW7-solutions.html">Answer Key</a></li>
+  <li>Homework 8: <a href="/classes/SDS348/2015_spring_homeworks/HW8.ipynb">HW8.ipynb</a> <a href="/classes/SDS348/2015_spring_homeworks/HW8.html">HW8.html</a> (due Apr 7, 2015) <a href="/classes/SDS348/2015_spring_homeworks/HW8-solutions.html">Answer Key</a></li>
+  <li>Homework 9: <a href="/classes/SDS348/2015_spring_homeworks/HW9.pdf">HW9.pdf</a> (due Apr 14, 2015)</li>
+  <li>Homework 10: <a href="/classes/SDS348/2015_spring_homeworks/HW10.ipynb">HW10.ipynb</a> 
+<a href="/classes/SDS348/2015_spring_homeworks/HW10.html">HW10.html</a> (due Apr 21, 2015) <a href="/classes/SDS348/2015_spring_homeworks/HW10-solutions.html">Answer Key</a></li>
+  <li>Homework 11:
+<a href="/classes/SDS348/2015_spring_homeworks/HW11.pdf">HW11.pdf</a> (due Apr 28, 2015)<br />
+Sequence data: <a href="/classes/SDS348/2015_spring_homeworks/cxcr4_aa.fasta">cxcr4_aa.fasta</a><br />
+NJ tree: <a href="/classes/SDS348/2015_spring_homeworks/NJ_tree.pdf">NJ_tree.pdf</a></li>
+</ul>
+
+<h2 id="projects">Projects</h2>
+<ul>
+  <li>Project 1: <a href="/classes/SDS348/2015_spring_projects/project1/Project1-updated.Rmd">Project1.Rmd</a> (due Feb 24, 2015)</li>
+  <li>Project 2: <a href="/classes/SDS348/2015_spring_projects/project2/Project2.rmd">Project2.Rmd</a>         (due Mar 31, 2015)
+    <ul>
+      <li>Project 2 Clarifications:
+        <ul>
+          <li>Regarding ROC curves for part 1: you should make a single plot containing two ROC curves. Both ROC curves should assess performance of the final, selected model. One of the curves should be made from the training data, and the other should be made from the test data.</li>
+          <li>Hint for making the logistic curve in part 1 - you will need to use the <code>predict()</code> (Class 11!) function!
+            <ul>
+              <li>The general code <code>predict(model, data, type = "response")</code> will return an array of the <strong>fitted values</strong> (probabilities) from the given model fit to the given data.</li>
+              <li>The general code <code>predict(model, data)</code> will return an array of the <strong>linear predictors</strong> from the given model fit to the given data.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Project 3: <a href="/classes/SDS348/2015_spring_projects/project3/project3_instructions.pdf">Project3.pdf</a>         (due May7, 2015)
+    <ul>
+      <li>Link to a list of datasets in R and R packages: <a href="http://vincentarelbundock.github.io/Rdatasets/datasets.html">http://vincentarelbundock.github.io/Rdatasets/datasets.html</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="discussion-sections">Discussion sections</h2>
+
+<p><strong>Jan. 21, 2015</strong></p>
+
+<ul>
+  <li><a href="/classes/SDS348/2015_spring_discussions/Discussion1.html">Discussion 1: R and Biostatistics Review</a></li>
+  <li><a href="http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf">R colors PDF</a></li>
+</ul>
+
+<p><strong>Jan. 28, 2015</strong></p>
+
+<ul>
+  <li><a href="/classes/SDS348/2015_spring_discussions/Discussion2.html">Discussion 2: Introduction to ggplot2</a></li>
+</ul>
+
+<p><strong>March 11, 2015</strong></p>
+
+<ul>
+  <li>Python 1: working with python data structures. <a href="/classes/SDS348/2015_spring_discussions/Python1.html">here</a></li>
+</ul>
+
+<p><strong>April 1, 2015</strong></p>
+
+<ul>
+  <li>Debugging python and fetching records from NCBI.
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_discussions/discussion_4.1.15.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_discussions/discussion_4.1.15.html">HTML format</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>April 8, 2015</strong></p>
+
+<ul>
+  <li>Creating csv files from python (which can be input into R!)
+    <ul>
+      <li><a href="/classes/SDS348/2015_spring_discussions/discussion_4.8.15.ipynb">iPython Notebook</a></li>
+      <li><a href="/classes/SDS348/2015_spring_discussions/discussion_4.8.15.html">HTML format</a></li>
+      <li><a href="/classes/SDS348/2015_spring_discussions/pb2_human.fasta">Sequence file for processing</a></li>
+      <li><a href="/classes/SDS348/2015_spring_discussions/discussion_4.8.15_solutions.html">Solutions</a></li>
+    </ul>
+  </li>
+</ul>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Amir Shahmoradi, PhD</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>The University of Texas at Austin</li>
+          <li><a href="mailto:amir@physics.utexas.edu">amir@physics.utexas.edu</a></li>
+          <li><a href="mailto:shahmoradi@utexas.edu">shahmoradi@utexas.edu</a></li>
+          <li><a href="mailto:amir@ices.utexas.edu">amir@ices.utexas.edu</a></li>
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+        
+        
+          
+          
+          
+          <li>
+            <a href="https://instagram.com/a.shahmoradi">
+              <span class="icon  icon--instagram">
+                <svg viewBox="0 0 510 510">
+                  <path fill="#828282" d="M459,0H51C22.95,0,0,22.95,0,51v408c0,28.05,22.95,51,51,51h408c28.05,0,51-22.95,51-51V51C510,22.95,487.05,0,459,0z
+			 M255,153c56.1,0,102,45.9,102,102c0,56.1-45.9,102-102,102c-56.1,0-102-45.9-102-102C153,198.9,198.9,153,255,153z M63.75,459
+			C56.1,459,51,453.9,51,446.25V229.5h53.55C102,237.15,102,247.35,102,255c0,84.15,68.85,153,153,153c84.15,0,153-68.85,153-153
+			c0-7.65,0-17.85-2.55-25.5H459v216.75c0,7.65-5.1,12.75-12.75,12.75H63.75z M459,114.75c0,7.65-5.1,12.75-12.75,12.75h-51
+			c-7.65,0-12.75-5.1-12.75-12.75v-51c0-7.65,5.1-12.75,12.75-12.75h51C453.9,51,459,56.1,459,63.75V114.75z"/>
+                </svg>
+              </span>
+
+              <span class="username">Instagram</span>
+            </a>
+          </li>
+          
+
+          
+          
+          <li>
+            <a href="https://linkedin.com/in/shahmoradi">
+              <span class="icon  icon--linkedin">
+                <svg viewBox="0 0 512 512"><path d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z"/></svg>
+              </span>
+
+              <span class="username">LinkedIn</span>
+            </a>
+          </li>
+          
+
+          
+          
+          <li>
+            <a href="https://twitter.com/AmirShahmoradi">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">Twitter</span>
+            </a>
+          </li>
+          
+
+          
+          
+          <li>
+            <a href="https://github.com/shahmoradi">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">GitHub</span>
+            </a>
+          </li>
+          
+
+          
+          
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">ICES Fellow <br> Institute for Computational Engineering and Sciences <br> 201 E 24th Street | POB 6.328 <br> Austin, TX 78712 <br>
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+  
+  <!-- Start of Google Analytics Code for Default Guide -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-67460905-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <!-- End of Google Analytics Code for Default Guide -->
+   
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+    var sc_project=10611821; 
+    var sc_invisible=1; 
+    var sc_security="902e4bb4"; 
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost+
+    "statcounter.com/counter/counter.js'></"+"script>");
+    </script>
+    <noscript><div class="statcounter"><a title="shopify visitor
+    statistics" href="http://statcounter.com/shopify/"
+    target="_blank"><img class="statcounter"
+    src="http://c.statcounter.com/10611821/0/902e4bb4/0/"
+    alt="shopify visitor statistics"></a></div></noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+  
+  </body>
+
+</html>
