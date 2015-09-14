@@ -2,6 +2,10 @@
 layout: post
 title:  "What Every Scientist Needs to Know"
 date:   2014-12-01 00:00:01
+tags:
+- research
+- teaching
+- ideas
 ---
 <b> Reference: </b><br>
   --  <a href="http://beacon-center.org/blog/2014/12/01/beacon-researchers-at-work-what-every-scientist-needs-to-know/" target="_blank">BEACON Researchers at Work: What Every Scientist Needs to Know</a><br>
