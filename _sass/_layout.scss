@@ -444,7 +444,8 @@ a.anchor {
   /* background: #fff; */
   background: $background-color;
   border-bottom: 13px solid transparent;
-  border-left: 10px solid #eee;
+  /* border-left: 10px solid #eee; */
+  border-left: 10px solid $background-color;
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
