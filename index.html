@@ -12,8 +12,8 @@ layout: cover
   <ul class="post-list">
     {% for item in site.posts limit:4 %}
       <li>
-        <span class="post-meta">{{ item.tags }}</span>
         <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+        <span class="tag">{{ item.tags }}</span>
 
         <h2>
           {{ item.title }}
