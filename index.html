@@ -12,14 +12,15 @@ layout: cover
   <ul class="post-list">
     {% for item in site.posts limit:4 %}
       <li>
-        <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;Tags:&nbsp;</span>
+        <h2>
+          {{ item.title }}
+        </h2>
+
+        <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}&nbsp;&nbsp; • &nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;</span>
         {% for tag in item.tags %}
           <span class="tag">{{ tag }}&nbsp;&nbsp;</span>
         {% endfor %}
 
-        <h2>
-          {{ item.title }}
-        </h2>
         {{ item.content }}
       </li>
     {% endfor %}
