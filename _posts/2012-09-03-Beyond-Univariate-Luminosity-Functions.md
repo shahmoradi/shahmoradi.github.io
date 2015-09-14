@@ -2,6 +2,9 @@
 layout: post
 title:  "Beyond Univariate Luminosity Functions for Long Gamma-Ray Bursts"
 date:   2012-09-03 00:00:01
+tags:
+- research
+- astrophysics
 ---
 
 <b> Reference: </b><br>

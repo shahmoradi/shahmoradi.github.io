@@ -2,6 +2,9 @@
 layout: post
 title:  "Hardness as a proxy for the spectral peak energy of Gamma-Ray Bursts"
 date:   2010-04-07 00:00:01
+tags:
+- research
+- astrophysics
 ---
 
 <b> Reference: </b><br>

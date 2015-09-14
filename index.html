@@ -17,10 +17,10 @@ layout: cover
         <h2>
           {{ item.title }}
         </h2>
+        {{ item.content }}
         {% for tag in item.tags %}
           <span class="tag">{{ tag }}&nbsp;&nbsp;</span>
         {% endfor %}
-        {{ item.content }}
       </li>
     {% endfor %}
   </ul>

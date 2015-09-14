@@ -2,6 +2,10 @@
 layout: post
 title:  "Human Perception and Instrumental Bias"
 date:   2010-10-04 00:00:01
+tags:
+- research
+- astrophysics
+- cognitive&nbsp;science
 ---
 
 <b> References: </b><br>
