@@ -397,6 +397,38 @@ a.anchor {
     font-size: 24px;
 }
 
+/* **************************************** */
+/* Start of the the style for the post tags */
+/* **************************************** */
+
+.posttags
+{
+	list-style:none;
+}
+
+.posttags li 
+{
+	background:#eee;
+	border-radius: 0 20px 20px 0;
+	display: block;
+	height:24px;
+	line-height: 24px;
+	margin: 1em 0.7em;
+	padding:5px 5px 5px 20px;
+	position: relative;
+	text-align: left;
+	width:124px;
+}
+.posttags li a
+{
+	color: #56a3d5;
+	display: block;
+}
+
+/* ************************************** */
+/* End of the the style for the post tags */
+/* ************************************** */
+
 /**
  * Publication list
  */
