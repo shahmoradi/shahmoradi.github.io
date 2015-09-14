@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <b>"What Every Scientist Needs to Know"</b>
+title:  "What Every Scientist Needs to Know"
 date:   2014-12-01 00:00:01
 ---
 <b> Reference: </b><br>
