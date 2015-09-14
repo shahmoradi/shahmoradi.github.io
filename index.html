@@ -19,7 +19,7 @@ layout: cover
         <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}&nbsp;&nbsp; • &nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;</span>
         {% for tag in item.tags %}
           <span class="tag">{{ tag }}&nbsp;</span>
-        {% endfor %}<br>
+        {% endfor %}<br><br>
 
         {{ item.content }}
       </li>
