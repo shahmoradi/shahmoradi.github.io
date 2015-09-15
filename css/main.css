@@ -532,8 +532,9 @@ a.anchor {
  */
 .pub-list {
   margin-left: 0;
-  list-style: none;
-  /* text-align: justify; */ }
+  list-style: none; }
+  .pub-list h2 {
+    text-align: justify; }
   .pub-list > li {
     /* margin-bottom: $spacing-unit / 2; */
     margin-bottom: 15px; }
