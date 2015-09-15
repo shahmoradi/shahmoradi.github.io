@@ -456,6 +456,8 @@ a.anchor {
   margin-left: 0;
   list-style: none;
   text-align: justify; }
+  .post-list h2 {
+    font-weight: bold; }
   .post-list > li {
     margin-bottom: 30px; }
 
