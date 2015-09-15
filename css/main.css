@@ -558,7 +558,7 @@ a.anchor {
   font-size: 36px;
   letter-spacing: -1px;
   line-height: 1;
-  text-align: justify; }
+  /* text-align: justify; */ }
   @media screen and (max-width: 900px) {
     .post-title {
       font-size: 36px; } }
