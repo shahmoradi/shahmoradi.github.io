@@ -552,7 +552,7 @@ a.anchor {
 .post-header {
   margin-bottom: 30px;
   font-weight: bold;
-  text-align: justify; }
+  /* text-align: justify; */ }
 
 .post-title {
   font-size: 36px;
