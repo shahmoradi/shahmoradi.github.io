@@ -474,10 +474,12 @@ a.anchor {
   list-style: none;
   margin: 0;
   overflow: hidden;
-  padding: 0; }
+  padding: 0;
+  text-decoration: none; }
 
 .tags li {
-  float: left; }
+  float: left;
+  text-decoration: none; }
 
 .tag {
   /* background: #eee; */
@@ -491,7 +493,8 @@ a.anchor {
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
-  -webkit-transition: color 0.2s; }
+  -webkit-transition: color 0.2s;
+  text-decoration: none; }
 
 .tag::before {
   /* background: #fff; */
@@ -503,7 +506,8 @@ a.anchor {
   left: 10px;
   position: absolute;
   width: 6px;
-  top: 10px; }
+  top: 10px;
+  text-decoration: none; }
 
 .tag::after {
   /* background: #fff; */
@@ -515,14 +519,17 @@ a.anchor {
   content: '';
   position: absolute;
   right: 0;
-  top: 0; }
+  top: 0;
+  text-decoration: none; }
 
 .tag:hover {
   background-color: crimson;
-  color: white; }
+  color: white;
+  text-decoration: none; }
 
 .tag:hover::after {
-  border-left-color: crimson; }
+  border-left-color: crimson;
+  text-decoration: none; }
 
 /* ************************************** */
 /* End of the the style for the post tags */
