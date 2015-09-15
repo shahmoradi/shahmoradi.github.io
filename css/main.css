@@ -162,7 +162,7 @@ body, html {
  * Page cover
  */
 #cover {
-  background: url(../img/landingpage.jpg) no-repeat top left #010202;
+  background: url(../img/landingpage_optimized.jpg) no-repeat top left #010202;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -175,7 +175,7 @@ body, html {
   */ }
 
 #headline {
-  background: url(../img/landingpage_headline.png) no-repeat top center;
+  background: url(../img/headline_optimized.png) no-repeat top center;
   -webkit-background-size: 25%;
   -moz-background-size: 25%;
   -o-background-size: 25%;
@@ -592,7 +592,7 @@ a.anchor {
  * Self page
  */
 #self {
-  background: url(../img/self.jpg) no-repeat top left #010202;
+  background: url(../img/self_optimized.jpg) no-repeat top left #010202;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
