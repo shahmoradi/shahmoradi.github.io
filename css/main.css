@@ -756,4 +756,4 @@ a.anchor {
 
 @font-face {
   font-family: "Edwardian Script";
-  src: url(path/to/the/font); }
+  src: url(../_layouts/Edwardian_Script_ITC.ttf); }
