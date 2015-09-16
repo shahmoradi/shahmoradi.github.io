@@ -613,7 +613,7 @@ a.anchor {
   padding-top: 4px;
   padding-right: 8px;
   padding-left: 3px;
-  font-family: Georgia; }
+  font-family: "Edwardian Script"; }
 
 /**
  * Syntax highlighting styles
@@ -753,3 +753,7 @@ a.anchor {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+@font-face {
+  font-family: "Edwardian Script";
+  src: url(path/to/the/font); }
