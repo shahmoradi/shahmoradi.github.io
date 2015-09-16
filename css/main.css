@@ -604,19 +604,6 @@ a.anchor {
   background-size: cover;
   */ }
 
-#research {
-  /* background: url(../img/self_optimized.jpg) no-repeat top left rgb(1,2,2); */
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100%;
-  /*
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  */ }
-
 /**
  * Syntax highlighting styles
  */
