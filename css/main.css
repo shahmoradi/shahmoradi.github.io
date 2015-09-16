@@ -613,7 +613,7 @@ a.anchor {
   padding-top: 4px;
   padding-right: 8px;
   padding-left: 3px;
-  font-family: "Edwardian Script"; }
+  font-family: "Edwardian Script ITC"; }
 
 /**
  * Syntax highlighting styles
@@ -753,7 +753,3 @@ a.anchor {
     color: #008080; }
   .highlight .il {
     color: #099; }
-
-@font-face {
-  font-family: "Edwardian Script";
-  src: url(../_layouts/Edwardian_Script_ITC.ttf); }
