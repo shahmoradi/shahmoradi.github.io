@@ -604,6 +604,17 @@ a.anchor {
   background-size: cover;
   */ }
 
+.firstcharacter {
+  float: left;
+  /* color: #903; */
+  color: #ffef99;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: Georgia; }
+
 /**
  * Syntax highlighting styles
  */
