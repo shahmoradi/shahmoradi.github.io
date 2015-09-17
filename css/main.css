@@ -635,51 +635,17 @@ a.anchor {
 
 /* End of fluid video embedding aspect ratio */
 /* The following are needed for fluid three-column equal height layout */
-/* Start of Column CSS */
-#container3 {
-  clear: left;
-  float: left;
+.container {
+  width: 100%; }
+
+.column {
+  width: 33.33333333%;
+  float: left; }
+
+.column img {
   width: 100%;
-  overflow: hidden;
-  /* background:#89ffa2; column 3 background colour */ }
+  height: auto; }
 
-#container2 {
-  clear: left;
-  float: left;
-  width: 100%;
-  position: relative;
-  right: 33.333%;
-  /* background:#ffa7a7; column 2 background colour */ }
-
-#container1 {
-  float: left;
-  width: 100%;
-  position: relative;
-  right: 33.33%;
-  /* background:#fff689; column 1 background colour */ }
-
-#col1 {
-  float: left;
-  width: 29.33%;
-  position: relative;
-  left: 68.67%;
-  overflow: hidden; }
-
-#col2 {
-  float: left;
-  width: 29.33%;
-  position: relative;
-  left: 72.67%;
-  overflow: hidden; }
-
-#col3 {
-  float: left;
-  width: 29.33%;
-  position: relative;
-  left: 76.67%;
-  overflow: hidden; }
-
-/* --> */
 /**
  * Syntax highlighting styles
  */
