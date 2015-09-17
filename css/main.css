@@ -636,7 +636,12 @@ a.anchor {
 /* End of fluid video embedding aspect ratio */
 /* The following are needed for fluid three-column equal height layout */
 .container {
-  width: 100%; }
+  width: 100%;
+  font-weight: normal;
+  text-align: center;
+  align-content: center;
+  text-justify: newspaper;
+  text-kashida-space: 50%; }
 
 .column {
   width: 33.33333333%;
