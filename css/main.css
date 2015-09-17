@@ -644,7 +644,8 @@ a.anchor {
   width: 100%;
   /* width of whole page */
   /* overflow:hidden; */
-  /* This chops off any overhanging divs */ }
+  /* This chops off any overhanging divs */
+  word-wrap: break-word; }
 
 /* common column settings */
 .colright,
@@ -663,28 +664,27 @@ a.anchor {
   padding: 0 0 1em 0;
                   	/* no left and right padding on columns, we just make them narrower instead 
 				only padding top and bottom is included here, make it whatever value you need */
-  /* overflow:hidden; */ }
+  /* overflow:hidden; */
+  word-wrap: break-word; }
 
 /* 3 Column settings */
 .threecol {
   /* background:#eee;	*/
   /* right column background colour */
   background: #000000;
-  align: center; }
+  align-content: center; }
 
 .threecol .colmid {
   right: 25%;
   /* width of the right column */
   /* background:#fff;	*/
-  /* center column background colour */
-  background: #000000; }
+  /* center column background colour */ }
 
 .threecol .colleft {
   right: 50%;
   /* width of the middle column */
   /*background:#f4f4f4; */
-  /* left column background colour */
-  background: #000000; }
+  /* left column background colour */ }
 
 .threecol .col1 {
   width: 46%;
