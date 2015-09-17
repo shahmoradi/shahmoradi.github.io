@@ -667,20 +667,23 @@ a.anchor {
 
 /* 3 Column settings */
 .threecol {
-  background: #eee;
-  /* right column background colour */ }
+  /* background:#eee;	*/
+  /* right column background colour */
+  background: #000000; }
 
 .threecol .colmid {
   right: 25%;
   /* width of the right column */
-  background: #fff;
-  /* center column background colour */ }
+  /* background:#fff;	*/
+  /* center column background colour */
+  background: #000000; }
 
 .threecol .colleft {
   right: 50%;
   /* width of the middle column */
-  background: #f4f4f4;
-  /* left column background colour */ }
+  /*background:#f4f4f4; */
+  /* left column background colour */
+  background: #000000; }
 
 .threecol .col1 {
   width: 46%;
