@@ -634,6 +634,21 @@ a.anchor {
   height: 100%; }
 
 /* End of fluid video embedding aspect ratio */
+/* The following are needed for fluid three column layout */
+.colwrapper {
+  width: 100%; }
+
+.ltcol, .ctcol, .rtcol {
+  width: 33%;
+  margin: 0 0px;
+  padding: 10px; }
+
+.ltcol, .ctcol {
+  float: left; }
+
+.rtcol {
+  float: right; }
+
 /**
  * Syntax highlighting styles
  */
