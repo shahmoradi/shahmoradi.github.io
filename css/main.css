@@ -635,15 +635,9 @@ a.anchor {
 
 /* End of fluid video embedding aspect ratio */
 /* The following are needed for fluid three-column equal height layout */
-.container {
-  width: 100%; }
-
-.column {
+.threecolumn {
   width: 33.33333333%;
   float: left; }
-
-.column img {
-  width: 150; }
 
 /**
  * Syntax highlighting styles
