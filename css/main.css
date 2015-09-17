@@ -639,9 +639,7 @@ a.anchor {
   width: 100%; }
 
 .ltcol, .ctcol, .rtcol {
-  width: 33%;
-  margin: 0 0px;
-  padding: 10px; }
+  width: 30%; }
 
 .ltcol, .ctcol {
   float: left; }
