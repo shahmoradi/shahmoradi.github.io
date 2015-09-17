@@ -687,19 +687,19 @@ a.anchor {
   /* left column background colour */ }
 
 .threecol .col1 {
-  width: 46%;
+  width: 32%;
   /* width of center column content (column width minus padding on either side) */
   left: 102%;
   /* 100% plus left padding of center column */ }
 
 .threecol .col2 {
-  width: 21%;
+  width: 31%;
   /* Width of left column content (column width minus padding on either side) */
   left: 31%;
   /* width of (right column) plus (center column left and right padding) plus (left column left padding) */ }
 
 .threecol .col3 {
-  width: 21%;
+  width: 31%;
   /* Width of right column content (column width minus padding on either side) */
   left: 85%;
          			/* Please make note of the brackets here:
