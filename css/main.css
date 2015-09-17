@@ -636,7 +636,7 @@ a.anchor {
 /* End of fluid video embedding aspect ratio */
 /* The following are needed for fluid three column layout */
 .colwrapper {
-  width: 100%; }
+  width: 900%; }
 
 .ltcol, .ctcol, .rtcol {
   width: 300px;
