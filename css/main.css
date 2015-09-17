@@ -669,7 +669,8 @@ a.anchor {
 .threecol {
   /* background:#eee;	*/
   /* right column background colour */
-  background: #000000; }
+  background: #000000;
+  align: center; }
 
 .threecol .colmid {
   right: 25%;
