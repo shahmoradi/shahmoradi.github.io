@@ -644,11 +644,12 @@ a.anchor {
   text-kashida-space: 50%;
   margin-bottom: 40px; }
 
-.column {
+.three-column {
   width: 33.33333333%;
   float: left;
   word-wrap: break-word;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+  display: block; }
 
 /**
  * Syntax highlighting styles
