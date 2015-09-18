@@ -2,6 +2,42 @@
 <html>
    
   <head>
+  <!-- Begin figure link transition -->
+  <script type='text/javascript' src='http://shahmoradi.org/jquery.js'></script>
+  <script type='text/javascript'>
+  $(document).ready(function(){
+  $("img.a").hover(
+  function() {
+  $(this).stop().animate({"opacity": "0"}, "slow");
+  },
+  function() {
+  $(this).stop().animate({"opacity": "1"}, "slow");
+  });
+  
+  });
+  </script>
+  <style>
+
+    div.fadehover {
+    	position: relative;
+    	}
+    
+    img.a {
+    	position: absolute;
+    	left: 0;
+    	top: 0;
+    	z-index: 10;
+            }
+    	
+    img.b {
+    	position: absolute;
+    	left: 0;
+    	top: 0;
+    	}
+  
+  </style>
+  <!-- End figure link transition -->
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width initial-scale=1">
