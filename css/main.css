@@ -463,7 +463,8 @@ a.anchor {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #828282;
+  text-align: left; }
 
 .post-link {
   display: block;
