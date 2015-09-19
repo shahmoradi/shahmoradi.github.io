@@ -662,6 +662,21 @@ a.anchor {
   word-wrap: break-word;
   margin-bottom: 40px; }
 
+.boxes {
+  display: table;
+  width: 100%;
+  height: 100%; }
+
+.box {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 13em; }
+
+@media (max-width: 420px) {
+  .box {
+    display: block;
+    width: 100%; } }
 /**
  * Syntax highlighting styles
  */
