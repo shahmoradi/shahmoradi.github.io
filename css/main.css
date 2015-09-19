@@ -650,6 +650,12 @@ a.anchor {
   word-wrap: break-word;
   margin-bottom: 40px; }
 
+.two-column {
+  width: 50%;
+  float: center;
+  word-wrap: break-word;
+  margin-bottom: 40px; }
+
 /**
  * Syntax highlighting styles
  */
