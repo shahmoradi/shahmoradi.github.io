@@ -463,18 +463,12 @@ a.anchor {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #828282;
+  text-align: left; }
 
 .post-link {
   display: block;
   font-size: 24px; }
-
-.post-permalink {
-  font-size: 14px;
-  color: #828282;
-  text-align: left;
-  margin-top: 200;
-  margin-bottom: 400; }
 
 /* **************************************** */
 /* Start of the the style for the post tags */
