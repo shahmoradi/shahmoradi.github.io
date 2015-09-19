@@ -652,7 +652,7 @@ a.anchor {
 
 .two-column {
   width: 50%;
-  float: center;
+  float: left;
   word-wrap: break-word;
   margin-bottom: 40px; }
 
