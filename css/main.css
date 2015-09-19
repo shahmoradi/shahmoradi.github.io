@@ -677,6 +677,25 @@ a.anchor {
   .box {
     display: block;
     width: 100%; } }
+#boxol {
+  width: 150px;
+  height: 150px;
+  margin: 5% auto 0 auto;
+  background: url(../img/logos/research_tgm.png);
+  background-size: cover;
+  overflow: hidden; }
+
+#overlay {
+  background: url(../img/logos/research_tgm_bright.png);
+  text-align: center;
+  padding: 45px 0 66px 0;
+  opacity: 1;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease; }
+
+#box:hover #overlay {
+  opacity: 0; }
+
 /**
  * Syntax highlighting styles
  */
