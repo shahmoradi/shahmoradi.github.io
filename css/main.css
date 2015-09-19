@@ -671,7 +671,7 @@ a.anchor {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
-  line-height: 13em; }
+  float: center; }
 
 @media (max-width: 420px) {
   .box {
