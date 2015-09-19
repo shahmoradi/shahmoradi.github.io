@@ -469,6 +469,13 @@ a.anchor {
   display: block;
   font-size: 24px; }
 
+.post-permalink {
+  font-size: 14px;
+  color: #828282;
+  text-align: left;
+  margin-top: 20;
+  margin-bottom: 40; }
+
 /* **************************************** */
 /* Start of the the style for the post tags */
 /* **************************************** */
