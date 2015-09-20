@@ -758,8 +758,8 @@ a.anchor {
   opacity: 1; }
 
 .icon-nasa {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto 0 auto;
   background: url(../img/logos/nasa_optimized.png);
   background-size: 100%;
@@ -779,6 +779,30 @@ a.anchor {
   -moz-transition: opacity .25s ease; }
 
 .icon-nasa:hover .icon-nasa-overlay {
+  opacity: 1; }
+
+.icon-googles {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 0 auto;
+  background: url(../img/logos/googles.png);
+  background-size: 100%;
+  display: block;
+  overflow: hidden; }
+
+.icon-googles-overlay {
+  height: 100px;
+  background: url(../img/logos/googles_bright.png);
+  background-size: 100%;
+  display: block;
+  /* text-align: center; */
+  /* padding: 45px 0 66px 0; */
+  opacity: 0;
+  overflow: hidden;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease; }
+
+.icon-googles:hover .icon-googles-overlay {
   opacity: 1; }
 
 /**
