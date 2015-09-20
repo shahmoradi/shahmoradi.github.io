@@ -677,7 +677,7 @@ a.anchor {
   .box {
     display: block;
     width: 100%; } }
-#research-icon {
+.research-icon {
   width: 150px;
   height: 150px;
   margin: 5% auto 0 auto;
@@ -685,7 +685,7 @@ a.anchor {
   background-size: cover;
   overflow: hidden; }
 
-#research-overlay {
+.research-icon-overlay {
   width: 150px;
   height: 150px;
   background: url(../img/logos/research_tgm_bright.png);
@@ -696,7 +696,7 @@ a.anchor {
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
 
-#research-icon:hover #research-overlay {
+.research-icon:hover .research-icon-overlay {
   opacity: 1; }
 
 /**
