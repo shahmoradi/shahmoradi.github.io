@@ -762,14 +762,14 @@ a.anchor {
   height: 100px;
   margin: 0 auto 0 auto;
   background: url(../img/logos/nasa_optimized.png);
-  background-size: 100%;
+  background-size: 100% 100%;
   display: block;
   overflow: hidden; }
 
 .icon-nasa-overlay {
   height: 100px;
   background: url(../img/logos/nasa_optimized_bright.png);
-  background-size: 100%;
+  background-size: 100% 100%;
   display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
