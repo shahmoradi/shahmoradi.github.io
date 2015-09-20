@@ -654,13 +654,15 @@ a.anchor {
   width: 33.33333333%;
   float: left;
   word-wrap: break-word;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+  display: table-cell; }
 
 .two-column {
   width: 50%;
   float: left;
   word-wrap: break-word;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+  display: table-cell; }
 
 .boxes {
   display: table;
