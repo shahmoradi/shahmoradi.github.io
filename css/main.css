@@ -667,10 +667,15 @@ a.anchor {
   display: inline-block; }
 
 #table_id {
-  display: block; }
+  display: block;
+  width: 100%;
+  align-content: center;
+  text-align: center; }
 
 #table_id td {
-  display: inline-block; }
+  display: inline-block;
+  align-content: center;
+  text-align: center; }
 
 .boxes {
   display: table;
