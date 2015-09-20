@@ -648,7 +648,9 @@ a.anchor {
   align-content: center;
   text-justify: newspaper;
   text-kashida-space: 50%;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  display: inline-block;
+  vertical-align: top; }
 
 .three-column {
   width: 33.33333333%;
@@ -736,7 +738,7 @@ a.anchor {
   height: 150px;
   margin: 0 auto 0 auto;
   background: url(../img/logos/research_aca.png);
-  background-size: contain;
+  background-size: 100% 100%;
   display: block;
   overflow: hidden; }
 
@@ -744,7 +746,7 @@ a.anchor {
   width: 150px;
   height: 150px;
   background: url(../img/logos/research_aca_bright.png);
-  background-size: contain;
+  background-size: 100% 100%;
   display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
