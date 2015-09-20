@@ -692,7 +692,7 @@ a.anchor {
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
 
-#box:hover #overlay {
+#boxol:hover #overlay {
   opacity: 0; }
 
 /**
