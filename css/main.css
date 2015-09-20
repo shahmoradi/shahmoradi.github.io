@@ -690,8 +690,8 @@ a.anchor {
   height: 150px;
   background: url(../img/logos/research_tgm_bright.png);
   background-size: cover;
-  text-align: center;
-  padding: 45px 0 66px 0;
+  /* text-align: center; */
+  /* padding: 45px 0 66px 0; */
   opacity: 0;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
