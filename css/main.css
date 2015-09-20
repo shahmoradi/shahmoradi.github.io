@@ -807,6 +807,58 @@ a.anchor {
 .icon-googles:hover .icon-googles-overlay {
   opacity: 1; }
 
+.icon-arxiv {
+  width: 213.19444444px;
+  height: 100px;
+  margin: auto auto auto auto;
+  background: url(../img/logos/arxiv_optimized.png);
+  background-size: 100% 100%;
+  display: block;
+  overflow: hidden; }
+
+.icon-arxiv-overlay {
+  width: 213.19444444px;
+  height: 100px;
+  margin: auto auto auto auto;
+  background: url(../img/logos/arxiv_bright.png);
+  background-size: 100% 100%;
+  display: block;
+  /* text-align: center; */
+  /* padding: 45px 0 66px 0; */
+  opacity: 0;
+  overflow: hidden;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease; }
+
+.icon-arxiv:hover .icon-arxiv-overlay {
+  opacity: 1; }
+
+.icon-biorxiv {
+  width: 287.95180722px;
+  height: 100px;
+  margin: auto auto auto auto;
+  background: url(../img/logos/biorxiv.png);
+  background-size: 100% 100%;
+  display: block;
+  overflow: hidden; }
+
+.icon-biorxiv-overlay {
+  width: 287.95180722px;
+  height: 100px;
+  margin: auto auto auto auto;
+  background: url(../img/logos/biorxiv_bright.png);
+  background-size: 100% 100%;
+  display: block;
+  /* text-align: center; */
+  /* padding: 45px 0 66px 0; */
+  opacity: 0;
+  overflow: hidden;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease; }
+
+.icon-biorxiv:hover .icon-biorxiv-overlay {
+  opacity: 1; }
+
 /**
  * Syntax highlighting styles
  */
