@@ -657,14 +657,14 @@ a.anchor {
   float: left;
   word-wrap: break-word;
   margin-bottom: 40px;
-  display: block; }
+  display: inline-block; }
 
 .two-column {
   width: 50%;
   float: left;
   word-wrap: break-word;
   margin-bottom: 40px;
-  display: block; }
+  display: inline-block; }
 
 .boxes {
   display: table;
