@@ -680,7 +680,7 @@ a.anchor {
 .icon-cancer {
   width: 150px;
   height: 150px;
-  margin: 5% 5% 5% 5%;
+  margin: 5% auto 0 auto;
   background: url(../img/logos/research_tgm.png);
   background-size: cover;
   overflow: hidden; }
@@ -690,7 +690,6 @@ a.anchor {
   height: 150px;
   background: url(../img/logos/research_tgm_bright.png);
   background-size: cover;
-  margin: 5% 5% 5% 5%;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
   opacity: 0;
