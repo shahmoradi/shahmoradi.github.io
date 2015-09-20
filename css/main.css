@@ -649,7 +649,7 @@ a.anchor {
   text-justify: newspaper;
   text-kashida-space: 50%;
   margin-bottom: 20px;
-  display: inline-block;
+  display: block;
   vertical-align: top; }
 
 .three-column {
@@ -664,6 +664,12 @@ a.anchor {
   float: left;
   word-wrap: break-word;
   margin-bottom: 40px;
+  display: inline-block; }
+
+#table_id {
+  display: block; }
+
+#table_id td {
   display: inline-block; }
 
 .boxes {
