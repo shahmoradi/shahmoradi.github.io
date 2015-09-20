@@ -674,8 +674,10 @@ a.anchor {
 
 #table_id td {
   display: inline-block;
-  align-content: center;
-  text-align: center; }
+  align: center;
+  text-align: center;
+  width: 25%;
+  word-wrap: break-word; }
 
 .boxes {
   display: table;
