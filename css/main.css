@@ -685,7 +685,7 @@ a.anchor {
   height: 150px;
   margin: 0 auto 0 auto;
   background: url(../img/logos/research_tgm.png);
-  background-size: cover;
+  background-size: 150px 147.75px;
   display: block;
   overflow: visible; }
 
@@ -693,7 +693,7 @@ a.anchor {
   width: 150px;
   height: 150px;
   background: url(../img/logos/research_tgm_bright.png);
-  background-size: cover;
+  background-size: 150px 147.75px;
   display: block;
   overflow: visible;
   /* text-align: center; */
@@ -710,7 +710,7 @@ a.anchor {
   height: 150px;
   margin: 0 auto 0 auto;
   background: url(../img/logos/research_mb.png);
-  background-size: cover;
+  background-size: 150px 147.75px;
   display: block;
   overflow: visible;
   /* overflow: hidden; */ }
@@ -719,7 +719,7 @@ a.anchor {
   width: 150px;
   height: 150px;
   background: url(../img/logos/research_mb_bright.png);
-  background-size: cover;
+  background-size: 150px 147.75px;
   display: block;
   overflow: visible;
   /* text-align: center; */
@@ -736,16 +736,39 @@ a.anchor {
   height: 150px;
   margin: 0 auto 0 auto;
   background: url(../img/logos/research_aca.png);
-  background-size: cover;
+  background-size: contain;
   display: block;
-  overflow: visible;
-  /* overflow: hidden; */ }
+  overflow: hidden; }
 
 .icon-astrophysics-overlay {
   width: 150px;
   height: 150px;
   background: url(../img/logos/research_aca_bright.png);
-  background-size: cover;
+  background-size: contain;
+  display: block;
+  /* text-align: center; */
+  /* padding: 45px 0 66px 0; */
+  opacity: 0;
+  overflow: hidden;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease; }
+
+.icon-astrophysics:hover .icon-astrophysics-overlay {
+  opacity: 1; }
+
+.icon-nasa {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 0 auto;
+  background: url(../img/logos/nasa_optimized.png);
+  background-size: contain;
+  display: block;
+  overflow: hidden; }
+
+.icon-nasa-overlay {
+  height: 100px;
+  background: url(../img/logos/nasa_optimized_bright.png);
+  background-size: contain;
   display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
@@ -754,7 +777,7 @@ a.anchor {
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
 
-.icon-astrophysics:hover .icon-astrophysics-overlay {
+.icon-nasa:hover .icon-nasa-overlay {
   opacity: 1; }
 
 /**
