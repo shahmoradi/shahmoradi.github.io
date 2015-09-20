@@ -758,20 +758,20 @@ a.anchor {
   opacity: 1; }
 
 .icon-nasa {
-  width: 100px;
-  height: 82.5px;
-  margin: 0 auto 17.5px auto;
+  width: 121.21212121px;
+  height: 100px;
+  margin: auto auto auto auto;
   background: url(../img/logos/nasa_optimized.png);
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
 
 .icon-nasa-overlay {
-  width: 100px;
-  height: 82.5px;
+  width: 121.21212121px;
+  height: 100px;
+  margin: auto auto auto auto;
   background: url(../img/logos/nasa_optimized_bright.png);
   background-size: 100% 100%;
-  margin: 0 auto 17.5px auto;
   display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
