@@ -678,18 +678,13 @@ a.anchor {
     display: block;
     width: 100%; } }
 #box {
-  width: 300px;
-  height: 200px;
-  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
-  border-bottom: 2px solid #fff;
-  border-right: 2px solid #fff;
   margin: 5% auto 0 auto;
   background: url(../img/logos/research_tgm.png);
   background-size: cover;
-  border-radius: 5px;
   overflow: hidden; }
 
 #overlay {
+  background: url(../img/logos/research_tgm_bright.png);
   text-align: center;
   padding: 45px 0 66px 0;
   opacity: 0;
@@ -702,13 +697,9 @@ a.anchor {
 #plus {
   width: 300px;
   height: 200px;
-  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
-  border-bottom: 2px solid #fff;
-  border-right: 2px solid #fff;
   margin: 5% auto 0 auto;
   background: url(../img/logos/research_tgm_bright.png);
   background-size: cover;
-  border-radius: 5px;
   overflow: hidden; }
 
 /**
