@@ -650,7 +650,10 @@ a.anchor {
   text-kashida-space: 50%;
   margin-bottom: 20px;
   display: block;
-  vertical-align: top; }
+  vertical-align: top;
+  position: relative;
+  float: center;
+  display: block; }
 
 .three-column {
   width: 33.33333333%;
