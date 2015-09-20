@@ -666,19 +666,6 @@ a.anchor {
   margin-bottom: 40px;
   display: inline-block; }
 
-#table_id {
-  display: block;
-  width: 100%;
-  align-content: center;
-  text-align: center; }
-
-#table_id td {
-  display: inline-block;
-  align: center;
-  text-align: center;
-  width: 33.33333333%;
-  word-wrap: break-word; }
-
 .boxes {
   display: table;
   width: 100%;
