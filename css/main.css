@@ -759,17 +759,19 @@ a.anchor {
 
 .icon-nasa {
   width: 100px;
-  height: 100px;
-  margin: 0 auto 0 auto;
+  height: 82.5px;
+  margin: 0 auto 17.5px auto;
   background: url(../img/logos/nasa_optimized.png);
   background-size: 100% 82.5%;
   display: block;
   overflow: hidden; }
 
 .icon-nasa-overlay {
-  height: 100px;
+  width: 100px;
+  height: 82.5px;
   background: url(../img/logos/nasa_optimized_bright.png);
   background-size: 100% 82.5%;
+  margin: 0 auto 17.5px auto;
   display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
