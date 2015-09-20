@@ -681,7 +681,7 @@ a.anchor {
 .icon-cancer {
   width: 150px;
   height: 150px;
-  margin: 5% auto 0 auto;
+  margin: 0 auto 0 auto;
   background: url(../img/logos/research_tgm.png);
   background-size: cover;
   /* overflow: hidden; */ }
@@ -703,7 +703,7 @@ a.anchor {
 .icon-biophysics {
   width: 150px;
   height: 150px;
-  margin: 5% auto 0 auto;
+  margin: 0 auto 0 auto;
   background: url(../img/logos/research_mb.png);
   background-size: cover;
   /* overflow: hidden; */ }
@@ -725,15 +725,15 @@ a.anchor {
 .icon-astrophysics {
   width: 150px;
   height: 150px;
-  margin: 5% auto 0 auto;
-  background: url(../img/logos/research_mb.png);
+  margin: 0 auto 0 auto;
+  background: url(../img/logos/research_aca.png);
   background-size: cover;
   /* overflow: hidden; */ }
 
 .icon-astrophysics-overlay {
   width: 150px;
   height: 150px;
-  background: url(../img/logos/research_mb_bright.png);
+  background: url(../img/logos/research_aca_bright.png);
   background-size: cover;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
