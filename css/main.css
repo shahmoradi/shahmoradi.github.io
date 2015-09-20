@@ -681,17 +681,19 @@ a.anchor {
   width: 150px;
   height: 150px;
   margin: 5% auto 0 auto;
+  background: url(../img/logos/research_tgm.png);
+  background-size: cover;
   overflow: hidden; }
 
 #overlay {
-  background: url(../img/logos/research_tgm.png);
+  background: url(../img/logos/research_tgm_bright.png);
   background-size: cover;
-  opacity: 1;
+  opacity: 0;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
 
 #boxol:hover #overlay {
-  opacity: 0; }
+  opacity: 1; }
 
 /**
  * Syntax highlighting styles
