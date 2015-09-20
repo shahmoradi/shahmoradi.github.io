@@ -762,7 +762,7 @@ a.anchor {
   height: 82.5px;
   margin: 0 auto 17.5px auto;
   background: url(../img/logos/nasa_optimized.png);
-  background-size: 100% 82.5%;
+  background-size: 100% 100%;
   display: block;
   overflow: hidden; }
 
@@ -770,7 +770,7 @@ a.anchor {
   width: 100px;
   height: 82.5px;
   background: url(../img/logos/nasa_optimized_bright.png);
-  background-size: 100% 82.5%;
+  background-size: 100% 100%;
   margin: 0 auto 17.5px auto;
   display: block;
   /* text-align: center; */
