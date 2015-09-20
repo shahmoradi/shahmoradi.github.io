@@ -655,14 +655,14 @@ a.anchor {
   float: left;
   word-wrap: break-word;
   margin-bottom: 40px;
-  display: table-cell; }
+  display: block; }
 
 .two-column {
   width: 50%;
   float: left;
   word-wrap: break-word;
   margin-bottom: 40px;
-  display: table-cell; }
+  display: block; }
 
 .boxes {
   display: table;
@@ -686,6 +686,7 @@ a.anchor {
   margin: 0 auto 0 auto;
   background: url(../img/logos/research_tgm.png);
   background-size: cover;
+  display: block;
   /* overflow: hidden; */ }
 
 .icon-cancer-overlay {
@@ -693,6 +694,7 @@ a.anchor {
   height: 150px;
   background: url(../img/logos/research_tgm_bright.png);
   background-size: cover;
+  display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
   opacity: 0;
@@ -708,6 +710,7 @@ a.anchor {
   margin: 0 auto 0 auto;
   background: url(../img/logos/research_mb.png);
   background-size: cover;
+  display: block;
   /* overflow: hidden; */ }
 
 .icon-biophysics-overlay {
@@ -715,6 +718,7 @@ a.anchor {
   height: 150px;
   background: url(../img/logos/research_mb_bright.png);
   background-size: cover;
+  display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
   opacity: 0;
@@ -730,6 +734,7 @@ a.anchor {
   margin: 0 auto 0 auto;
   background: url(../img/logos/research_aca.png);
   background-size: cover;
+  display: block;
   /* overflow: hidden; */ }
 
 .icon-astrophysics-overlay {
@@ -737,6 +742,7 @@ a.anchor {
   height: 150px;
   background: url(../img/logos/research_aca_bright.png);
   background-size: cover;
+  display: block;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
   opacity: 0;
