@@ -677,26 +677,26 @@ a.anchor {
   .box {
     display: block;
     width: 100%; } }
-.research-icon {
+.icon-cancer {
   width: 150px;
   height: 150px;
   margin: 5% auto 0 auto;
-  /* background: url(../img/logos/research_tgm.png); */
-  /* background-size: cover;                         */
+  background: url(../img/logos/research_tgm.png);
+  background-size: cover;
   overflow: hidden; }
 
-.research-icon-overlay {
+.icon-cancer-overlay {
   width: 150px;
   height: 150px;
-  /* background: url(../img/logos/research_tgm_bright.png); */
-  /* background-size: cover;                                */
+  background: url(../img/logos/research_tgm_bright.png);
+  background-size: cover;
   /* text-align: center; */
   /* padding: 45px 0 66px 0; */
   opacity: 0;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
 
-.research-icon:hover .research-icon-overlay {
+.icon-cancer:hover .icon-cancer-overlay {
   opacity: 1; }
 
 /**
