@@ -722,6 +722,28 @@ a.anchor {
 .icon-biophysics:hover .icon-biophysics-overlay {
   opacity: 1; }
 
+.icon-astrophysics {
+  width: 150px;
+  height: 150px;
+  margin: 5% auto 0 auto;
+  background: url(../img/logos/research_mb.png);
+  background-size: cover;
+  overflow: hidden; }
+
+.icon-astrophysics-overlay {
+  width: 150px;
+  height: 150px;
+  background: url(../img/logos/research_mb_bright.png);
+  background-size: cover;
+  /* text-align: center; */
+  /* padding: 45px 0 66px 0; */
+  opacity: 0;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease; }
+
+.icon-astrophysics:hover .icon-astrophysics-overlay {
+  opacity: 1; }
+
 /**
  * Syntax highlighting styles
  */
