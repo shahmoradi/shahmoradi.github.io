@@ -686,6 +686,8 @@ a.anchor {
   overflow: hidden; }
 
 #overlay {
+  width: 150px;
+  height: 150px;
   background: url(../img/logos/research_tgm_bright.png);
   text-align: center;
   padding: 45px 0 66px 0;
