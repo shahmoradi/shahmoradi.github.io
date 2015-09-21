@@ -167,7 +167,7 @@ body, html {
    * -moz-background-size: 100% 1107px;
    * -o-background-size: 100% 1107px;
    */
-  background-size: contain;
+  background-size: cover;
   /*
    * -webkit-background-size: cover;
    * -moz-background-size: cover;
