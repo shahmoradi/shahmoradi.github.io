@@ -163,9 +163,9 @@ body, html {
  */
 #cover {
   background: url(../img/landingpage_optimized.jpg) no-repeat top left #010202;
-  -webkit-background-size: contain;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
+  -webkit-background-size: 100% 1107px;
+  -moz-background-size: 100% 1107px;
+  -o-background-size: 100% 1107px;
   background-size: contain;
   /*
    * -webkit-background-size: cover;
