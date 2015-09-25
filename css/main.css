@@ -619,6 +619,13 @@ a.anchor {
   -o-background-size: cover;
   background-size: cover;
   */ }
+  @media screen and (max-width: 600px) {
+    #self {
+      background: url(../img/self_optimized.jpg) no-repeat center left #010202;
+      -webkit-background-size: auto 100%;
+      -moz-background-size: auto 100%;
+      -o-background-size: auto 100%;
+      background-size: auto 100%; } }
 
 .firstcharacter {
   float: left;
