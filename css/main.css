@@ -466,7 +466,8 @@ a.anchor {
   list-style: none;
   text-align: justify; }
   .post-list h2 {
-    font-weight: bold; }
+    font-weight: bold;
+    text-align: left; }
   .post-list > li {
     margin-bottom: 30px; }
 
