@@ -610,7 +610,7 @@ a.anchor {
  * Self page
  */
 #self {
-  background: url(../img/self_optimized.jpg) no-repeat top left #010202;
+  background: url(../img/self_optimized.jpg) no-repeat center left #010202;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
