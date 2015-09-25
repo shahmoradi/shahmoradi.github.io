@@ -704,8 +704,8 @@ a.anchor {
   overflow: hidden; }
   @media screen and (max-width: 600px) {
     .icon-cancer {
-      width: 40px;
-      height: 40px; } }
+      width: 50px;
+      height: 50px; } }
 
 .icon-cancer-overlay {
   width: 150px;
@@ -719,6 +719,10 @@ a.anchor {
   opacity: 0;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 600px) {
+    .icon-cancer-overlay {
+      width: 50px;
+      height: 50px; } }
 
 .icon-cancer:hover .icon-cancer-overlay {
   opacity: 1; }
@@ -731,6 +735,10 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
+  @media screen and (max-width: 600px) {
+    .icon-biophysics {
+      width: 50px;
+      height: 50px; } }
 
 .icon-biophysics-overlay {
   width: 150px;
@@ -744,6 +752,10 @@ a.anchor {
   opacity: 0;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 600px) {
+    .icon-biophysics-overlay {
+      width: 50px;
+      height: 50px; } }
 
 .icon-biophysics:hover .icon-biophysics-overlay {
   opacity: 1; }
@@ -756,6 +768,10 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
+  @media screen and (max-width: 600px) {
+    .icon-astrophysics {
+      width: 50px;
+      height: 50px; } }
 
 .icon-astrophysics-overlay {
   width: 150px;
@@ -769,6 +785,10 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 600px) {
+    .icon-astrophysics-overlay {
+      width: 50px;
+      height: 50px; } }
 
 .icon-astrophysics:hover .icon-astrophysics-overlay {
   opacity: 1; }
@@ -781,6 +801,10 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
+  @media screen and (max-width: 600px) {
+    .icon-nasa {
+      width: 40.40404040px;
+      height: 33.33333333px; } }
 
 .icon-nasa-overlay {
   width: 121.21212121px;
@@ -795,6 +819,10 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 600px) {
+    .icon-nasa-overlay {
+      width: 40.40404040px;
+      height: 33.33333333px; } }
 
 .icon-nasa:hover .icon-nasa-overlay {
   opacity: 1; }
@@ -807,6 +835,10 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
+  @media screen and (max-width: 600px) {
+    .icon-googles {
+      width: 33.33333333px;
+      height: 33.33333333px; } }
 
 .icon-googles-overlay {
   height: 100px;
@@ -819,6 +851,10 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 600px) {
+    .icon-googles-overlay {
+      width: 33.33333333px;
+      height: 33.33333333px; } }
 
 .icon-googles:hover .icon-googles-overlay {
   opacity: 1; }
@@ -831,6 +867,10 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
+  @media screen and (max-width: 600px) {
+    .icon-arxiv {
+      width: 71.06481481px;
+      height: 33.33333333px; } }
 
 .icon-arxiv-overlay {
   width: 213.19444444px;
@@ -845,6 +885,10 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 600px) {
+    .icon-arxiv-overlay {
+      width: 71.06481481px;
+      height: 33.33333333px; } }
 
 .icon-arxiv:hover .icon-arxiv-overlay {
   opacity: 1; }
@@ -857,6 +901,10 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
+  @media screen and (max-width: 600px) {
+    .icon-biorxiv {
+      width: 95.98393574px;
+      height: 33.33333333px; } }
 
 .icon-biorxiv-overlay {
   width: 287.95180722px;
@@ -871,6 +919,10 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 600px) {
+    .icon-biorxiv-overlay {
+      width: 95.98393574px;
+      height: 33.33333333px; } }
 
 .icon-biorxiv:hover .icon-biorxiv-overlay {
   opacity: 1; }
