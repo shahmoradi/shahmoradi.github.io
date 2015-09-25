@@ -404,6 +404,9 @@ a.anchor {
     color: #84b2ee; }
     .site-footer a:hover {
       color: #c0c0c0; }
+  @media screen and (max-width: 600px) {
+    .site-footer {
+      min-height: 200px; } }
 
 .footer-heading {
   font-size: 18px;
@@ -449,8 +452,7 @@ a.anchor {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2));
-    min-height: 600px; } }
+    width: calc(100% - (30px / 2)); } }
 /**
  * Page content
  */
