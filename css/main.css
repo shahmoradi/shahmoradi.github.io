@@ -177,10 +177,10 @@ body, html {
   @media screen and (max-width: 600px) {
     #cover {
       background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
-      -webkit-background-size: contain;
-      -moz-background-size: contain;
-      -o-background-size: contain;
-      background-size: contain; } }
+      -webkit-background-size: auto 100%;
+      -moz-background-size: auto 100%;
+      -o-background-size: auto 100%;
+      background-size: auto 100%; } }
 
 #headline {
   background: url(../img/headline_optimized.png) no-repeat top center;
