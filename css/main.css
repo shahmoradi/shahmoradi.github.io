@@ -164,10 +164,10 @@ body, html {
 #cover {
   /* background: url(../img/landingpage_optimized.jpg) no-repeat top left rgb(1,2,2); */
   background: url(../img/landingpage_dna.jpg) no-repeat top left #010202;
-  -webkit-background-size: auto 100%;
-  -moz-background-size: auto 100%;
-  -o-background-size: auto 100%;
-  background-size: auto 100%;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
   /*
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -388,7 +388,7 @@ a.anchor {
  * Site footer
  */
 .site-footer {
-  height: 20%;
+  height: 25%;
   /*border-top: 1px solid $grey-color-light;*/
   /*background-color: $grey-color-dark;*/
   background-color: #000000;
@@ -611,10 +611,10 @@ a.anchor {
  */
 #self {
   background: url(../img/self_optimized.jpg) no-repeat top left #010202;
-  -webkit-background-size: auto 100%;
-  -moz-background-size: auto 100%;
-  -o-background-size: auto 100%;
-  background-size: auto 100%;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
   /*
   -webkit-background-size: cover;
   -moz-background-size: cover;
