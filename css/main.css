@@ -692,18 +692,19 @@ a.anchor {
   display: table;
   width: 100%;
   height: 100%; }
+  @media screen and (max-width: 600px) {
+    .boxes .box {
+      display: block;
+      width: 100%; } }
 
 .box {
+  align: left;
   display: table-cell;
-  text-align: center;
-  align-content: center;
+  text-align: left;
+  align-content: left;
   vertical-align: middle;
   float: center; }
 
-@media (max-width: 420px) {
-  .box {
-    display: block;
-    width: 100%; } }
 .icon-cancer {
   width: 150px;
   height: 150px;
