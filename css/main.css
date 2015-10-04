@@ -223,7 +223,7 @@ body, html {
   background-size: 100%; }
   @media all and (max-aspect-ratio: 5 / 3) {
     #people {
-      background: url(../img/ICES_TGM_group_optimized.jpg) no-repeat top left #010202;
+      background: url(../img/people/ICES_TGM_group_optimized.jpg) no-repeat top left #010202;
       -webkit-background-size: auto 100%;
       -moz-background-size: auto 100%;
       -o-background-size: auto 100%;
