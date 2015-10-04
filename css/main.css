@@ -354,7 +354,7 @@ a.anchor {
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .site-nav {
       position: fixed;
       top: 9px;
@@ -406,7 +406,7 @@ a.anchor {
     color: #84b2ee; }
     .site-footer a:hover {
       color: #c0c0c0; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .site-footer {
       min-height: 350px; } }
 
@@ -450,7 +450,7 @@ a.anchor {
   .footer-col-3 {
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
@@ -695,7 +695,7 @@ a.anchor {
   display: table;
   width: 100%;
   height: 100%; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .boxes .box {
       display: block;
       width: 100%; } }
@@ -716,7 +716,7 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-cancer {
       width: 50px;
       height: 50px; } }
@@ -733,7 +733,7 @@ a.anchor {
   opacity: 0;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-cancer-overlay {
       width: 50px;
       height: 50px; } }
@@ -749,7 +749,7 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-biophysics {
       width: 50px;
       height: 50px; } }
@@ -766,7 +766,7 @@ a.anchor {
   opacity: 0;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-biophysics-overlay {
       width: 50px;
       height: 50px; } }
@@ -782,7 +782,7 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-astrophysics {
       width: 50px;
       height: 50px; } }
@@ -799,7 +799,7 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-astrophysics-overlay {
       width: 50px;
       height: 50px; } }
@@ -815,7 +815,7 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-nasa {
       width: 40.40404040px;
       height: 33.33333333px; } }
@@ -833,7 +833,7 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-nasa-overlay {
       width: 40.40404040px;
       height: 33.33333333px; } }
@@ -849,7 +849,7 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-googles {
       width: 33.33333333px;
       height: 33.33333333px; } }
@@ -865,7 +865,7 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-googles-overlay {
       width: 33.33333333px;
       height: 33.33333333px; } }
@@ -881,7 +881,7 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-arxiv {
       width: 71.06481481px;
       height: 33.33333333px; } }
@@ -899,7 +899,7 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-arxiv-overlay {
       width: 71.06481481px;
       height: 33.33333333px; } }
@@ -915,7 +915,7 @@ a.anchor {
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-biorxiv {
       width: 95.98393574px;
       height: 33.33333333px; } }
@@ -933,7 +933,7 @@ a.anchor {
   overflow: hidden;
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .icon-biorxiv-overlay {
       width: 95.98393574px;
       height: 33.33333333px; } }
