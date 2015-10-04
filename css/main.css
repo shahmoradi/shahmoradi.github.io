@@ -169,7 +169,7 @@ body, html {
   -o-background-size: 100%;
   background-size: 100%;
   /*
-   * @inclde media-query(max-aspect-ratio:2000/1200) { 
+   * @include media-query($on-palm) {
    *     background: url(../img/landingpage_dna.jpg) no-repeat top center rgb(1,2,2);
    *     -webkit-background-size: auto 100%;
    *     -moz-background-size: auto 100%;
@@ -177,13 +177,14 @@ body, html {
    *     background-size: auto 100%;
    * }
    */
+  /* @include media-query(orientation:portrait) { */
   /*
    *-webkit-background-size: cover;
    *-moz-background-size: cover;
    *-o-background-size: cover;
    *background-size: cover;
    */ }
-  @media screen and (max-width: 600px) {
+  @media all and (orientation: portrait) {
     #cover {
       background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
       -webkit-background-size: auto 100%;
