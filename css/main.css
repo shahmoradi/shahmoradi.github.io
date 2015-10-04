@@ -183,14 +183,13 @@ body, html {
   -o-background-size: cover;
   background-size: cover;
   */ }
-  @media (max-aspect-ratio: 1.66667) {
-    #cover {
-      background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
-      -webkit-background-size: auto 100%;
-      -moz-background-size: auto 100%;
-      -o-background-size: auto 100%;
-      background-size: auto 100%; } }
-
+@inclde media-query(max-aspect-ratio:2000/1200) {
+  #cover {
+    background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
+    -webkit-background-size: auto 100%;
+    -moz-background-size: auto 100%;
+    -o-background-size: auto 100%;
+    background-size: auto 100%; } }
 #headline {
   background: url(../img/headline_optimized.png) no-repeat top center;
   -webkit-background-size: 25%;
