@@ -169,7 +169,7 @@ body, html {
   -o-background-size: 100%;
   background-size: 100%;
   /*
-   * @include media-query($on-palm) {
+   * @inclde media-query(max-aspect-ratio:2000/1200) { 
    *     background: url(../img/landingpage_dna.jpg) no-repeat top center rgb(1,2,2);
    *     -webkit-background-size: auto 100%;
    *     -moz-background-size: auto 100%;
@@ -178,18 +178,19 @@ body, html {
    * }
    */
   /*
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  */ }
-@inclde media-query(max-aspect-ratio:2000/1200) {
-  #cover {
-    background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
-    -webkit-background-size: auto 100%;
-    -moz-background-size: auto 100%;
-    -o-background-size: auto 100%;
-    background-size: auto 100%; } }
+   *-webkit-background-size: cover;
+   *-moz-background-size: cover;
+   *-o-background-size: cover;
+   *background-size: cover;
+   */ }
+  @media screen and (max-width: 600px) {
+    #cover {
+      background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
+      -webkit-background-size: auto 100%;
+      -moz-background-size: auto 100%;
+      -o-background-size: auto 100%;
+      background-size: auto 100%; } }
+
 #headline {
   background: url(../img/headline_optimized.png) no-repeat top center;
   -webkit-background-size: 25%;
