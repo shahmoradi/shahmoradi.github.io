@@ -177,14 +177,13 @@ body, html {
    *     background-size: auto 100%;
    * }
    */
-  /* @include media-query(orientation:portrait) { */
   /*
    *-webkit-background-size: cover;
    *-moz-background-size: cover;
    *-o-background-size: cover;
    *background-size: cover;
    */ }
-  @media all and (orientation: portrait) {
+  @media all and (max-aspect-ratio: 1.66667 / 1) {
     #cover {
       background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
       -webkit-background-size: auto 100%;
