@@ -168,15 +168,7 @@ body, html {
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%;
-  /*
-   * @include media-query($on-palm) {
-   *     background: url(../img/landingpage_dna.jpg) no-repeat top center rgb(1,2,2);
-   *     -webkit-background-size: auto 100%;
-   *     -moz-background-size: auto 100%;
-   *     -o-background-size: auto 100%;
-   *     background-size: auto 100%;
-   * }
-   */
+  /* @include media-query($on-palm) {*/
   /*
    *-webkit-background-size: cover;
    *-moz-background-size: cover;
@@ -228,13 +220,14 @@ body, html {
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
-  background-size: 100%;
-  /*
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  */ }
+  background-size: 100%; }
+  @media all and (max-aspect-ratio: 5 / 3) {
+    #people {
+      background: url(../img/ICES_TGM_group_optimized.jpg) no-repeat top left #010202;
+      -webkit-background-size: auto 100%;
+      -moz-background-size: auto 100%;
+      -o-background-size: auto 100%;
+      background-size: auto 100%; } }
 
 .people-title {
   font-size: 48px;
@@ -624,13 +617,14 @@ a.anchor {
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%;
+  /* @include media-query($on-palm) { */
   /*
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   */ }
-  @media screen and (max-width: 600px) {
+  @media all and (max-aspect-ratio: 5 / 3) {
     #self {
       background: url(../img/self_optimized.jpg) no-repeat top left #010202;
       -webkit-background-size: auto 100%;
