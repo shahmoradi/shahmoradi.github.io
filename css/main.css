@@ -183,7 +183,7 @@ body, html {
   -o-background-size: cover;
   background-size: cover;
   */ }
-  @media (aspect-ratio: 1.66667) {
+  @media screen and (max-aspect-ratio: 1.66667) {
     #cover {
       background: url(../img/landingpage_dna.jpg) no-repeat top center #010202;
       -webkit-background-size: auto 100%;
