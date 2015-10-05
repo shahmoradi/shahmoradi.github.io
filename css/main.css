@@ -408,7 +408,7 @@ a.anchor {
       color: #c0c0c0; }
   @media screen and (max-width: 900px) {
     .site-footer {
-      min-height: 240px; } }
+      min-height: 250px; } }
   @media screen and (max-width: 790px) {
     .site-footer {
       min-height: 350px; } }
