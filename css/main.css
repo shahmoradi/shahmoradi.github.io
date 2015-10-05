@@ -409,6 +409,9 @@ a.anchor {
   @media screen and (max-width: 790px) {
     .site-footer {
       min-height: 350px; } }
+  @media screen and (max-width: 900px) {
+    .site-footer {
+      min-height: 220px; } }
 
 .footer-heading {
   font-size: 18px;
