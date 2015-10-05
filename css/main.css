@@ -406,10 +406,10 @@ a.anchor {
     color: #84b2ee; }
     .site-footer a:hover {
       color: #c0c0c0; }
-  @media screen and (max-width: 790px) {
-    .site-footer {
-      min-height: 350px; } }
   @media screen and (max-width: 900px) {
+    .site-footer {
+      min-height: 240px; } }
+  @media screen and (max-width: 790px) {
     .site-footer {
       min-height: 350px; } }
 
