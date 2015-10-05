@@ -216,14 +216,14 @@ body, html {
  * People page
  */
 #people {
-  background: url(../img/people/ICES_TGM_group_optimized.jpg) no-repeat top left #010202;
+  background: url(../img/people/ICES_TGM_group_optimized.jpg) no-repeat left center #010202;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%; }
   @media all and (max-aspect-ratio: 640 / 457) {
     #people {
-      background: url(../img/people/ICES_TGM_group_optimized.jpg) no-repeat top left #010202;
+      background: url(../img/people/ICES_TGM_group_optimized.jpg) no-repeat left center #010202;
       -webkit-background-size: auto 100%;
       -moz-background-size: auto 100%;
       -o-background-size: auto 100%;
