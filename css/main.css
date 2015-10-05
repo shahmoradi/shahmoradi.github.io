@@ -390,7 +390,8 @@ a.anchor {
  * Site footer
  */
 .site-footer {
-  height: 20%;
+  /* height: 20%; */
+  height: 140px;
   /*border-top: 1px solid $grey-color-light;*/
   /*background-color: $grey-color-dark;*/
   background-color: #000000;
