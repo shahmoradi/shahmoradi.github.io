@@ -411,7 +411,7 @@ a.anchor {
       min-height: 350px; } }
   @media screen and (max-width: 900px) {
     .site-footer {
-      min-height: 240px; } }
+      min-height: 350px; } }
 
 .footer-heading {
   font-size: 18px;
