@@ -221,7 +221,7 @@ body, html {
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%; }
-  @media all and (max-aspect-ratio: 5 / 3) {
+  @media all and (max-aspect-ratio: 640 / 457) {
     #people {
       background: url(../img/people/ICES_TGM_group_optimized.jpg) no-repeat top left #010202;
       -webkit-background-size: auto 100%;
@@ -624,7 +624,7 @@ a.anchor {
   -o-background-size: cover;
   background-size: cover;
   */ }
-  @media all and (max-aspect-ratio: 5 / 3) {
+  @media all and (max-aspect-ratio: 2000 / 1107) {
     #self {
       background: url(../img/self_optimized.jpg) no-repeat top left #010202;
       -webkit-background-size: auto 100%;
