@@ -722,8 +722,8 @@ a.anchor {
   overflow: hidden; }
   @media screen and (max-width: 790px) {
     .icon-cancer {
-      width: 50px;
-      height: 50px; } }
+      width: 70px;
+      height: 70px; } }
 
 .icon-cancer-overlay {
   width: 150px;
@@ -739,8 +739,8 @@ a.anchor {
   -moz-transition: opacity .25s ease; }
   @media screen and (max-width: 790px) {
     .icon-cancer-overlay {
-      width: 50px;
-      height: 50px; } }
+      width: 70px;
+      height: 70px; } }
 
 .icon-cancer:hover .icon-cancer-overlay {
   opacity: 1; }
@@ -755,8 +755,8 @@ a.anchor {
   overflow: hidden; }
   @media screen and (max-width: 790px) {
     .icon-biophysics {
-      width: 50px;
-      height: 50px; } }
+      width: 70px;
+      height: 70px; } }
 
 .icon-biophysics-overlay {
   width: 150px;
@@ -772,8 +772,8 @@ a.anchor {
   -moz-transition: opacity .25s ease; }
   @media screen and (max-width: 790px) {
     .icon-biophysics-overlay {
-      width: 50px;
-      height: 50px; } }
+      width: 70px;
+      height: 70px; } }
 
 .icon-biophysics:hover .icon-biophysics-overlay {
   opacity: 1; }
@@ -788,8 +788,8 @@ a.anchor {
   overflow: hidden; }
   @media screen and (max-width: 790px) {
     .icon-astrophysics {
-      width: 50px;
-      height: 50px; } }
+      width: 70px;
+      height: 70px; } }
 
 .icon-astrophysics-overlay {
   width: 150px;
@@ -805,8 +805,8 @@ a.anchor {
   -moz-transition: opacity .25s ease; }
   @media screen and (max-width: 790px) {
     .icon-astrophysics-overlay {
-      width: 50px;
-      height: 50px; } }
+      width: 70px;
+      height: 70px; } }
 
 .icon-astrophysics:hover .icon-astrophysics-overlay {
   opacity: 1; }
