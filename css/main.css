@@ -196,14 +196,9 @@ body, html {
 
 /* about block */
 #about-block {
-  background: url(../img/grey_texture.jpg) no-repeat top center;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
   /* background: #20212c; */
   /* background: #15161d; */
-  /* background: #000000; */
+  background: #000000;
   color: #ffffff;
   /* a:link{color:#2a7ae2}; */
   /* This is light blue */
