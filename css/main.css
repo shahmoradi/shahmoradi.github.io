@@ -732,22 +732,22 @@ a.anchor {
     .table .row {
       display: block;
       text-align: center;
-      align-content: center; }
+      align-content: center;
+      margin-bottom: 0px; }
     .table .col {
       text-align: center;
       align-content: center;
       width: 100%;
-      display: block;
-      bottom-margin: 40; } }
+      display: block; } }
 
 .row {
   text-align: center;
   align-content: center;
-  bottom-margin: 40;
   width: 100%;
   display: table-row; }
 
 .col {
+  padding-bottom: 40px;
   text-align: center;
   align-content: center;
   width: 33.33333333%;
