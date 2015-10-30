@@ -217,6 +217,24 @@ body, html {
   #about-block a:hover {
     color: #e8e8e8; }
 
+#about-extension {
+  background: url(../img/light_grey_texture.jpg) no-repeat top center;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  color: #000000;
+  /* This is light blue */
+  /*  This is light blue */
+  /* mouse over link         */
+  /*  This is UT burnt Orange color (PMS 159 U PMS 166 C Burnt Orange) */ }
+  #about-extension a:link {
+    color: #2a7ae2; }
+  #about-extension a:visited {
+    color: #2a7ae2; }
+  #about-extension a:hover {
+    color: #CC5500; }
+
 /**
  * People page
  */
@@ -699,6 +717,41 @@ a.anchor {
   word-wrap: break-word;
   margin-bottom: 40px;
   display: inline-block; }
+
+.table {
+  display: table;
+  text-align: center;
+  align-content: center;
+  border-spacing: 30px 0;
+  border-collapse: separate; }
+  @media screen and (max-width: 790px) {
+    .table .table {
+      display: block;
+      text-align: center;
+      align-content: center; }
+    .table .row {
+      display: block;
+      text-align: center;
+      align-content: center; }
+    .table .col {
+      text-align: center;
+      align-content: center;
+      width: 100%;
+      display: block;
+      bottom-margin: 40; } }
+
+.row {
+  text-align: center;
+  align-content: center;
+  bottom-margin: 40;
+  width: 100%;
+  display: table-row; }
+
+.col {
+  text-align: center;
+  align-content: center;
+  width: 33.33333333%;
+  display: table-cell; }
 
 .boxes {
   display: table;
