@@ -197,10 +197,10 @@ body, html {
 /* about block */
 #about-block {
   background: url(../img/grey_texture.jpg) no-repeat top center;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
   /* background: #20212c; */
   /* background: #15161d; */
   /* background: #000000; */
