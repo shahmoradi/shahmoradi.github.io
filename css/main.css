@@ -15,7 +15,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.5;
   font-weight: 300;
   color: #111;
@@ -45,7 +45,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 13.125px; }
 
 /**
  * Lists
@@ -116,16 +116,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(900px - (30px * 2));
-  max-width: calc(900px - (30px * 2));
+  max-width: -webkit-calc(850px - (30px * 2));
+  max-width: calc(850px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 850px) {
     .wrapper {
-      max-width: -webkit-calc(900px - (30px));
-      max-width: calc(900px - (30px));
+      max-width: -webkit-calc(850px - (30px));
+      max-width: calc(850px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -287,7 +287,7 @@ body, html {
     border-width: 0.5px;
     border-radius: 2px;
     width: auto;
-    height: 20.8px;
+    height: 19.5px;
     padding: 1px;
     padding-left: 2px;
     padding-right: 2px;
@@ -430,7 +430,7 @@ a.anchor {
     color: #84b2ee; }
     .site-footer a:hover {
       color: #c0c0c0; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 850px) {
     .site-footer {
       min-height: 260px; } }
   @media screen and (max-width: 790px) {
@@ -468,7 +468,7 @@ a.anchor {
   width: -webkit-calc(45% - (30px / 2));
   width: calc(45% - (30px / 2)); }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 850px) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (30px / 2));
@@ -503,7 +503,7 @@ a.anchor {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 13.125px;
   color: #828282;
   text-align: left; }
 
@@ -512,7 +512,7 @@ a.anchor {
   font-size: 24px; }
 
 .post-permalink {
-  font-size: 14px;
+  font-size: 13.125px;
   color: #828282;
   text-align: left; }
 
@@ -592,7 +592,7 @@ a.anchor {
     font-size: 22px;
     margin-bottom: 3px;
     margin-top: 15px; }
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 850px) {
       .pub-list .pub-year {
         font-size: 18px; } }
 
@@ -609,7 +609,7 @@ a.anchor {
   letter-spacing: -1px;
   line-height: 1;
   text-align: left; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 850px) {
     .post-title {
       font-size: 36px; } }
 
@@ -619,19 +619,19 @@ a.anchor {
   .post-content h2 {
     font-size: 32px;
     text-align: justify; }
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 850px) {
       .post-content h2 {
         font-size: 28px; } }
   .post-content h3 {
     font-size: 26px;
     text-align: justify; }
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 850px) {
       .post-content h3 {
         font-size: 22px; } }
   .post-content h4 {
     font-size: 20px;
     text-align: justify; }
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 850px) {
       .post-content h4 {
         font-size: 18px; } }
 
