@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 
   <head>
@@ -7,12 +8,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width initial-scale=1">
 
-  <title>Amir Shahmoradi, PhD</title>
+  <title>Research</title>
   <meta name="description" content="Peter O'Donnell, Jr. Fellow <br> Institute for Computational Engineering and Sciences <br> 201 E 24th Street, Stop C0200 | POB 6.328 <br> Austin, TX 78712-1229 <br>
 ">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/teaching/past_news/">
+  <link rel="canonical" href="/research/">
   
   
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -78,72 +79,121 @@
 </div>
 
 
+    <div class="page-content" id="about-block">
+    <div class="wrapper">
+      <a class="anchor" id="research">Research</a>
+      <div class="post">
+        
+        <hr><br>
+        <div style="text-align:center"><i><span style="font-weight:normal; font-size:15pt; font-family:Times New Roman,sans-serif;">What does a fish know about the water in which it swims all its life?&nbsp;&nbsp;&nbsp;&nbsp;Albert Einstein</span></i><br></div>
+        <br><hr>
+        
+        <br><br>
+            
+        <header class="post-header">
+           <h1 class="post-title">Research</h1>
+        </header>
+ 
+        <article class="post-content">
+            
+          <!-- <span style="font-weight:normal; font-size:15pt; text-align:justify; text-justify:newspaper; text-kashida-space:50%"> -->
+
+          <br>
+            
+          <div class="container">
+            
+           <div class="three-column">
+             <div class="icon-cancer">
+               <a href="#cancer" imageanchor="1">
+                 <div class="icon-cancer-overlay"></div>
+               </a>
+             </div>
+             <br><br><a href="#cancer">Cancer</a>
+           </div>
+           
+           <div class="three-column">
+             <div class="icon-biophysics">
+               <a href="#biophysics" imageanchor="1">
+                 <div class="icon-biophysics-overlay"></div>
+               </a>
+             </div>
+             <br><br><a href="#biophysics">Biophysics</a>
+           </div>
+           
+           <div class="three-column">
+             <div class="icon-astrophysics">
+               <a href="#astrophysics" imageanchor="1">
+                 <div class="icon-astrophysics-overlay"></div>
+               </a>
+             </div>
+             <br><br><a href="#astrophysics">Astrophysics</a>
+           </div>
+           
+          </div>
+          
+          <p>&nbsp;</p>
+          <hr><br>
+          
+          <span style="font-weight:normal; text-align:justify; text-justify:newspaper; text-kashida-space:50%">
+          
+          <p>I am interested in exploring anything mysterious and unexplained in this world. Among all branches of science, however, <a href="http://en.wikipedia.org/wiki/Cosmology" target="_blank">Cosmology</a>, <a href="http://en.wikipedia.org/wiki/Biology" target="_blank">Biology</a>, and <a href="http://en.wikipedia.org/wiki/Particle_Physics" target="_blank">Particle Physics</a> have greatly attracted my attention. The reason behind my interests is given in an absolutely beautiful and concise quotation from <a href="http://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a> who once said:</p>
+
+          <p style="text-align:center;font-style:italic"><a href="http://www.bbc.co.uk/sn/tvradio/programmes/horizon/einstein_symphony_prog_summary.shtml" target="_blank">I want to know God's thoughts...the rest are mere details</a>.</p>
+
+          <p>and I think by `<i>God's thoughts</i>' he meant answers to the three greatest mysteries of the <a href="http://en.wikipedia.org/wiki/Universe" target="_blank">Universe</a>, three questions that I have been very frequently pondering since I was a young teenager, which led me devote my life to science,</p>
+
+          <p style="text-align:center">Why does the Universe bother to exist?</p>
+           
+          <p style="text-align:center">What is the mass &amp; matter made of?</p>
+          
+          <p style="text-align:center">What is the origin of life?</p>
+          
+          <p>Although <a href="http://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a> once <a href="https://www.youtube.com/watch?v=QkhBcLk_8f0" target="_blank">said</a> that answering the above questions might be very challenging or even impossible, I am optimistic that humanity will circumvent <a href="http://www.goodreads.com/quotes/143906-as-our-circle-of-knowledge-expands-so-does-the-circumference" target="_blank">all the darkness surrounding human knowledge</a>.</p><hr><br><br>
+           
+           
+          <a class="anchor" id="cancer">cancer</a>
+          <h2 class="post-list">Tumor Growth Modeling</h2>
+          
+          <p>The ultimate goal in the field of computational oncology is to develop mathematical models that are capable of describing and predicting relevant biological phenomena simultaneously at all physical scales, from sub-cellular to tissue level. Achieving this holy grail, however, is extremely challenging at the moment given the computational expense and complexity of biological phenomena, perhaps comparable to the complexity of bringing <a target="_blank" href="https://en.wikipedia.org/wiki/Fusion_power">fusion power</a> <a target="_blank" href="https://en.wikipedia.org/wiki/ITER">down to earth</a> for everyday <a target="_blank" href="https://en.wikipedia.org/wiki/World_energy_consumption">energy needs</a> of the society.<br><br>
+          
+          Starting May 2015, I have joined the <a target="_blank" href="https://www.ices.utexas.edu/research/centers-groups/cco/">Tumor Modeling Group</a> at the <a target="_blank" href="https://www.ices.utexas.edu/">Institute for Computational Engineering and Sciences</a> (ICES) led by <a target="_blank" href="https://www.ices.utexas.edu/people/85/">Dr. J. Tinsley Oden</a> at ICES with the goal of developing Multiscale Models of Vascular Tumor Growth. My current research focus is on developing a biophysically realistic model of single cell <a target="_blank" href="https://en.wikipedia.org/wiki/Cell_cycle">growth</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/Cell_migration">motility</a>, and later on, the <a target="_blank" href="https://en.wikipedia.org/wiki/Cell%E2%80%93cell_interaction">interactions</a> of cells with their environment and other cells.</p><br>
+          <a href='#research'>Back to Top</a><br><br>
+          
+          <a class="anchor" id="biophysics">biophysics</a>
+          <h2 class="post-list">Molecular Biology and Evolution</h2>
+          
+          <p>I have been working for several years on modelling the structure and the <a target="_blank" href="https://en.wikipedia.org/wiki/Molecular_dynamics">Molecular Dynamics</a> of biological <a target="_blank" href="https://en.wikipedia.org/wiki/Macromolecule">macromolecule systems</a>, in particular, <a target="_blank" href="https://en.wikipedia.org/wiki/Protein">proteins</a>. One of the primary goals in my studies was to identify the structural determinants of the squence evolution of viral and eukaryotic proteins. More information on this can be found in my <a href="http://www.shahmoradi.org/publications/">publications</a>.</p><br>
+          <a href='#research'>Back to Top</a><br><br>
+          
+          <a class="anchor" id="astrophysics">astrophysics</a>
+          <h2 class="post-list">High Energy Physics and Astronomy</h2>
+          
+          <p>For the majority of my research lifetime, I have worked in the field of High Energy Physics and Astronomy, mostly studying the underlying physics of <a target="_blank" href="https://en.wikipedia.org/wiki/Gamma-ray_burst">Gamma Ray Bursts</a> (GRBs), as well as the possible <a target="_blank" href="https://en.wikipedia.org/wiki/Selection_bias">selection effects</a> and instrumental biases that might affect the detection of GRBs by Gamma-ray detectors such as <a target="_blank" href="http://gammaray.nsstc.nasa.gov/batse/">BATSE</a> on board the <a target="_blank" href="https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory">Compton Gamma Ray Observatory</a> (CGRO), the <a target="_blank" href="http://swift.gsfc.nasa.gov/about_swift/bat_desc.html">Burst Alert Telescope</a> (BAT) onboard <a target="_blank" href="https://en.wikipedia.org/wiki/Swift_Gamma-Ray_Burst_Mission">Swift</a> satellite, and the <a target="_blank" href="https://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope">Fermi</a> Gamma-ray space telescope. These instrumental biases can affect or even create some of the reported <a target="_blank" href="http://www.shahmoradi.org/2010/10/04/Human-Perception-and-Instrumental-Bias.html">empirical correlations</a> among the spectral parameters of GRBs.<br><br>
+          
+          Although I am not anymore actively studying GRBs as my primary area of research career, I still do scientific research on Gamma-Ray Bursts in my leisure. More information on these ongoing researches can be found in the <a href="/research/#news/">research news</a> below and my <a href="http://www.shahmoradi.org/publications/">publications</a>.</p><br>
+          <a href='#research'>Back to Top</a>
+           
+          </span>
+        </article>
+      </div>
+
+    </div>
+    </div>
+
+
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
-
-  <h1 class="post-title">Older News</h1>
+        <div class="post">
   
+  <a class="anchor" id="news">News</a>
+  <h1 class="post-title">Research news, events and ideas</h1>
   <p> <span style="color:#666;">Primary Tags:&nbsp;&nbsp;</span>
-    <a href="../tag/teaching" class="tag">teaching</a>
+    <a href="../tag/research" class="tag">research</a>
   </p>
   <br><br>
 
-
   <ul class="post-list">
     
-    
-      
-        
-      
-        
-          
-          
-        
-      
-    
-      
-        
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-        
-      
-        
-          
-          
-        
-      
-    
-      
-        
-      
-        
-      
-        
-      
-        
-          
-          
-        
-      
-    
-      
-        
-      
-        
-      
-    
-      
-        
       
         
       
@@ -158,6 +208,8 @@
     
       
         
+      
+    
       
         
       
@@ -168,13 +220,13 @@
     
   </ul>
   
-  
-  <a href="/teaching/#news">Back to Recent News</a>
+  <a href="/research/past_news/">Older News</a>
+
 </div>
 
       </div>
     </div>
-    
+
     <footer class="site-footer">
 
   <div class="wrapper">
@@ -282,7 +334,7 @@
 
 </footer>
 
-  
+
   <!-- Start of Google Analytics Code for Default Guide -->
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -313,5 +365,4 @@
   <!-- End of StatCounter Code for Default Guide -->
   
   </body>
-
 </html>
