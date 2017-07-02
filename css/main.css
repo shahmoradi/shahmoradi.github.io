@@ -162,13 +162,18 @@ body, html {
  * Page cover
  */
 #cover {
-  /* background: url(../img/landingpage_optimized.jpg) no-repeat top left rgb(1,2,2); */
+  /* 
+  background: url(../img/landingpage_optimized.jpg) no-repeat top left rgb(1,2,2);
+  background-attachment: fixed;
+  */
   background: url(../img/landingpage_dna.jpg) no-repeat top left #010202;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%;
-  /* @include media-query($on-palm) {*/
+  /*
+  @include media-query($on-palm) {
+  */
   /*
    *-webkit-background-size: cover;
    *-moz-background-size: cover;
@@ -217,12 +222,38 @@ body, html {
   #about-block a:hover {
     color: #e8e8e8; }
 
+#container-affiliation {
+  width: 100%;
+  background: rgba(250, 250, 250, 0.7);
+  /*
+  border: 2px solid rgb(220,220,220);
+  padding: 25px;
+  margin: 25px;
+  */
+  font-weight: normal;
+  text-align: center;
+  align-content: center;
+  text-justify: newspaper;
+  text-kashida-space: 50%;
+  /* margin-bottom: 20px; */
+  display: block;
+  vertical-align: top;
+  position: relative;
+  float: center;
+  display: block;
+  /*
+  */ }
+
 #about-extension {
-  background: url(../img/light_grey_texture.jpg) no-repeat top center;
-  -webkit-background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
-  -o-background-size: 100% 100%;
-  background-size: 100% 100%;
+  /*
+  background: rgba(224,170,15,0.5);
+  */
+  background: url(../img/utaustin_grey.jpg) no-repeat top right;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   color: #000000;
   /* This is light blue */
   /*  This is light blue */
