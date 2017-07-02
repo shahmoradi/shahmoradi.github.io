@@ -248,7 +248,7 @@ body, html {
   /*
   background: rgba(224,170,15,0.5);
   */
-  background: url(../img/utaustin_grey.jpg) no-repeat top right;
+  background: url(../img/utaustin_greyMedium.jpg) no-repeat top right;
   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
