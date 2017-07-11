@@ -904,7 +904,7 @@ a.anchor {
   width: 121.21212121px;
   height: 100px;
   margin: auto auto auto auto;
-  background: url(../img/logos/nasa_optimized.png);
+  background: url(../img/logos/server_nasa.png);
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
@@ -917,7 +917,7 @@ a.anchor {
   width: 121.21212121px;
   height: 100px;
   margin: auto auto auto auto;
-  background: url(../img/logos/nasa_optimized_bright.png);
+  background: url(../img/logos/server_nasa_bright.png);
   background-size: 100% 100%;
   display: block;
   /* text-align: center; */
@@ -938,7 +938,7 @@ a.anchor {
   width: 100px;
   height: 100px;
   margin: 0 auto 0 auto;
-  background: url(../img/logos/googles.png);
+  background: url(../img/logos/server_googles.png);
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
@@ -949,7 +949,7 @@ a.anchor {
 
 .icon-googles-overlay {
   height: 100px;
-  background: url(../img/logos/googles_bright.png);
+  background: url(../img/logos/server_googles_bright.png);
   background-size: 100% 100%;
   display: block;
   /* text-align: center; */
@@ -970,7 +970,7 @@ a.anchor {
   width: 213.19444444px;
   height: 100px;
   margin: auto auto auto auto;
-  background: url(../img/logos/arxiv.png);
+  background: url(../img/logos/server_arxiv.png);
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
@@ -983,7 +983,7 @@ a.anchor {
   width: 213.19444444px;
   height: 100px;
   margin: auto auto auto auto;
-  background: url(../img/logos/arxiv_bright.png);
+  background: url(../img/logos/server_arxiv_bright.png);
   background-size: 100% 100%;
   display: block;
   /* text-align: center; */
@@ -1004,7 +1004,7 @@ a.anchor {
   width: 287.95180722px;
   height: 100px;
   margin: auto auto auto auto;
-  background: url(../img/logos/bioRxiv.png);
+  background: url(../img/logos/server_bioRxiv.png);
   background-size: 100% 100%;
   display: block;
   overflow: hidden; }
@@ -1017,7 +1017,7 @@ a.anchor {
   width: 287.95180722px;
   height: 100px;
   margin: auto auto auto auto;
-  background: url(../img/logos/bioRxiv_bright.png);
+  background: url(../img/logos/server_bioRxiv_bright.png);
   background-size: 100% 100%;
   display: block;
   /* text-align: center; */
