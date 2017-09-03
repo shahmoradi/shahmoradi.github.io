@@ -1126,6 +1126,20 @@ a.anchor {
   margin-left: auto;
   margin-right: auto; }
 
+/* ******************************************************** */
+/* ******************************************************** */
+details {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  width: 100%; }
+
+summary::-webkit-details-marker {
+  display: none; }
+
+summary:focus {
+  outline: none !important; }
+
 /**
  * Syntax highlighting styles
  */
@@ -1264,3 +1278,56 @@ a.anchor {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+/* ******************************************************** */
+/* ******************************************************** */
+/* ******************************************************** */
+.tag-box {
+  padding: 4px 0;
+  margin: 0;
+  overflow: hidden;
+  list-style: none;
+  *zoom: 1; }
+
+.tag-box:after, .tag-box:before {
+  display: table;
+  line-height: 0;
+  content: ""; }
+
+.tag-box:after {
+  clear: both; }
+
+.tag-box.inline li {
+  float: left;
+  font-size: 1rem;
+  /*
+  */
+  line-height: 2.5; }
+
+.tag-box a {
+  padding: 8px 6px;
+  margin: 4px;
+  text-decoration: none;
+  border: 0.1rem solid black;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  border-color: #2a7ae2; }
+
+.tag-box a span {
+  font-size: 1rem;
+  vertical-align: center;
+  color: #2a7ae2; }
+
+/* ******************************************************** */
+/* ******************************************************** */
+/* horizontal line */
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  color: black; }
