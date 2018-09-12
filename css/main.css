@@ -717,9 +717,9 @@ a.anchor {
         font-size: 18px; } }
 
 /**
- * Self page
+ * amir_shahmoradi page
  */
-#self {
+#amir_shahmoradi {
   background: url(../img/self_optimized.jpg) no-repeat top left #010202;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -733,7 +733,7 @@ a.anchor {
   background-size: cover;
   */ }
   @media all and (max-aspect-ratio: 2000 / 1107) {
-    #self {
+    #amir_shahmoradi {
       background: url(../img/self_optimized.jpg) no-repeat top left #010202;
       -webkit-background-size: auto 100%;
       -moz-background-size: auto 100%;
