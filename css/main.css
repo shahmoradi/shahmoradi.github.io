@@ -240,7 +240,53 @@ body, html {
   vertical-align: top;
   position: relative;
   float: center;
+  /*
+  */ }
+
+#container-whiteBox {
+  width: 100%;
+  background: white;
+  /*
+  border: 2px solid rgb(220,220,220);
+  padding: 25px;
+  margin: 25px;
+  */
+  font-weight: normal;
+  text-align: center;
+  align-content: center;
+  text-justify: newspaper;
+  text-kashida-space: 50%;
+  /* margin-bottom: 20px; */
   display: block;
+  vertical-align: top;
+  position: relative;
+  float: center;
+  /*
+  */ }
+
+#container-greyBox {
+  width: 100%;
+  background: url(../img/shadow.png) no-repeat top center;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  /*
+  background: rgba(256,256,256,1);
+  border: 2px solid rgb(220,220,220);
+  padding: 25px;
+  margin: 25px;
+  */
+  font-weight: normal;
+  text-align: center;
+  align-content: center;
+  text-justify: newspaper;
+  text-kashida-space: 50%;
+  /* margin-bottom: 20px; */
+  display: block;
+  vertical-align: top;
+  position: relative;
+  float: center;
   /*
   */ }
 
@@ -248,7 +294,11 @@ body, html {
   /*
   background: rgba(224,170,15,0.5);
   */
+  /*
   background: url(../img/utaustin_greyMedium.jpg) no-repeat top right;
+  background: url(../img/utaPlanetarium.png) no-repeat top right;
+  */
+  background: url(../img/utaSeirSouthMedium.jpg) no-repeat top right;
   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -801,7 +851,7 @@ a.anchor {
   vertical-align: middle;
   float: center; }
 
-.icon-cancer {
+.icon-biomedicine {
   width: 150px;
   height: 150px;
   margin: 0 auto 0 auto;
@@ -810,11 +860,11 @@ a.anchor {
   display: block;
   overflow: hidden; }
   @media screen and (max-width: 790px) {
-    .icon-cancer {
+    .icon-biomedicine {
       width: 70px;
       height: 70px; } }
 
-.icon-cancer-overlay {
+.icon-biomedicine-overlay {
   width: 150px;
   height: 150px;
   background: url(../img/logos/research_tgm_bright.png);
@@ -827,11 +877,11 @@ a.anchor {
   -webkit-transition: opacity .25s ease;
   -moz-transition: opacity .25s ease; }
   @media screen and (max-width: 790px) {
-    .icon-cancer-overlay {
+    .icon-biomedicine-overlay {
       width: 70px;
       height: 70px; } }
 
-.icon-cancer:hover .icon-cancer-overlay {
+.icon-biomedicine:hover .icon-biomedicine-overlay {
   opacity: 1; }
 
 .icon-biophysics {
@@ -898,6 +948,39 @@ a.anchor {
       height: 70px; } }
 
 .icon-astrophysics:hover .icon-astrophysics-overlay {
+  opacity: 1; }
+
+.icon-statisticalAlgorithms {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 0 auto;
+  background: url(../img/logos/research_mc.png);
+  background-size: 100% 100%;
+  display: block;
+  overflow: hidden; }
+  @media screen and (max-width: 790px) {
+    .icon-statisticalAlgorithms {
+      width: 70px;
+      height: 70px; } }
+
+.icon-statisticalAlgorithms-overlay {
+  width: 150px;
+  height: 150px;
+  background: url(../img/logos/research_mc_bright.png);
+  background-size: 100% 100%;
+  display: block;
+  /* text-align: center; */
+  /* padding: 45px 0 66px 0; */
+  opacity: 0;
+  overflow: hidden;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease; }
+  @media screen and (max-width: 790px) {
+    .icon-statisticalAlgorithms-overlay {
+      width: 70px;
+      height: 70px; } }
+
+.icon-statisticalAlgorithms:hover .icon-statisticalAlgorithms-overlay {
   opacity: 1; }
 
 .icon-nasa {
