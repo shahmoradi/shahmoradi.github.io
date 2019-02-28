@@ -1,0 +1,5 @@
+glossary:
+
+    CPRMC: Cedar Park Regional Medical Center
+    MCA: Middle Cerebal Artery
+    MRA: Magnetic Resonance Angiography
