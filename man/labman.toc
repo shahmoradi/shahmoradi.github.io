@@ -1,8 +1,0 @@
-\contentsline {section}{\numberline {0.1}Introduction}{2}{section.0.1}
-\contentsline {section}{\numberline {0.2}Current and Past Members}{3}{section.0.2}
-\contentsline {section}{\numberline {0.3}Communication}{3}{section.0.3}
-\contentsline {subsection}{\numberline {0.3.1}Instant Communication}{3}{subsection.0.3.1}
-\contentsline {subsection}{\numberline {0.3.2}Other Communications}{3}{subsection.0.3.2}
-\contentsline {section}{\numberline {0.4}Introduction}{4}{section.0.4}
-\contentsline {chapter}{\numberline {1}Meetings}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}1st Joint Meeting: Monday, 10:00-11:15, Sep 10 2018}{5}{section.1.1}
