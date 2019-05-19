@@ -598,8 +598,78 @@ a.anchor {
   text-align: left; }
 
 /* **************************************** */
+/*      style for the news archive link     */
+/* **************************************** */
+.news-archive-link {
+  color: crimson;
+  /*
+  font-size: 1.2rem;
+  */
+  font-size: 1.2rem;
+  -webkit-transition: color 0.2s ease-in-out; }
+  .news-archive-link:hover {
+    text-decoration: none;
+    color: Coral; }
+  .news-archive-link:before {
+    font-family: FontAwesome;
+    content: "\f187";
+    /* "fa-archive"; */
+    padding-right: .5em; }
+
+/* **************************************** */
+/*      style for the RSS Feeds tags        */
+/* **************************************** */
+.rss-feed-link {
+  color: crimson;
+  font-size: 1.2rem;
+  -webkit-transition: color 0.2s ease-in-out; }
+  .rss-feed-link:hover {
+    text-decoration: none;
+    color: Coral; }
+  .rss-feed-link:before {
+    font-family: FontAwesome;
+    content: "\f09e";
+    /* "fa fa-rss"; */
+    padding-right: .5em; }
+
+/* **************************************** */
 /* Start of the the style for the post tags */
 /* **************************************** */
+.post-tag {
+  display: inline-block;
+  /* 
+  background: rgba(red, 0.05);
+  background: rgba(#6a9fb5, 0.15);
+  */
+  padding: 0 .5rem;
+  margin-right: .5rem;
+  border-radius: 4px;
+  color: #828282;
+  /* 
+  color: #6a9fb5;
+  font-family: $font-sans;
+  */
+  font-size: 90%;
+  -webkit-transition: color 0.2s ease-in-out;
+  /* 
+@include transition(all .1s ease-in-out);
+  */ }
+  .post-tag:before {
+    content: "\f02b";
+    font-family: FontAwesome;
+    /* 
+    font-family: $font-font-awesome;
+    */
+    padding-right: .5em; }
+  .post-tag:hover {
+    text-decoration: none;
+    /* 
+    background: #6a9fb5;
+    */
+    background: crimson;
+    color: white;
+    /* white */ }
+
 .tags {
   list-style: none;
   margin: 0;
@@ -653,6 +723,22 @@ a.anchor {
 
 .tag:hover::after {
   border-left-color: crimson; }
+
+/* styles for tag cloud */
+.tag-size-5 {
+  font-size: 1.4rem; }
+
+.tag-size-4 {
+  font-size: 1.3rem; }
+
+.tag-size-3 {
+  font-size: 1.20rem; }
+
+.tag-size-2 {
+  font-size: 1.10rem; }
+
+.tag-size-1 {
+  font-size: 1.00rem; }
 
 /* ************************************** */
 /* End of the the style for the post tags */

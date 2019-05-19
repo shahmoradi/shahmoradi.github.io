@@ -3,45 +3,49 @@
 
   <head>
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width initial-scale=1">
 
-  <title>Computational Data Science Lab</title>
-  <meta name="description" content="Department of Physics | Data Science Program<br> Science & Engineering Innovation & Research Bdg<br> 655 W Mitchell St | SEIR 365<br> Arlington, TX 76010-1765<br>
+    <title>Computational Data Science Lab</title>
+    <meta name="description" content="Department of Physics | Data Science Program<br> Science & Engineering Innovation & Research Bdg<br> 655 W Mitchell St | SEIR 365<br> Arlington, TX 76010-1765<br>
 ">
 
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/">
-  
-  <!--
-  <script src="/js/jquery-1.11.3.min.js"></script>
-  <script src="/js/jquery.mobile-1.4.5.min.js"></script>
-  -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/">
 
-  <script type="text/javascript">
-    function sticky_relocate() {
-      var window_top = $(window).scrollTop();
-      var div_top = $('#content-anchor').offset().top;
-      if (window_top > div_top) {
-        $('#sticky').addClass('stick');
-        $('#sticky-phantom').show();
-      } else {
-        $('#sticky').removeClass('stick');
-        $('#sticky-phantom').hide();
-      }
-    }
+    <!--
+    <script src="/js/jquery-1.11.3.min.js"></script>
+    <script src="/js/jquery.mobile-1.4.5.min.js"></script>
+    -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
-    $(function () {
-      $(window).scroll(sticky_relocate);
-      sticky_relocate();
-    });
+    <script type="text/javascript">
+        function sticky_relocate() {
+        var window_top = $(window).scrollTop();
+        var div_top = $('#content-anchor').offset().top;
+        if (window_top > div_top) {
+            $('#sticky').addClass('stick');
+            $('#sticky-phantom').show();
+        } else {
+            $('#sticky').removeClass('stick');
+            $('#sticky-phantom').hide();
+        }
+        }
     
-    $(window).load(function() {
-	    $(".loader").fadeOut( "medium" );
-    })
-  </script>
+        $(function () {
+        $(window).scroll(sticky_relocate);
+        sticky_relocate();
+        });
+        
+        $(window).load(function() {
+            $(".loader").fadeOut( "medium" );
+        })
+    </script>
+
+    <!-- feeds reader -->
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+    <link href='/feed.xml' rel='alternate' type='application/atom+xml'>
 
 </head>
 
@@ -242,38 +246,135 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
-  
-  <a class="anchor" id="news">News</a>
-  <h1 class="post-title">Recent news, events and ideas</h1>
-  
-  <p> <span style="color:#666;">Primary Tags:&nbsp;&nbsp;</span>
-    <a href="tag/amir_shahmoradi" class="tag">amir_shahmoradi</a>
-    <a href="tag/astrophysics" class="tag">astrophysics</a>
-    <a href="tag/cognitive_science" class="tag">cognitive_science</a>
-    <a href="tag/high_energy_physics" class="tag">high_energy_physics</a>
-    <a href="tag/ideas" class="tag">ideas</a>
-    <a href="tag/photography" class="tag">photography</a>
-    <a href="tag/physics" class="tag">physics</a>
-    <a href="tag/research" class="tag">research</a>
-    <a href="tag/teaching" class="tag">teaching</a>
-  </p>
-  <br><br>
+    <a class="anchor" id="news">News</a>
+    <h1 class="post-title">
+        Recent news, events and ideas
+        <!--
+        (
+        <a title="All news archive" href="/archive" target="_blank" class="news-archive-link">&nbsp;News Archive</a>
+        )
+        -->
+    </h1>
+    <!-- generate tag cloud -->
 
-  <ul class="post-list">
+
+
     
-      <li>
-        <h2>
-          <a href="/2017/08/29/ICP2017F.html">Introduction to Computer Programming - Fall 2017</a>
-        </h2>
+    
+    
+    
+    <span class="tag-size-5">
+        <!--
+        <a class="tag-link" href="/tag/research" rel="tag">research</a> (5)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/research" rel="tag">research (5)</a>
+    </span>
 
-        <span class="post-meta">
-            Amir Shahmoradi &nbsp;&nbsp;•&nbsp;&nbsp; Aug 29, 2017 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
-        </span>
+    
+    
+    
+    
+    <span class="tag-size-5">
+        <!--
+        <a class="tag-link" href="/tag/teaching" rel="tag">teaching</a> (5)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/teaching" rel="tag">teaching (5)</a>
+    </span>
+
+    
+    
+    
+    
+    <span class="tag-size-4">
+        <!--
+        <a class="tag-link" href="/tag/amir-shahmoradi" rel="tag">amir_shahmoradi</a> (4)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/amir_shahmoradi" rel="tag">amir_shahmoradi (4)</a>
+    </span>
+
+    
+    
+    
+    
+    <span class="tag-size-4">
+        <!--
+        <a class="tag-link" href="/tag/astrophysics" rel="tag">astrophysics</a> (4)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/astrophysics" rel="tag">astrophysics (4)</a>
+    </span>
+
+    
+    
+    
+    
+    <span class="tag-size-4">
+        <!--
+        <a class="tag-link" href="/tag/physics" rel="tag">physics</a> (4)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/physics" rel="tag">physics (4)</a>
+    </span>
+
+    
+    
+    
+    
+    <span class="tag-size-2">
+        <!--
+        <a class="tag-link" href="/tag/ideas" rel="tag">ideas</a> (2)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/ideas" rel="tag">ideas (2)</a>
+    </span>
+
+    
+    
+    
+    
+    <span class="tag-size-1">
+        <!--
+        <a class="tag-link" href="/tag/cognitive-science" rel="tag">cognitive_science</a> (1)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/cognitive_science" rel="tag">cognitive_science (1)</a>
+    </span>
+
+    
+    
+    
+    
+    <span class="tag-size-1">
+        <!--
+        <a class="tag-link" href="/tag/high-energy-physics" rel="tag">high_energy_physics</a> (1)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/high_energy_physics" rel="tag">high_energy_physics (1)</a>
+    </span>
+
+    
+    
+    
+    
+    <span class="tag-size-1">
+        <!--
+        <a class="tag-link" href="/tag/photography" rel="tag">photography</a> (1)&nbsp;&nbsp;•&nbsp;&nbsp;
+        -->
+        <a class="post-tag" href="/tag/photography" rel="tag">photography (1)</a>
+    </span>
+
+<br><br>
+<a title="Subscribe to all news" href="/feed.xml" class="rss-feed-link">&nbsp;&nbsp;Subscribe to all news</a><br>
+<a title="All news archive" href="/archive" target="_blank" class="news-archive-link">&nbsp;News archive</a><br>
+<br><br><br>
+    <ul class="post-list">
         
-          <a style="text-decoration: none;" href="tag/teaching"><span class="tag">teaching</span></a>
-        <br><br>
-        
-        <p>
+            <li>
+                <h2>
+                    <a href="/2017/08/29/ICP2017F.html">Introduction to Computer Programming - Fall 2017</a>
+                </h2>
+                <span class="post-meta">
+                    <a href="/PI" target="_blank">Amir Shahmoradi</a> &nbsp;&nbsp;•&nbsp;&nbsp; Aug 29, 2017 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
+                </span>
+                
+                    <a style="text-decoration: none;" href="tag/teaching"><span class="post-tag">teaching</span></a>
+                <br><br>
+                <p>
 This semester I will be teaching the <a href="/ICP2017F/about/" target="_blank">Introduction to Computer Programming</a> for Engineering Computation Program at UT Austin as well as the Department of Aerospace Engineering and Engineering Mechanics. The focus of the course will be on MATLAB, C++, and Fortran programming languages. All the course material and news will be available on-the-fly on the <a href="/ICP2017F/" target="_blank">website</a> that I have designed for this course.
 </p>
 
@@ -329,27 +430,23 @@ $(function() {
 </script>
 -->
 
-        
-        <span class="post-permalink">
+                <span class="post-permalink">
   <br>For comments and sharing, visit the post's permanent page: <a href="/2017/08/29/ICP2017F.html">Introduction to Computer Programming - Fall 2017</a><br>
   <hr><br><br>
 </span>
-            
-      </li>
-    
-      <li>
-        <h2>
-          <a href="/2017/01/16/ECL2017S.html">Engineering Computation Lab - Spring 2017</a>
-        </h2>
-
-        <span class="post-meta">
-            Amir Shahmoradi &nbsp;&nbsp;•&nbsp;&nbsp; Jan 16, 2017 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
-        </span>
+            </li>
         
-          <a style="text-decoration: none;" href="tag/teaching"><span class="tag">teaching</span></a>
-        <br><br>
-        
-        <p>
+            <li>
+                <h2>
+                    <a href="/2017/01/16/ECL2017S.html">Engineering Computation Lab - Spring 2017</a>
+                </h2>
+                <span class="post-meta">
+                    <a href="/PI" target="_blank">Amir Shahmoradi</a> &nbsp;&nbsp;•&nbsp;&nbsp; Jan 16, 2017 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
+                </span>
+                
+                    <a style="text-decoration: none;" href="tag/teaching"><span class="post-tag">teaching</span></a>
+                <br><br>
+                <p>
 This semester I will be teaching the <a href="https://www.shahmoradi.org/ECL2017S/about/" target="_blank">Engineering Computation Lab</a> for Aerospace undergraduate students. All the course material and news will be available on-the-fly on the <a href="https://www.shahmoradi.org/ECL2017S/" target="_blank">website</a> that I have designed for this course.
 </p>
 
@@ -405,29 +502,25 @@ $(function() {
 </script>
 -->
 
-        
-        <span class="post-permalink">
+                <span class="post-permalink">
   <br>For comments and sharing, visit the post's permanent page: <a href="/2017/01/16/ECL2017S.html">Engineering Computation Lab - Spring 2017</a><br>
   <hr><br><br>
 </span>
-            
-      </li>
-    
-      <li>
-        <h2>
-          <a href="/2015/09/27/supermoon-lunar-eclipse.html">Sep 2015 Supermoon lunar eclipse and its side-products</a>
-        </h2>
-
-        <span class="post-meta">
-            Amir Shahmoradi &nbsp;&nbsp;•&nbsp;&nbsp; Sep 27, 2015 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
-        </span>
+            </li>
         
-          <a style="text-decoration: none;" href="tag/photography"><span class="tag">photography</span></a>
-        
-          <a style="text-decoration: none;" href="tag/amir_shahmoradi"><span class="tag">amir_shahmoradi</span></a>
-        <br><br>
-        
-        <p>
+            <li>
+                <h2>
+                    <a href="/2015/09/27/supermoon-lunar-eclipse.html">Sep 2015 Supermoon lunar eclipse and its side-products</a>
+                </h2>
+                <span class="post-meta">
+                    <a href="/PI" target="_blank">Amir Shahmoradi</a> &nbsp;&nbsp;•&nbsp;&nbsp; Sep 27, 2015 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
+                </span>
+                
+                    <a style="text-decoration: none;" href="tag/photography"><span class="post-tag">photography</span></a>
+                
+                    <a style="text-decoration: none;" href="tag/amir_shahmoradi"><span class="post-tag">amir_shahmoradi</span></a>
+                <br><br>
+                <p>
 The year 2015 has a total of six <a target="_blank" href="https://en.wikipedia.org/wiki/Supermoon">supermoons</a>. The full moon on September 28, 2015, was in particular most interesting, since it is apparently the closest supermoon of the year 2015 (only 356,896 kilometers or 221,754 miles away from the earth). What made it even more interesting, this September 28, 2015 full moon staged a total lunar eclipse, concluding a series of Blood Moon eclipses that initially started with the total lunar eclipse of April 15, 2014. Unfortunately, my attempts to capture the <i>super lunar eclipse</i> failed today due to partly cloudy sky of the city of Austin. Nevertheless, I managed to capture a time-lapse of the semi-super moon on the following night, as well as making a not-so-bad night-lapse of the <a target="_blank" href="https://en.wikipedia.org/wiki/Pennybacker_Bridge">Pennybacker Bridge</a> on Texas <a target="_blank" href="https://en.wikipedia.org/wiki/Texas_State_Highway_Loop_360">loop 360</a> state Highway.
 </p>
 <p><br /></p>
@@ -443,58 +536,50 @@ The year 2015 has a total of six <a target="_blank" href="https://en.wikipedia.o
 <p><br /></p>
 
 
-        
-        <span class="post-permalink">
+                <span class="post-permalink">
   <br>For comments and sharing, visit the post's permanent page: <a href="/2015/09/27/supermoon-lunar-eclipse.html">Sep 2015 Supermoon lunar eclipse and its side-products</a><br>
   <hr><br><br>
 </span>
-            
-      </li>
-    
-      <li>
-        <h2>
-          <a href="/2015/05/22/birthday_graduation.html">Celebrating the Happy Coincidence of Graduation Day and Birthday</a>
-        </h2>
-
-        <span class="post-meta">
-            Amir Shahmoradi &nbsp;&nbsp;•&nbsp;&nbsp; May 22, 2015 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
-        </span>
+            </li>
         
-          <a style="text-decoration: none;" href="tag/amir_shahmoradi"><span class="tag">amir_shahmoradi</span></a>
-        
-          <a style="text-decoration: none;" href="tag/teaching"><span class="tag">teaching</span></a>
-        <br><br>
-        
-        <p>This year on my birthday, coincident with the official day of my PhD degree award, I received a gift from the <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_Nobel_laureates">Nobel laureate</a> <a target="_blank" href="https://en.wikipedia.org/wiki/Steven_Weinberg">Steven Weinberg</a> and a second precious gift from the University of Texas, which I dedicated to the two angels who made it happen.</p>
+            <li>
+                <h2>
+                    <a href="/2015/05/22/birthday_graduation.html">Celebrating the Happy Coincidence of Graduation Day and Birthday</a>
+                </h2>
+                <span class="post-meta">
+                    <a href="/PI" target="_blank">Amir Shahmoradi</a> &nbsp;&nbsp;•&nbsp;&nbsp; May 22, 2015 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
+                </span>
+                
+                    <a style="text-decoration: none;" href="tag/amir_shahmoradi"><span class="post-tag">amir_shahmoradi</span></a>
+                
+                    <a style="text-decoration: none;" href="tag/teaching"><span class="post-tag">teaching</span></a>
+                <br><br>
+                <p>This year on my birthday, coincident with the official day of my PhD degree award, I received a gift from the <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_Nobel_laureates">Nobel laureate</a> <a target="_blank" href="https://en.wikipedia.org/wiki/Steven_Weinberg">Steven Weinberg</a> and a second precious gift from the University of Texas, which I dedicated to the two angels who made it happen.</p>
 
 <p><a href="/img/self/dedication_2048.jpg" target="_blank"><img src="/img/self/dedication_900.png" width="900" /></a></p>
 
 
-        
-        <span class="post-permalink">
+                <span class="post-permalink">
   <br>For comments and sharing, visit the post's permanent page: <a href="/2015/05/22/birthday_graduation.html">Celebrating the Happy Coincidence of Graduation Day and Birthday</a><br>
   <hr><br><br>
 </span>
-            
-      </li>
-    
-      <li>
-        <h2>
-          <a href="/2015/02/06/last-TAship.html">Last Teaching Assistantship of Graduate Life</a>
-        </h2>
-
-        <span class="post-meta">
-            Amir Shahmoradi &nbsp;&nbsp;•&nbsp;&nbsp; Feb 6, 2015 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
-        </span>
+            </li>
         
-          <a style="text-decoration: none;" href="tag/ideas"><span class="tag">ideas</span></a>
-        
-          <a style="text-decoration: none;" href="tag/amir_shahmoradi"><span class="tag">amir_shahmoradi</span></a>
-        
-          <a style="text-decoration: none;" href="tag/teaching"><span class="tag">teaching</span></a>
-        <br><br>
-        
-        <p>I have always been fond of teaching all my life. It's a great feeling of responsibility and power when you go to the chalkboard in front of tens of students with brains like a white paper, ready to register whatever they are taught, permanently in their mind. and there comes the great responsibility on teacher. Depending on what you teach and how you teach, you can change not only the lives of your students but also generations to come. I can still very well remember those few teachers during elementary school and high school, who made me who I am today. and there are examples of great influential teachers in science too: <a target="_blank" href="https://en.wikipedia.org/wiki/Arnold_Sommerfeld">Arnold Sommerfeld</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler">John Archibald Wheeler</a>. Almost the entire structure of modern physics (and even chemistry) was built by the students of these two physicists and their descendants.</p>
+            <li>
+                <h2>
+                    <a href="/2015/02/06/last-TAship.html">Last Teaching Assistantship of Graduate Life</a>
+                </h2>
+                <span class="post-meta">
+                    <a href="/PI" target="_blank">Amir Shahmoradi</a> &nbsp;&nbsp;•&nbsp;&nbsp; Feb 6, 2015 &nbsp;&nbsp;•&nbsp;&nbsp; Tags: &nbsp;&nbsp;&nbsp;
+                </span>
+                
+                    <a style="text-decoration: none;" href="tag/ideas"><span class="post-tag">ideas</span></a>
+                
+                    <a style="text-decoration: none;" href="tag/amir_shahmoradi"><span class="post-tag">amir_shahmoradi</span></a>
+                
+                    <a style="text-decoration: none;" href="tag/teaching"><span class="post-tag">teaching</span></a>
+                <br><br>
+                <p>I have always been fond of teaching all my life. It's a great feeling of responsibility and power when you go to the chalkboard in front of tens of students with brains like a white paper, ready to register whatever they are taught, permanently in their mind. and there comes the great responsibility on teacher. Depending on what you teach and how you teach, you can change not only the lives of your students but also generations to come. I can still very well remember those few teachers during elementary school and high school, who made me who I am today. and there are examples of great influential teachers in science too: <a target="_blank" href="https://en.wikipedia.org/wiki/Arnold_Sommerfeld">Arnold Sommerfeld</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler">John Archibald Wheeler</a>. Almost the entire structure of modern physics (and even chemistry) was built by the students of these two physicists and their descendants.</p>
 
 <p>As for myself, last semester I decided to take on a partial teaching duty for one last time in graduate school. Yesterday I received the students' evaluation. and a positive feedback I believe is the best reward a teacher could get :-) </p>
 
@@ -525,18 +610,14 @@ The year 2015 has a total of six <a target="_blank" href="https://en.wikipedia.o
 </ul>
 
 
-        
-        <span class="post-permalink">
+                <span class="post-permalink">
   <br>For comments and sharing, visit the post's permanent page: <a href="/2015/02/06/last-TAship.html">Last Teaching Assistantship of Graduate Life</a><br>
   <hr><br><br>
 </span>
-            
-      </li>
-    
-  </ul>
-  
-  <a href="/past_news/">Older News</a>
-
+            </li>
+        
+    </ul>
+    <a href="/past_news/">Older News</a>
 </div>
 
       </div>
