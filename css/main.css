@@ -655,8 +655,9 @@ a.anchor {
 @include transition(all .1s ease-in-out);
   */ }
   .post-tag:before {
-    content: "\f02b";
     font-family: FontAwesome;
+    content: "\f02b";
+    /*  "fa fa-tag" */
     /* 
     font-family: $font-font-awesome;
     */
