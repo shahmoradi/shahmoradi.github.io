@@ -1640,6 +1640,18 @@ select:focus {
   padding: 15px 0 15px;
   color: #cfb87c; }
 
+.tabs .fas {
+  font-size: 40px;
+  width: 100%;
+  padding: 15px 0 15px;
+  color: #cfb87c; }
+
+.fas {
+  font-size: 30px;
+  width: 100%;
+  padding: 15px 0 15px;
+  color: white; }
+
 /*
     color:#666;
 .tabs.active .fa
