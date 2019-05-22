@@ -606,15 +606,18 @@ a.anchor {
   font-size: 1.2rem;
   */
   font-size: 1.2rem;
+  /* "fas fa-archive"; */
+    /*
+&:before {
+    font-family: FontAwesome;
+    content: "\f187";
+    padding-right: .5em;
+}
+*/
   -webkit-transition: color 0.2s ease-in-out; }
   .news-archive-link:hover {
     text-decoration: none;
     color: Coral; }
-  .news-archive-link:before {
-    font-family: FontAwesome;
-    content: "\f187";
-    /* "fa-archive"; */
-    padding-right: .5em; }
 
 /* **************************************** */
 /*      style for the RSS Feeds tags        */
@@ -622,17 +625,18 @@ a.anchor {
 .rss-feed-link {
   color: crimson;
   font-size: 1.2rem;
+  /* "fas fa-rss"; */
+    /*
+&:before {
+    font-family: FontAwesome;
+    content: "\f09e";
+    padding-right: .5em;
+}
+    */
   -webkit-transition: color 0.2s ease-in-out; }
   .rss-feed-link:hover {
     text-decoration: none;
     color: Coral; }
-  .rss-feed-link:before {
-    font-family: FontAwesome;
-    content: "\f09e";
-    /*
-    */
-    /* "fas fa-rss"; */
-    padding-right: .5em; }
 
 /* **************************************** */
 /* Start of the the style for the post tags */
