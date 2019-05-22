@@ -629,7 +629,9 @@ a.anchor {
   .rss-feed-link:before {
     font-family: FontAwesome;
     content: "\f09e";
-    /* "fa fa-rss"; */
+    /*
+    */
+    /* "fas fa-rss"; */
     padding-right: .5em; }
 
 /* **************************************** */
@@ -656,8 +658,8 @@ a.anchor {
   */ }
   .post-tag:before {
     font-family: FontAwesome;
+    /*  "fas fa-tag" */
     content: "\f02b";
-    /*  "fa fa-tag" */
     /* 
     font-family: $font-font-awesome;
     */
