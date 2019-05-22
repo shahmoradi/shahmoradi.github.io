@@ -652,18 +652,18 @@ a.anchor {
   font-family: $font-sans;
   */
   font-size: 90%;
+  /*  "fas fa-tag" */
+  /* 
+&:before {
+  font-family: FontAwesome;
+  content: "\f02b"; 
+  padding-right: .5em;
+}
+  */
   -webkit-transition: color 0.2s ease-in-out;
   /* 
 @include transition(all .1s ease-in-out);
   */ }
-  .post-tag:before {
-    font-family: FontAwesome;
-    /*  "fas fa-tag" */
-    content: "\f02b";
-    /* 
-    font-family: $font-font-awesome;
-    */
-    padding-right: .5em; }
   .post-tag:hover {
     text-decoration: none;
     /* 
@@ -1649,13 +1649,15 @@ select:focus {
   padding: 15px 0 15px;
   color: #cfb87c; }
 
-.fas {
-  font-size: 30px;
-  width: 100%;
-  padding: 15px 0 15px;
-  color: white; }
-
 /*
+.fas
+{
+    font-size: 30px;
+    width:100%;
+    padding: 15px 0 15px;
+    color: white;
+}
+
     color:#666;
 .tabs.active .fa
  {
