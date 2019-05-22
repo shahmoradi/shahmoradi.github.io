@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - physics</title>
     <link href="/tag/physics/index.xml" rel="self"/>
     <link href="/tag/physics/"/>
-    <updated>2019-05-22T04:38:03-04:00</updated>
+    <updated>2019-05-22T16:47:26-04:00</updated>
     <id>/tag/physics.html</id>
     <author>
         <name>site.author</name>
@@ -26,6 +26,8 @@
 &lt;p&gt;&lt;b&gt;A Brief (incomplete) Introduction to the Story:&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29&quot; target=&quot;_blank&quot;&gt; Luminosity Function&lt;/a&gt; (LF) of &lt;a href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burst#Long_gamma-ray_bursts&quot; target=&quot;_blank&quot;&gt;Long-duration Gamma-Ray Bursts&lt;/a&gt; (LGRBs) has been subject of many researches in GRB community. Early attempts to constrain the LF of LGRBs in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory#BATSE&quot; target=&quot;_blank&quot;&gt;BATSE&lt;/a&gt; era were primarily aimed at finding the true origin of LGRBs: Cosmological vs. Galactic. Back in the 90’ there was a &lt;a href=&quot;https://apod.nasa.gov/diamond_jubilee/debate95.html&quot; target=&quot;_blank&quot;&gt;great debate and suspicion&lt;/a&gt; about the cosmological origin of LGRBs with some scientists arguing that a cosmological origin for GRBs would imply an enormous output of energy on the order of. 10&lt;sup&gt;51&lt;/sup&gt; [erg] in a matter of a few seconds. Nevertheless, observations of the GRB afterglows in the late 90’ and the &lt;a href=&quot;https://www.nature.com/nature/journal/v387/n6636/full/387878a0.html&quot; target=&quot;_blank&quot;&gt;first measurement of a GRB redshift&lt;/a&gt;, ruled out the galactic models as a potential candidate for GRBs, or at best, for many classes of Gamma-Ray events. Now with GRB distance puzzle being solved, researchers turned into other interesting aspects of these bursts, such as the studies of GRB energetics and the correlations among the spectral parameters of the prompt gamma-ray emission from (mostly) LGRBs. Most prominently, some observational astronomers reported strong correlations between the total isotropic emission of the gamma-ray energies (E&lt;sub&gt;iso&lt;/sub&gt;), or the isotropic peak luminosity (L&lt;sub&gt;iso&lt;/sub&gt;) and &lt;a href=&quot;/2010/04/07/hardness-as-measure-of-peak-energy.html&quot; target=&quot;_blank&quot;&gt;the spectral peak energies (E&lt;sub&gt;P,z&lt;/sub&gt;)&lt;/a&gt; of LGRBs. Such correlations were later criticized by some other researchers for the lack of significance and sample incompleteness. The culprit here turns out to be the unknown complex selection effects in the GRB detection mechanism, spectral analysis, and redshift measurement which modify the observed sample of LGRBs from the true underlying population without leaving a clear trace. Nevertheless, the debate still goes on to this date among GRB researchers (c.f. &lt;a href=&quot;/2010/10/04/Human-Perception-and-Instrumental-Bias.html&quot; target=&quot;_blank&quot;&gt;Shahmoradi &amp;amp; Nemiroff 2011&lt;/a&gt; for a complete review).&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;&lt;b&gt;Motivation:&lt;/b&gt;&lt;/p&gt;
 
@@ -76,6 +78,8 @@
 
 &lt;p&gt;The psychological literature is full of studies that demonstrate how the humans’ limited senses can result in cognitive flaws and biases in our understanding of the universe. In fact, psychologists have pinpointed many specific biases that affect not only the way we see but how we think about and perceive the world. &lt;a href=&quot;https://en.wikipedia.org/wiki/Confirmation_bias&quot; target=&quot;_blank&quot;&gt;Confirmation bias&lt;/a&gt;, for example, is the tendency to notice, accept, and remember data that confirms what we already believe, and &lt;i&gt;to ignore, forget, or explain away&lt;/i&gt; data that is contradictory to our beliefs. To make things worse, add the (unknown) limitations of instruments by which human probes the universe. The combined effects of human and instrument biases can result in erroneous conclusions and predictions.&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
@@ -108,6 +112,8 @@
   –  Conditional E&lt;sub&gt;P,obs&lt;/sub&gt; probability density functions for all bursts can be downloaded collectively as a &lt;a href=&quot;https://www.dropbox.com/s/gzzyhjp93lk410j/BATSE_2127_GRBs_Cond_Epk_pdfs.zip?dl=0&quot; target=&quot;_blank&quot;&gt;zip file&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;One of the most widely used spectral parameters in the studies of &lt;a href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burst&quot; target=&quot;_blank&quot;&gt;Gamma-Ray Bursts&lt;/a&gt; (GRBs) is the time-integrated νF&lt;sub&gt;ν&lt;/sub&gt; spectrum peak energy of these cosmic events. Since the early 1990s, there has been a growing trend in the research community to plot GRBs’s spectra in the form of E&lt;sup&gt;2&lt;/sup&gt; dE or νF&lt;sub&gt;ν&lt;/sub&gt; versus energy, (E), where F&lt;sub&gt;ν&lt;/sub&gt; is the spectral flux at the frequency ν. This has the advantage of making it easy to discern the energy of the &lt;i&gt;peak power&lt;/i&gt; from the burst. The νF&lt;sub&gt;ν&lt;/sub&gt; plot of many of the bursts’ spectra shows a peak which is denoted by E&lt;sub&gt;P,obs&lt;/sub&gt; where the subscript “&lt;sub&gt;P,obs&lt;/sub&gt;” stands for OBServer-frame spectral Peak energy (in contrast to the Comoving-frame Peak energy).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20100407_grb_photon_spectrum.png&quot; imageanchor=&quot;1&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/img/research/aca/20100407_grb_photon_spectrum.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 
@@ -145,7 +151,7 @@
         <link href="/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle.html"/>
         <updated>2007-05-22T00:00:00-04:00</updated>
         <id>/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle</id>
-        <content type="html">&lt;p&gt;After months of research and article reading, my undergraduate degree project is complete and available to view &lt;a target=&quot;_blank&quot; href=&quot;/pubs/Shahmoradi_2007.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+        <content type="html">&lt;p&gt;After months of research and article reading, my undergraduate degree project is complete and available to view &lt;a target=&quot;_blank&quot; href=&quot;/pubs/Shahmoradi_2007.pdf&quot;&gt;here&lt;/a&gt; (it’s all in &lt;a href=&quot;https://en.wikipedia.org/wiki/Persian_language&quot; target=&quot;_blank&quot;&gt;Persian language&lt;/a&gt;).&lt;/p&gt;
 </content>
     </entry>
     

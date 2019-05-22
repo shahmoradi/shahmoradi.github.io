@@ -1653,6 +1653,14 @@ select:focus {
   padding: 15px 0 15px;
   color: #cfb87c; }
 
+[type=radio]:checked ~ label {
+  background: white;
+  border-bottom: 1px solid white;
+  z-index: 2; }
+
+[type=radio]:checked ~ label ~ .content {
+  z-index: 1; }
+
 /*
 .fas
 {
@@ -1668,6 +1676,16 @@ select:focus {
     color: #cfb87c;
 }
 */
+/*******************************************/
+/* mul
+/*******************************************/
+.row {
+  display: flex; }
+
+.column {
+  flex: 33.33%;
+  padding: 5px; }
+
 /**
  * Syntax highlighting styles
  */
