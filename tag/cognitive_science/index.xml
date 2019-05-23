@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - cognitive_science</title>
     <link href="/tag/cognitive_science/index.xml" rel="self"/>
     <link href="/tag/cognitive_science/"/>
-    <updated>2019-05-23T15:13:57-04:00</updated>
+    <updated>2019-05-23T15:32:37-04:00</updated>
     <id>/tag/cognitive_science.html</id>
     <author>
         <name>site.author</name>
@@ -24,11 +24,6 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;!--
-https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
-
---&gt;
-
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
         &lt;a href=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/SameColorIllusion.png&quot; target=&quot;_blank&quot;&gt;
@@ -48,11 +43,6 @@ https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyl
 &lt;p&gt;Back in 2008, I and my adviser – &lt;a href=&quot;https://apod.nasa.gov/htmltest/rjn.html&quot; target=&quot;_blank&quot;&gt;professor Robert Nemiroff&lt;/a&gt; – began to model the unknown selection effects and biases that might happen during the detection process and spectral analysis of &lt;a href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burst&quot; target=&quot;_blank&quot;&gt;Long-duration Gamma-Ray Bursts&lt;/a&gt; (LGRBs). Surprisingly, it turned out that apparently a large fraction of LGRBs go undetected by gamma-ray detectors (e.g. &lt;a href=&quot;https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory#BATSE&quot; target=&quot;_blank&quot;&gt;BATSE&lt;/a&gt;, &lt;a href=&quot;https://heasarc.nasa.gov/docs/swift/&quot; target=&quot;_blank&quot;&gt;Swift&lt;/a&gt;). In addition, a significant number of &lt;i&gt;detected&lt;/i&gt; LGRBs are generally ignored in data analysis due to low quality data. The combined effects of the two biases, together with the unknown selection effects on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Redshift&quot; target=&quot;_blank&quot;&gt;redshift&lt;/a&gt; measurements of LGRBs can artificially signify the strength of (or even create) some of the well-known LGRB spectral correlations. In particular, we found that a significant fraction (&amp;gt;19%) of BATSE LGRBs are likely inconsistent with &lt;a href=&quot;https://www.aanda.org/index.php?option=com_article&amp;amp;access=doi&amp;amp;doi=10.1051/0004-6361:20020722&amp;amp;Itemid=129&quot; target=&quot;_blank&quot;&gt;the Amati relation&lt;/a&gt; at &amp;gt;3σ significance level. This would in turn undermine the utilities of LGRBs as cosmological tools to probe &lt;a href=&quot;https://en.wikipedia.org/wiki/Dark_energy&quot; target=&quot;_blank&quot;&gt;Dark Energy&lt;/a&gt;’s equation of state (e.g., &lt;a href=&quot;http://adsabs.harvard.edu//abs/2007ApJ...660...16S&quot; target=&quot;_blank&quot;&gt;Schaefer 2007&lt;/a&gt;, &lt;a href=&quot;http://adsabs.harvard.edu/abs/2008MNRAS.391..577A&quot; target=&quot;_blank&quot;&gt;Amati et al. 2008&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is an example graph taken from &lt;a href=&quot;http://adsabs.harvard.edu//abs/2011MNRAS.411.1843S&quot; target=&quot;_blank&quot;&gt;Shahmoradi &amp;amp; Nemiroff (2011)&lt;/a&gt;, demonstrating the extent of BATSE LGRBs inconsistency with the proposed Amati &amp;amp; Yonetoku relations for LGRBs:&lt;/p&gt;
-
-&lt;!--
-https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
-
---&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
