@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - ideas</title>
     <link href="/tag/ideas/index.xml" rel="self"/>
     <link href="/tag/ideas/"/>
-    <updated>2019-05-23T01:33:00-04:00</updated>
+    <updated>2019-05-23T03:27:46-04:00</updated>
     <id>/tag/ideas.html</id>
     <author>
         <name>site.author</name>
@@ -26,50 +26,20 @@
     The content of the essay is focused on advice for career success by Richard W. Hamming. Unlike the scientific works of Hamming, his valuable thoughts and advice on the art of doing scientific research and achieving career success have been relatively less recognized and appreciated. In the final years of his life, Hamming summarized his personal experience and thoughts in his book titled “The Art of Doing Science and Engineering: Learning to Learn”.  In his book, Hamming provides valuable practical lessons on how to excel in research and career, based on his own lifelong scientific career experience and his close friendship and collaboration with some of the greatest minds of the 20th century, such as Claude Shannon and Nobel laureate Richard Feynman.
 &lt;/i&gt;&lt;/p&gt;
 
-&lt;div class=&quot;table&quot; style=&quot;width:100%;&quot;&gt;
-    &lt;br /&gt;&lt;br /&gt;
-    &lt;div class=&quot;doubleFigRow&quot;&gt;
-        &lt;div class=&quot;doubleFigCol&quot;&gt;
-            &lt;!--
-            &lt;figure&gt;
-                &lt;img src=&quot;/RichardHamming.jpg&quot; alt=&quot;RichardHamming.jpg&quot; style=&quot;height:400px&quot;&gt;
-            &lt;/figure&gt;
-            --&gt;
-            &lt;!--
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--
 https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
 
 --&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
-        &lt;a href=&quot;/img/2016-02-11-101-you-and-your-career/RichardHamming.jpg&quot; target=&quot;_blank&quot;&gt;
-            &lt;img src=&quot;/img/2016-02-11-101-you-and-your-career/RichardHamming.jpg&quot; alt=&quot;RichardHamming.jpg&quot; height=&quot;400px&quot; /&gt;
+        &lt;a href=&quot;/img/2016-02-11-101-you-and-your-career/TheArtOfHamming.png&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2016-02-11-101-you-and-your-career/TheArtOfHamming.png&quot; alt=&quot;TheArtOfHamming.png&quot; width=&quot;100%&quot; /&gt;
         &lt;/a&gt;
         
     &lt;/figure&gt;
-&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;doubleFigCol&quot;&gt;
-            &lt;!--
-https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
-
---&gt;
-
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
-    &lt;figure&gt;
-        &lt;a href=&quot;/img/2016-02-11-101-you-and-your-career/The-Art-of-Doing-Science-and-Engineering.jpg&quot; target=&quot;_blank&quot;&gt;
-            &lt;img src=&quot;/img/2016-02-11-101-you-and-your-career/The-Art-of-Doing-Science-and-Engineering.jpg&quot; alt=&quot;The-Art-of-Doing-Science-and-Engineering.jpg&quot; height=&quot;400px&quot; /&gt;
-        &lt;/a&gt;
-        
-    &lt;/figure&gt;
-&lt;/div&gt;
-            &lt;!--
-            &lt;figure&gt;
-                &lt;img src=&quot;/img/2016-02-11-101-you-and-your-career/The-Art-of-Doing-Science-and-Engineering.jpg/The-Art-of-Doing-Science-and-Engineering.jpg&quot; alt=&quot;The-Art-of-Doing-Science-and-Engineering.jpg&quot; style=&quot;height:400px&quot;&gt;
-            &lt;/figure&gt;
-            --&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;!--more--&gt;
