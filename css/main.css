@@ -1679,10 +1679,13 @@ select:focus {
 /*******************************************/
 /* mul
 /*******************************************/
-.row {
-  display: flex; }
+.doubleFigRow {
+  display: flex;
+  text-align: center;
+  align-content: center;
+  margin-bottom: 0px; }
 
-.column {
+.doubleFigCol {
   flex: 33.33%;
   padding: 5px; }
 
