@@ -190,10 +190,10 @@ body, html {
 
 #headline {
   background: url(../img/headline_optimized.png) no-repeat top center;
-  -webkit-background-size: 25%;
-  -moz-background-size: 25%;
-  -o-background-size: 25%;
-  background-size: 25%;
+  -webkit-background-size: 20%;
+  -moz-background-size: 20%;
+  -o-background-size: 20%;
+  background-size: 20%;
   height: 100%; }
 
 #headline-empty {
@@ -813,7 +813,7 @@ a.anchor {
  * amir_shahmoradi page
  */
 #amir_shahmoradi {
-  background: url(../img/self_optimized.jpg) no-repeat top left #010202;
+  background: url(../img/haleakalaSummit_optimized.jpg) no-repeat top left #010202;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -827,7 +827,7 @@ a.anchor {
   */ }
   @media all and (max-aspect-ratio: 2000 / 1107) {
     #amir_shahmoradi {
-      background: url(../img/self_optimized.jpg) no-repeat top left #010202;
+      background: url(../img/haleakalaSummit_optimized.jpg) no-repeat top left #010202;
       -webkit-background-size: auto 100%;
       -moz-background-size: auto 100%;
       -o-background-size: auto 100%;
