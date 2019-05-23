@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - cognitive_science</title>
     <link href="/tag/cognitive_science/index.xml" rel="self"/>
     <link href="/tag/cognitive_science/"/>
-    <updated>2019-05-23T00:24:38-04:00</updated>
+    <updated>2019-05-23T01:33:00-04:00</updated>
     <id>/tag/cognitive_science.html</id>
     <author>
         <name>site.author</name>
@@ -24,7 +24,22 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;!--
+https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
+
+--&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/SameColorIllusion.png&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/SameColorIllusion.png&quot; alt=&quot;SameColorIllusion.png&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+--&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -34,7 +49,22 @@
 
 &lt;p&gt;Here is an example graph taken from &lt;a href=&quot;http://adsabs.harvard.edu//abs/2011MNRAS.411.1843S&quot; target=&quot;_blank&quot;&gt;Shahmoradi &amp;amp; Nemiroff (2011)&lt;/a&gt;, demonstrating the extent of BATSE LGRBs inconsistency with the proposed Amati &amp;amp; Yonetoku relations for LGRBs:&lt;/p&gt;
 
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; title=&quot;&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;!--
+https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
+
+--&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/hardness_brightness.png&quot; alt=&quot;hardness_brightness.png&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+--&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

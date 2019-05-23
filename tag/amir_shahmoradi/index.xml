@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - amir_shahmoradi</title>
     <link href="/tag/amir_shahmoradi/index.xml" rel="self"/>
     <link href="/tag/amir_shahmoradi/"/>
-    <updated>2019-05-23T00:24:38-04:00</updated>
+    <updated>2019-05-23T01:33:00-04:00</updated>
     <id>/tag/amir_shahmoradi.html</id>
     <author>
         <name>site.author</name>
@@ -35,23 +35,37 @@
                 &lt;img src=&quot;/RichardHamming.jpg&quot; alt=&quot;RichardHamming.jpg&quot; style=&quot;height:400px&quot;&gt;
             &lt;/figure&gt;
             --&gt;
-            
-&lt;figure&gt;
-    &lt;img src=&quot;/img/2016-02-11/RichardHamming.jpg&quot; alt=&quot;RichardHamming.jpg&quot; height=&quot;400px&quot; /&gt;
-    
-&lt;/figure&gt;
+            &lt;!--
+https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
 
+--&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2016-02-11-101-you-and-your-career/RichardHamming.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2016-02-11-101-you-and-your-career/RichardHamming.jpg&quot; alt=&quot;RichardHamming.jpg&quot; height=&quot;400px&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;doubleFigCol&quot;&gt;
-            
-&lt;figure&gt;
-    &lt;img src=&quot;/img/2016-02-11/The-Art-of-Doing-Science-and-Engineering.jpg&quot; alt=&quot;The-Art-of-Doing-Science-and-Engineering.jpg&quot; height=&quot;400px&quot; /&gt;
-    
-&lt;/figure&gt;
+            &lt;!--
+https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
 
+--&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2016-02-11-101-you-and-your-career/The-Art-of-Doing-Science-and-Engineering.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2016-02-11-101-you-and-your-career/The-Art-of-Doing-Science-and-Engineering.jpg&quot; alt=&quot;The-Art-of-Doing-Science-and-Engineering.jpg&quot; height=&quot;400px&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
             &lt;!--
             &lt;figure&gt;
-                &lt;img src=&quot;/img/2016-02-11/The-Art-of-Doing-Science-and-Engineering.jpg/The-Art-of-Doing-Science-and-Engineering.jpg&quot; alt=&quot;The-Art-of-Doing-Science-and-Engineering.jpg&quot; style=&quot;height:400px&quot;&gt;
+                &lt;img src=&quot;/img/2016-02-11-101-you-and-your-career/The-Art-of-Doing-Science-and-Engineering.jpg/The-Art-of-Doing-Science-and-Engineering.jpg&quot; alt=&quot;The-Art-of-Doing-Science-and-Engineering.jpg&quot; style=&quot;height:400px&quot;&gt;
             &lt;/figure&gt;
             --&gt;
         &lt;/div&gt;
@@ -191,7 +205,22 @@ The year 2015 has a total of six &lt;a target=&quot;_blank&quot; href=&quot;http
         <id>/2015/05/22/birthday_graduation</id>
         <content type="html">&lt;p&gt;This year on my birthday, coincident with the official day of my PhD degree award, I received a gift from the &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/List_of_Nobel_laureates&quot;&gt;Nobel laureate&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Steven_Weinberg&quot;&gt;Steven Weinberg&lt;/a&gt; and a second precious gift from the University of Texas, which I dedicated to the two angels who made it happen.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/img/self/dedication_2048.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/self/dedication_900.png&quot; width=&quot;900&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
+
+--&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/self/dedication_2048.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2015-05-22-birthday_graduation/dedication_900.png&quot; alt=&quot;dedication_900.png&quot; width=&quot;100%&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;a href=&quot;/img/self/dedication_2048.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/self/dedication_900.png&quot; width=&quot;900&quot;&gt;&lt;/a&gt;
+--&gt;
 
 </content>
     </entry>
@@ -233,13 +262,20 @@ The year 2015 has a total of six &lt;a target=&quot;_blank&quot; href=&quot;http
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&amp;lt;!–
+https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html&lt;/p&gt;
 
-&lt;figure&gt;
-    &lt;img src=&quot;/img/2015-02-06/students.jpg&quot; alt=&quot;students.jpg&quot; width=&quot;100%&quot; /&gt;
-    
-&lt;/figure&gt;
+&lt;p&gt;–&amp;gt;&lt;/p&gt;
 
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2015-02-06-last-TAship/students.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2015-02-06-last-TAship/students.jpg&quot; alt=&quot;students.jpg&quot; width=&quot;100%&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </content>
     </entry>
