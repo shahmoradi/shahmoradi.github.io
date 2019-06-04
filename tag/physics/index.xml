@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - physics</title>
     <link href="/tag/physics/index.xml" rel="self"/>
     <link href="/tag/physics/"/>
-    <updated>2019-05-27T23:04:15-04:00</updated>
+    <updated>2019-06-04T11:11:55-04:00</updated>
     <id>/tag/physics.html</id>
     <author>
         <name>site.author</name>
@@ -16,74 +16,21 @@
         <id>/2019/05/23/MAPCP2019U</id>
         <content type="html">&lt;p&gt;
     This 2019 summer semester, I will be teaching  
-    &lt;!--
-    &lt;a href=&quot;/ICP2017F/about/&quot; target=&quot;_blank&quot;&gt;
-    --&gt;
-    PHYS 6302 - 001 Methods of Applied Physics II - Computers in Physics
-    &lt;!--
+    &lt;a href=&quot;/MAPCP2019U/about/&quot; target=&quot;_blank&quot;&gt;
+        PHYS 6302 - 001 Methods of Applied Physics II - Computers in Physics
     &lt;/a&gt; 
-    --&gt;
     in the Department of Physics at the University of Texas at Arlington. The focus of the course will be on using high-level programming languages (such as MATLAB and Python) to learn the foundations of programming in general, and make effective use of the tools available in these languages towards solving Physics problems. All the course material and news will be available on-the-fly on the
-    &lt;!--
-    &lt;a href=&quot;/ICP2017F/&quot; target=&quot;_blank&quot;&gt;
-    --&gt;
+    &lt;a href=&quot;/MAPCP2019U/&quot; target=&quot;_blank&quot;&gt;
         website
-    &lt;!--
     &lt;/a&gt;
-    --&gt;
     that I have designed for this course.
 &lt;/p&gt;
 
-&lt;!--
-&lt;div class=&quot;container&quot; style=&quot;font-size:25px;padding-bottom:20px;&quot;&gt;
-&lt;a href=&quot;https://www.cdslab.org/ICP2017F/&quot; target=&quot;_blank&quot;&gt;
-    &lt;b&gt;Course Webpage&lt;/b&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-
-
 &lt;div class=&quot;squeezewrap&quot;&gt;
-    &lt;iframe class=&quot;squeezeframe&quot; src=&quot;https://www.cdslab.org/ICP2017F/index.html&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
+    &lt;iframe class=&quot;squeezeframe&quot; src=&quot;https://www.cdslab.org/MAPCP2019U/index.html&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
---&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;!--
-&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; src=&quot;/ICP2017F/&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
---&gt;
-
-&lt;!--
-&lt;form action=&quot;/uploads&quot; enctype=&quot;multipart/form-data&quot; method=&quot;POST&quot;&gt;
-  &lt;input type=&quot;file&quot; name=&quot;my_file&quot; multiple=&quot;multiple&quot; /&gt;
-&lt;/form&gt;
-
-&lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;//assets.transloadit.com/js/jquery.transloadit2-v2-latest.js&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-$(function() {
-  $('form').transloadit({
-    wait: true,
-    triggerUploadOnFileSelection: true,
-    params: {
-      auth: {
-        // Secure via: https://transloadit.com/docs/api-docs/#authentication
-        key: &quot;YOUR_TRANSLOADIT_AUTH_KEY&quot;,
-      },
-      steps: {
-        &quot;extract&quot;: {
-          &quot;use&quot;: &quot;:original&quot;,
-          &quot;robot&quot;: &quot;/html/convert&quot;,
-          &quot;result&quot;: true
-        }
-      }
-    }
-  });
-});
-&lt;/script&gt;
---&gt;
 </content>
     </entry>
     
