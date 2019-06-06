@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - graduate</title>
     <link href="/tag/graduate/index.xml" rel="self"/>
     <link href="/tag/graduate/"/>
-    <updated>2019-06-05T23:57:33-04:00</updated>
+    <updated>2019-06-06T15:01:15-04:00</updated>
     <id>/tag/graduate.html</id>
     <author>
         <name>site.author</name>
@@ -25,6 +25,12 @@
     &lt;/a&gt;
     that I have designed for this course.
 &lt;/p&gt;
+
+&lt;div class=&quot;container&quot; style=&quot;font-size:25px;padding-bottom:20px;&quot;&gt;
+    &lt;a href=&quot;https://www.cdslab.org/MAPCP2019U/&quot; target=&quot;_blank&quot;&gt;
+        &lt;b&gt;Course Webpage&lt;/b&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;squeezewrap&quot;&gt;
     &lt;iframe class=&quot;squeezeframe&quot; src=&quot;https://www.cdslab.org/MAPCP2019U/index.html&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
