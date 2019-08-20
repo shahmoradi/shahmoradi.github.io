@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - programming</title>
     <link href="/tag/programming/index.xml" rel="self"/>
     <link href="/tag/programming/"/>
-    <updated>2019-08-19T02:53:21-04:00</updated>
+    <updated>2019-08-19T20:06:18-04:00</updated>
     <id>/tag/programming.html</id>
     <author>
         <name>site.author</name>
@@ -49,8 +49,6 @@
 This semester I will be teaching the &lt;a href=&quot;/ICP2017F/about/&quot; target=&quot;_blank&quot;&gt;Introduction to Computer Programming&lt;/a&gt; for Engineering Computation Program at UT Austin as well as the Department of Aerospace Engineering and Engineering Mechanics. The focus of the course will be on MATLAB, C++, and Fortran programming languages. All the course material and news will be available on-the-fly on the &lt;a href=&quot;/ICP2017F/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; that I have designed for this course.
 &lt;/p&gt;
 
-&lt;!--more--&gt;
-
 &lt;div class=&quot;container&quot; style=&quot;font-size:25px;padding-bottom:20px;&quot;&gt;
 &lt;a href=&quot;https://www.cdslab.org/ICP2017F/&quot; target=&quot;_blank&quot;&gt;
     &lt;!--
@@ -66,6 +64,8 @@ This semester I will be teaching the &lt;a href=&quot;/ICP2017F/about/&quot; tar
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;!--
 &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; src=&quot;/ICP2017F/&quot; frameborder=&quot;0&quot;&gt;
