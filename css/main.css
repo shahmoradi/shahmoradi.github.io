@@ -495,7 +495,7 @@ a.anchor {
  */
 .site-footer {
   /* height: 20%; */
-  height: 150px;
+  height: 180px;
   /*border-top: 1px solid $grey-color-light;*/
   /*background-color: $grey-color-dark;*/
   background-color: #000000;
@@ -503,7 +503,7 @@ a.anchor {
   padding: 30px 0;
   /* */
   /* This makes the color of links golden */
-  min-height: 150px; }
+  min-height: 180px; }
   .site-footer a:link {
     color: #ffef99; }
   .site-footer a:visited {
@@ -953,31 +953,15 @@ a.anchor {
   background: url(../img/logos/research_tgm.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-biomedicine {
       width: 70px;
       height: 70px; } }
 
-.icon-biomedicine-overlay {
-  width: 150px;
-  height: 150px;
-  background: url(../img/logos/research_tgm_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  overflow: hidden;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-biomedicine-overlay {
-      width: 70px;
-      height: 70px; } }
-
-.icon-biomedicine:hover .icon-biomedicine-overlay {
-  opacity: 1; }
+.icon-biomedicine:hover {
+  -webkit-filter: brightness(120%); }
 
 .icon-biophysics {
   width: 150px;
@@ -986,31 +970,15 @@ a.anchor {
   background: url(../img/logos/research_mb.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-biophysics {
       width: 70px;
       height: 70px; } }
 
-.icon-biophysics-overlay {
-  width: 150px;
-  height: 150px;
-  background: url(../img/logos/research_mb_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  overflow: hidden;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-biophysics-overlay {
-      width: 70px;
-      height: 70px; } }
-
-.icon-biophysics:hover .icon-biophysics-overlay {
-  opacity: 1; }
+.icon-biophysics:hover {
+  -webkit-filter: brightness(120%); }
 
 .icon-astrophysics {
   width: 150px;
@@ -1019,31 +987,15 @@ a.anchor {
   background: url(../img/logos/research_aca.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-astrophysics {
       width: 70px;
       height: 70px; } }
 
-.icon-astrophysics-overlay {
-  width: 150px;
-  height: 150px;
-  background: url(../img/logos/research_aca_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  overflow: hidden;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-astrophysics-overlay {
-      width: 70px;
-      height: 70px; } }
-
-.icon-astrophysics:hover .icon-astrophysics-overlay {
-  opacity: 1; }
+.icon-astrophysics:hover {
+  -webkit-filter: brightness(120%); }
 
 .icon-statisticalAlgorithms {
   width: 150px;
@@ -1052,31 +1004,15 @@ a.anchor {
   background: url(../img/logos/research_mc.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-statisticalAlgorithms {
       width: 70px;
       height: 70px; } }
 
-.icon-statisticalAlgorithms-overlay {
-  width: 150px;
-  height: 150px;
-  background: url(../img/logos/research_mc_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  overflow: hidden;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-statisticalAlgorithms-overlay {
-      width: 70px;
-      height: 70px; } }
-
-.icon-statisticalAlgorithms:hover .icon-statisticalAlgorithms-overlay {
-  opacity: 1; }
+.icon-statisticalAlgorithms:hover {
+  -webkit-filter: brightness(110%); }
 
 .icon-nasa {
   width: 121.21212121px;
@@ -1085,32 +1021,15 @@ a.anchor {
   background: url(../img/logos/server_nasa.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-nasa {
       width: 40.40404040px;
       height: 33.33333333px; } }
 
-.icon-nasa-overlay {
-  width: 121.21212121px;
-  height: 100px;
-  margin: auto auto auto auto;
-  background: url(../img/logos/server_nasa_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  overflow: hidden;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-nasa-overlay {
-      width: 40.40404040px;
-      height: 33.33333333px; } }
-
-.icon-nasa:hover .icon-nasa-overlay {
-  opacity: 1; }
+.icon-nasa:hover {
+  -webkit-filter: brightness(130%); }
 
 .icon-googles {
   width: 100px;
@@ -1119,98 +1038,49 @@ a.anchor {
   background: url(../img/logos/server_googles.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-googles {
       width: 33.33333333px;
       height: 33.33333333px; } }
 
-.icon-googles-overlay {
-  height: 100px;
-  background: url(../img/logos/server_googles_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  overflow: hidden;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-googles-overlay {
-      width: 33.33333333px;
-      height: 33.33333333px; } }
-
-.icon-googles:hover .icon-googles-overlay {
-  opacity: 1; }
+.icon-googles:hover {
+  -webkit-filter: brightness(130%); }
 
 .icon-arxiv {
   width: 213.19444444px;
   height: 100px;
-  margin: auto auto auto auto;
+  margin: 0 auto 0 auto;
   background: url(../img/logos/server_arxiv.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-arxiv {
       width: 71.06481481px;
       height: 33.33333333px; } }
 
-.icon-arxiv-overlay {
-  width: 213.19444444px;
-  height: 100px;
-  margin: auto auto auto auto;
-  background: url(../img/logos/server_arxiv_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  overflow: hidden;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-arxiv-overlay {
-      width: 71.06481481px;
-      height: 33.33333333px; } }
-
-.icon-arxiv:hover .icon-arxiv-overlay {
-  opacity: 1; }
+.icon-arxiv:hover {
+  -webkit-filter: brightness(130%); }
 
 .icon-biorxiv {
   width: 287.95180722px;
   height: 100px;
-  margin: auto auto auto auto;
+  margin: 0 auto 0 auto;
   background: url(../img/logos/server_bioRxiv.png);
   background-size: 100% 100%;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  transition: 0.25s ease-in-out; }
   @media screen and (max-width: 790px) {
     .icon-biorxiv {
       width: 95.98393574px;
       height: 33.33333333px; } }
 
-.icon-biorxiv-overlay {
-  width: 287.95180722px;
-  height: 100px;
-  margin: auto auto auto auto;
-  background: url(../img/logos/server_bioRxiv_bright.png);
-  background-size: 100% 100%;
-  display: block;
-  /* text-align: center; */
-  /* padding: 45px 0 66px 0; */
-  opacity: 0;
-  overflow: hidden;
-  -webkit-transition: opacity .25s ease;
-  -moz-transition: opacity .25s ease; }
-  @media screen and (max-width: 790px) {
-    .icon-biorxiv-overlay {
-      width: 95.98393574px;
-      height: 33.33333333px; } }
-
-.icon-biorxiv:hover .icon-biorxiv-overlay {
-  opacity: 1; }
+.icon-biorxiv:hover {
+  -webkit-filter: brightness(130%); }
 
 /* Resizes iframe */
 .squeezewrap {
@@ -1635,6 +1505,8 @@ select:focus {
   margin-left: 200%; }
 
 .tabs .tab-2 [type="radio"]:checked + div {
+  position: relative;
+  /* essential for the checked tab to be on top of the unchecked element */
   margin-left: 0; }
 
 .tabs .tab-2:last-child [type="radio"] + div {
@@ -1655,15 +1527,15 @@ select:focus {
   padding: 15px 0 15px;
   color: #cfb87c; }
 
+/*
 [type=radio]:checked ~ label {
   background: white;
   border-bottom: 1px solid white;
-  z-index: 2; }
-
+  z-index: 2;
+}
 [type=radio]:checked ~ label ~ .content {
-  z-index: 1; }
-
-/*
+  z-index: 1;
+}
 .fas
 {
     font-size: 30px;
@@ -1690,6 +1562,27 @@ select:focus {
 .doubleFigCol {
   flex: 33.33%;
   padding: 5px; }
+
+.social-icon {
+  padding: 0rem 0rem 0.6rem 0.6rem;
+  transition: 0.5s ease-in-out; }
+
+.social-icons a {
+  color: black; }
+
+.social-icons {
+  text-align: center;
+  float: none;
+  /*
+  padding-bottom: 1.75rem;
+  */ }
+
+/* image brightening on hover */
+.blinker {
+  transition: 0.25s ease-in-out; }
+
+.blinker:hover {
+  -webkit-filter: brightness(130%); }
 
 /**
  * Syntax highlighting styles
