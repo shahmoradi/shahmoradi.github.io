@@ -902,24 +902,31 @@ a.anchor {
   border-collapse: separate; }
   @media screen and (max-width: 790px) {
     .table .table {
-      display: block;
-      text-align: center;
-      align-content: center; }
-    .table .row {
-      display: block;
-      text-align: center;
-      align-content: center;
-      margin-bottom: 0px; }
-    .table .col {
-      text-align: center;
-      align-content: center;
+      /*
+      centers contents
+      */
+      display: inline-block;
       width: 100%;
-      display: block; } }
+      min-width: 100%;
+      align-content: center;
+      text-align: center;
+      align-self: center; }
+    .table .row {
+      display: inline-block;
+      justify-content: center;
+      align-content: center;
+      text-align: center;
+      align-self: center; }
+    .table .col {
+      display: inline-block;
+      justify-content: center;
+      align-content: center;
+      text-align: center;
+      width: 100%; } }
 
 .row {
   text-align: center;
   align-content: center;
-  width: 100%;
   display: table-row; }
 
 .col {
@@ -1580,6 +1587,10 @@ select:focus {
 /* image brightening on hover */
 .blinker {
   transition: 0.25s ease-in-out; }
+  @media screen and (max-width: 790px) {
+    .blinker {
+      width: 50px;
+      height: 50px; } }
 
 .blinker:hover {
   -webkit-filter: brightness(130%); }
