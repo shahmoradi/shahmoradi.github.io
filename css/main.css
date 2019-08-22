@@ -894,9 +894,12 @@ a.anchor {
   margin-bottom: 40px;
   display: inline-block; }
 
+.center {
+  text-align: center; }
+
 .table {
-  display: table;
   text-align: center;
+  display: inline-block;
   align-content: center;
   border-spacing: 30px 0;
   border-collapse: separate; }
@@ -906,17 +909,16 @@ a.anchor {
       centers contents
       */
       display: inline-block;
-      width: 100%;
-      min-width: 100%;
       align-content: center;
+      align-self: center;
       text-align: center;
-      align-self: center; }
+      width: 100%; }
     .table .row {
       display: inline-block;
       justify-content: center;
       align-content: center;
-      text-align: center;
-      align-self: center; }
+      align-self: center;
+      text-align: center; }
     .table .col {
       display: inline-block;
       justify-content: center;
