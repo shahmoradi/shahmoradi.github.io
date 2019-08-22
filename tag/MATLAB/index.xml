@@ -1,44 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Computational Data Science Lab - programming</title>
-    <link href="/tag/programming/index.xml" rel="self"/>
-    <link href="/tag/programming/"/>
+    <title>Computational Data Science Lab - MATLAB</title>
+    <link href="/tag/matlab/index.xml" rel="self"/>
+    <link href="/tag/MATLAB/"/>
     <updated>2019-08-22T12:52:22-04:00</updated>
-    <id>/tag/programming.html</id>
+    <id>/tag/MATLAB.html</id>
     <author>
         <name>site.author</name>
     </author>
-    
-    <entry>
-        <title>Data Science with Python - Fall 2019</title>
-        <link href="/2019/08/22/DSP2019F.html"/>
-        <updated>2019-08-22T00:00:00-04:00</updated>
-        <id>/2019/08/22/DSP2019F</id>
-        <content type="html">&lt;p&gt;
-    This 2019 fall semester, I will be teaching  
-    &lt;a href=&quot;/DSP2019F/about/&quot; target=&quot;_blank&quot;&gt;
-        PHYS 5391 - Data Science with Python
-    &lt;/a&gt; 
-    in the College of Science at the University of Texas at Arlington. The focus of the course will be on using the high-level programming language Python to quickly review the foundations of scientific programming, and then make effective use of the tools available in Python towards learning Data Science concepts and solving relevant real-world problems. All the course material and news will be available on-the-fly on the
-    &lt;a href=&quot;/DSP2019F/&quot; target=&quot;_blank&quot;&gt;
-        website
-    &lt;/a&gt;
-    that I have designed for this course.
-&lt;/p&gt;
-
-&lt;div class=&quot;container&quot; style=&quot;font-size:25px;padding-bottom:20px;&quot;&gt;
-    &lt;a href=&quot;https://www.cdslab.org/DSP2019F/&quot; target=&quot;_blank&quot;&gt;
-        &lt;b&gt;Course Webpage&lt;/b&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;squeezewrap&quot;&gt;
-    &lt;iframe class=&quot;squeezeframe&quot; src=&quot;https://www.cdslab.org/DSP2019F/index.html&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</content>
-    </entry>
     
     <entry>
         <title>Methods of Applied Physics II - Computers in Physics - Summer 2019</title>
@@ -100,71 +69,6 @@ This semester I will be teaching the &lt;a href=&quot;/ICP2017F/about/&quot; tar
 
 &lt;!--
 &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; src=&quot;/ICP2017F/&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
---&gt;
-
-&lt;!--
-&lt;form action=&quot;/uploads&quot; enctype=&quot;multipart/form-data&quot; method=&quot;POST&quot;&gt;
-  &lt;input type=&quot;file&quot; name=&quot;my_file&quot; multiple=&quot;multiple&quot; /&gt;
-&lt;/form&gt;
-
-&lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;//assets.transloadit.com/js/jquery.transloadit2-v2-latest.js&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-$(function() {
-  $('form').transloadit({
-    wait: true,
-    triggerUploadOnFileSelection: true,
-    params: {
-      auth: {
-        // Secure via: https://transloadit.com/docs/api-docs/#authentication
-        key: &quot;YOUR_TRANSLOADIT_AUTH_KEY&quot;,
-      },
-      steps: {
-        &quot;extract&quot;: {
-          &quot;use&quot;: &quot;:original&quot;,
-          &quot;robot&quot;: &quot;/html/convert&quot;,
-          &quot;result&quot;: true
-        }
-      }
-    }
-  });
-});
-&lt;/script&gt;
---&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Engineering Computation Lab - Spring 2017</title>
-        <link href="/2017/01/16/ECL2017S.html"/>
-        <updated>2017-01-16T00:00:00-04:00</updated>
-        <id>/2017/01/16/ECL2017S</id>
-        <content type="html">&lt;p&gt;
-This semester I will be teaching the &lt;a href=&quot;https://www.cdslab.org/ECL2017S/about/&quot; target=&quot;_blank&quot;&gt;Engineering Computation Lab&lt;/a&gt; for Aerospace undergraduate students. All the course material and news will be available on-the-fly on the &lt;a href=&quot;https://www.cdslab.org/ECL2017S/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; that I have designed for this course.
-&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;div class=&quot;container&quot; style=&quot;font-size:25px;padding-bottom:20px;&quot;&gt;
-&lt;a href=&quot;https://www.cdslab.org/ECL2017S/&quot; target=&quot;_blank&quot;&gt;
-    &lt;!--
-    &lt;img src=&quot;https://www.cdslab.org/img/teaching/ECL2017S.png&quot; width=&quot;900&quot;&gt;
-    &lt;img src=&quot;https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.cdslab.org/ECL2017S/?w=900&amp;h=300&quot; border=&quot;0&quot; /&gt;
-    --&gt;
-    &lt;b&gt;Course Webpage&lt;/b&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;squeezewrap&quot;&gt;
-    &lt;iframe class=&quot;squeezeframe&quot; src=&quot;https://www.cdslab.org/ECL2017S/index.html&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;!--
-&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; src=&quot;https://www.cdslab.org/ECL2017S/&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 --&gt;
 
