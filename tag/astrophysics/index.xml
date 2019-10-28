@@ -1,31 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Computational Data Science Lab - astrophysics</title>
-    <link href="/tag/astrophysics/index.xml" rel="self"/>
-    <link href="/tag/astrophysics/"/>
-    <updated>2019-09-17T19:05:50-04:00</updated>
-    <id>/tag/astrophysics.html</id>
+    <link href="https://www.cdslab.org/tag/astrophysics/index.xml" rel="self"/>
+    <link href="https://www.cdslab.org/tag/astrophysics/"/>
+    <updated>2019-10-28T19:06:46-04:00</updated>
+    <id>https://www.cdslab.org/tag/astrophysics.html</id>
     <author>
         <name>site.author</name>
     </author>
     
     <entry>
+        <title>Joshua Osborne wins the outstanding student presentation award of the 2019 Texas APS meeting</title>
+        <link href="https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award.html"/>
+        <updated>2019-10-26T00:00:00-04:00</updated>
+        <id>https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award</id>
+        <content type="html">&lt;p&gt;It is our great pleasure to announce that &lt;a href=&quot;https://www.cdslab.org/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Alexander Osborne&lt;/a&gt;, a senior undergraduate student of the CDSLab, has won the outstanding student presentation award of the 2019 Texas section meeting of the American Physical Society. The meeting was held in Lubbock, TX, Oct 24-26, 2019. Joshua presented his most recent work in the field of High-Energy Astrophysics, on the relationship between the lag observed in the lightcurves of Gamma-Ray Bursts (GRBs) at different energy bands and the relationship of these lags with the GRB intrinsic luminosities. For this work, Joshua used the data in the largest catalog of GRBs available to this date: the BATSE catalog of 2704 GRBs. Since BATSE GRBs do not have measured redshift, Joshua used the predicted redshifts of BATSE GRBs from the earlier works in the lab to compute the intrinsic brightness of individual GRBs. Using this data, he was then able to reconstruct the long-held relationship between the lag and luminosity of GRBs. His preliminary results indicate that the strength of the lag-luminosity relationship as hypothesized by the GRB community is likely weaker what is currently perceived.&lt;/p&gt;
+
+&lt;p&gt;What makes Joshua’s award unique is the fact that he was presenting the results of his first-ever research project in Physics for the first time in his academic life at a conference. Joshua intends to publish the final results of his works in a peer-reviewed journal in the following months.&lt;/p&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2019-10-26-Joshua-Osborne-outstanding-presentation-award/AwardCertificate.png&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2019-10-26-Joshua-Osborne-outstanding-presentation-award/AwardCertificate.png&quot; alt=&quot;AwardCertificate.png&quot; width=&quot;100%&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;!--more--&gt;
+</content>
+    </entry>
+    
+    <entry>
         <title>Beyond Univariate Luminosity Functions for Long Gamma-Ray Bursts</title>
-        <link href="/2012/09/02/Beyond-Univariate-Luminosity-Functions.html"/>
+        <link href="https://www.cdslab.org/2012/09/02/Beyond-Univariate-Luminosity-Functions.html"/>
         <updated>2012-09-02T00:00:00-04:00</updated>
-        <id>/2012/09/02/Beyond-Univariate-Luminosity-Functions</id>
+        <id>https://www.cdslab.org/2012/09/02/Beyond-Univariate-Luminosity-Functions</id>
         <content type="html">&lt;p&gt;&lt;b&gt; Reference: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;http://adsabs.harvard.edu/abs/2013ApJ...766..111S&quot; target=&quot;_blank&quot;&gt;A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt; Available Downloads: &lt;/b&gt;&lt;br /&gt;
   – BATSE Catalog trigger numbers for 1366 events classified as Long GRBs in this analysis can be found &lt;a href=&quot;https://docs.google.com/spreadsheets/d/16SJ-EpNSgDozAG6go9ln8CRfPyyu-6czso1HqFrtIP4/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;br /&gt;
   – Spectral data for these triggers are available from &lt;a href=&quot;http://gammaray.nsstc.nasa.gov/batse/grb/catalog/&quot; target=&quot;_blank&quot;&gt;BATSE Current &amp;amp; 4B GRB Catalogs&lt;/a&gt;. &lt;br /&gt;
-  – The spectral peak energy E&lt;sub&gt;P,obs&lt;/sub&gt; estimates for all LGRBs can be found &lt;a href=&quot;/2010/04/06/hardness-as-measure-of-peak-energy.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;br /&gt;
+  – The spectral peak energy E&lt;sub&gt;P,obs&lt;/sub&gt; estimates for all LGRBs can be found &lt;a href=&quot;https://www.cdslab.org/2010/04/06/hardness-as-measure-of-peak-energy.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;br /&gt;
   – Full MCMC samples of the model parameters for different cosmic rates can be found in the project’s &lt;a href=&quot;https://github.com/shahmoradi/grb_world/tree/master/LGRBs&quot; target=&quot;_blank&quot;&gt;repository&lt;/a&gt;. &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;A Brief (incomplete) Introduction to the Story:&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29&quot; target=&quot;_blank&quot;&gt; Luminosity Function&lt;/a&gt; (LF) of &lt;a href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burst#Long_gamma-ray_bursts&quot; target=&quot;_blank&quot;&gt;Long-duration Gamma-Ray Bursts&lt;/a&gt; (LGRBs) has been subject of many researches in GRB community. Early attempts to constrain the LF of LGRBs in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory#BATSE&quot; target=&quot;_blank&quot;&gt;BATSE&lt;/a&gt; era were primarily aimed at finding the true origin of LGRBs: Cosmological vs. Galactic. Back in the 90’ there was a &lt;a href=&quot;https://apod.nasa.gov/diamond_jubilee/debate95.html&quot; target=&quot;_blank&quot;&gt;great debate and suspicion&lt;/a&gt; about the cosmological origin of LGRBs with some scientists arguing that a cosmological origin for GRBs would imply an enormous output of energy on the order of. 10&lt;sup&gt;51&lt;/sup&gt; [erg] in a matter of a few seconds. Nevertheless, observations of the GRB afterglows in the late 90’ and the &lt;a href=&quot;https://www.nature.com/nature/journal/v387/n6636/full/387878a0.html&quot; target=&quot;_blank&quot;&gt;first measurement of a GRB redshift&lt;/a&gt;, ruled out the galactic models as a potential candidate for GRBs, or at best, for many classes of Gamma-Ray events. Now with GRB distance puzzle being solved, researchers turned into other interesting aspects of these bursts, such as the studies of GRB energetics and the correlations among the spectral parameters of the prompt gamma-ray emission from (mostly) LGRBs. Most prominently, some observational astronomers reported strong correlations between the total isotropic emission of the gamma-ray energies (E&lt;sub&gt;iso&lt;/sub&gt;), or the isotropic peak luminosity (L&lt;sub&gt;iso&lt;/sub&gt;) and &lt;a href=&quot;/2010/04/06/hardness-as-measure-of-peak-energy.html&quot; target=&quot;_blank&quot;&gt;the spectral peak energies (E&lt;sub&gt;P,z&lt;/sub&gt;)&lt;/a&gt; of LGRBs. Such correlations were later criticized by some other researchers for the lack of significance and sample incompleteness. The culprit here turns out to be the unknown complex selection effects in the GRB detection mechanism, spectral analysis, and redshift measurement which modify the observed sample of LGRBs from the true underlying population without leaving a clear trace. Nevertheless, the debate still goes on to this date among GRB researchers (c.f. &lt;a href=&quot;/2010/10/03/Human-Perception-and-Instrumental-Bias.html&quot; target=&quot;_blank&quot;&gt;Shahmoradi &amp;amp; Nemiroff 2011&lt;/a&gt; for a complete review).&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29&quot; target=&quot;_blank&quot;&gt; Luminosity Function&lt;/a&gt; (LF) of &lt;a href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burst#Long_gamma-ray_bursts&quot; target=&quot;_blank&quot;&gt;Long-duration Gamma-Ray Bursts&lt;/a&gt; (LGRBs) has been subject of many researches in GRB community. Early attempts to constrain the LF of LGRBs in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory#BATSE&quot; target=&quot;_blank&quot;&gt;BATSE&lt;/a&gt; era were primarily aimed at finding the true origin of LGRBs: Cosmological vs. Galactic. Back in the 90’ there was a &lt;a href=&quot;https://apod.nasa.gov/diamond_jubilee/debate95.html&quot; target=&quot;_blank&quot;&gt;great debate and suspicion&lt;/a&gt; about the cosmological origin of LGRBs with some scientists arguing that a cosmological origin for GRBs would imply an enormous output of energy on the order of. 10&lt;sup&gt;51&lt;/sup&gt; [erg] in a matter of a few seconds. Nevertheless, observations of the GRB afterglows in the late 90’ and the &lt;a href=&quot;https://www.nature.com/nature/journal/v387/n6636/full/387878a0.html&quot; target=&quot;_blank&quot;&gt;first measurement of a GRB redshift&lt;/a&gt;, ruled out the galactic models as a potential candidate for GRBs, or at best, for many classes of Gamma-Ray events. Now with GRB distance puzzle being solved, researchers turned into other interesting aspects of these bursts, such as the studies of GRB energetics and the correlations among the spectral parameters of the prompt gamma-ray emission from (mostly) LGRBs. Most prominently, some observational astronomers reported strong correlations between the total isotropic emission of the gamma-ray energies (E&lt;sub&gt;iso&lt;/sub&gt;), or the isotropic peak luminosity (L&lt;sub&gt;iso&lt;/sub&gt;) and &lt;a href=&quot;https://www.cdslab.org/2010/04/06/hardness-as-measure-of-peak-energy.html&quot; target=&quot;_blank&quot;&gt;the spectral peak energies (E&lt;sub&gt;P,z&lt;/sub&gt;)&lt;/a&gt; of LGRBs. Such correlations were later criticized by some other researchers for the lack of significance and sample incompleteness. The culprit here turns out to be the unknown complex selection effects in the GRB detection mechanism, spectral analysis, and redshift measurement which modify the observed sample of LGRBs from the true underlying population without leaving a clear trace. Nevertheless, the debate still goes on to this date among GRB researchers (c.f. &lt;a href=&quot;https://www.cdslab.org/2010/10/03/Human-Perception-and-Instrumental-Bias.html&quot; target=&quot;_blank&quot;&gt;Shahmoradi &amp;amp; Nemiroff 2011&lt;/a&gt; for a complete review).&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -66,7 +88,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;a href=&quot;/img/research/aca/20120903_Eiso-Epkz.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20120903_Eiso-Epkz.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20120903_Eiso-Epkz.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20120903_Eiso-Epkz.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
 --&gt;
 
 &lt;p&gt;and here is an example plot of the reconstruction of the univariate BATSE LGRB data measured in the observer-frame according to the best-fit parameters:&lt;/p&gt;
@@ -80,7 +102,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;a href=&quot;/img/research/aca/20120903_observer-frame-marginals.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20120903_observer-frame-marginals.png&quot; title=&quot; &quot; border=&quot;0&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20120903_observer-frame-marginals.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20120903_observer-frame-marginals.png&quot; title=&quot; &quot; border=&quot;0&quot;&gt;&lt;/a&gt;
 --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -89,9 +111,9 @@
     
     <entry>
         <title>Human Perception and Instrumental Bias</title>
-        <link href="/2010/10/03/Human-Perception-and-Instrumental-Bias.html"/>
+        <link href="https://www.cdslab.org/2010/10/03/Human-Perception-and-Instrumental-Bias.html"/>
         <updated>2010-10-03T00:00:00-04:00</updated>
-        <id>/2010/10/03/Human-Perception-and-Instrumental-Bias</id>
+        <id>https://www.cdslab.org/2010/10/03/Human-Perception-and-Instrumental-Bias</id>
         <content type="html">&lt;p&gt;&lt;b&gt; References: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;https://mnras.oxfordjournals.org/content/411/3/1843&quot; target=&quot;_blank&quot;&gt;The Possible Impact of Gamma-Ray Burst Detector Thresholds on Cosmological Standard Candles&lt;/a&gt;&lt;br /&gt;
   –  &lt;a href=&quot;http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3155940&quot; target=&quot;_blank&quot;&gt;How Real Detector Thresholds Create False Standard Candles&lt;/a&gt;&lt;/p&gt;
@@ -111,7 +133,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -131,7 +153,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20101004_hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20101004_hardness_brightness.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -141,9 +163,9 @@
     
     <entry>
         <title>Hardness as a proxy for the spectral peak energy of Gamma-Ray Bursts</title>
-        <link href="/2010/04/06/hardness-as-measure-of-peak-energy.html"/>
+        <link href="https://www.cdslab.org/2010/04/06/hardness-as-measure-of-peak-energy.html"/>
         <updated>2010-04-06T00:00:00-04:00</updated>
-        <id>/2010/04/06/hardness-as-measure-of-peak-energy</id>
+        <id>https://www.cdslab.org/2010/04/06/hardness-as-measure-of-peak-energy</id>
         <content type="html">&lt;p&gt;&lt;b&gt; Reference: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;https://academic.oup.com/mnras/article/407/4/2075/998195&quot; target=&quot;_blank&quot;&gt;Hardness as a Spectral Peak Estimator for Gamma-Ray Bursts&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -164,7 +186,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20100407_grb_photon_spectrum.png&quot; imageanchor=&quot;1&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/img/research/aca/&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20100407_grb_photon_spectrum.png&quot; imageanchor=&quot;1&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -178,7 +200,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20100407_grb_power_spectrum.png&quot; imageanchor=&quot;1&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/img/research/aca/20100407_grb_power_spectrum.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20100407_grb_power_spectrum.png&quot; imageanchor=&quot;1&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20100407_grb_power_spectrum.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -201,7 +223,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;a href=&quot;/img/research/aca/20100407_HRH_Epk_relation.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20100407_HRH_Epk_relation.png&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20100407_HRH_Epk_relation.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20100407_HRH_Epk_relation.png&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
 --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -218,7 +240,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;a href=&quot;/img/research/aca/20100407_BATSE_2130_Epk_histogram.png&quot; imageanchor=&quot;1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20100407_BATSE_2130_Epk_histogram.png&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20100407_BATSE_2130_Epk_histogram.png&quot; imageanchor=&quot;1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20100407_BATSE_2130_Epk_histogram.png&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
 --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -229,9 +251,9 @@
     
     <entry>
         <title>BSc project: Cygnus X-3 and the Muon Excess Puzzle</title>
-        <link href="/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle.html"/>
+        <link href="https://www.cdslab.org/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle.html"/>
         <updated>2007-05-22T00:00:00-04:00</updated>
-        <id>/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle</id>
+        <id>https://www.cdslab.org/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle</id>
         <content type="html">&lt;p&gt;After months of research and article reading, my undergraduate degree project is complete and available to view &lt;a target=&quot;_blank&quot; href=&quot;/pubs/Shahmoradi_2007.pdf&quot;&gt;here&lt;/a&gt; (it’s all in &lt;a href=&quot;https://en.wikipedia.org/wiki/Persian_language&quot; target=&quot;_blank&quot;&gt;Persian language&lt;/a&gt;).&lt;/p&gt;
 </content>
     </entry>

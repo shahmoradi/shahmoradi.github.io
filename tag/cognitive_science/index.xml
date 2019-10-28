@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Computational Data Science Lab - cognitive_science</title>
-    <link href="/tag/cognitive_science/index.xml" rel="self"/>
-    <link href="/tag/cognitive_science/"/>
-    <updated>2019-09-17T19:05:50-04:00</updated>
-    <id>/tag/cognitive_science.html</id>
+    <link href="https://www.cdslab.org/tag/cognitive_science/index.xml" rel="self"/>
+    <link href="https://www.cdslab.org/tag/cognitive_science/"/>
+    <updated>2019-10-28T19:06:46-04:00</updated>
+    <id>https://www.cdslab.org/tag/cognitive_science.html</id>
     <author>
         <name>site.author</name>
     </author>
     
     <entry>
         <title>Human Perception and Instrumental Bias</title>
-        <link href="/2010/10/03/Human-Perception-and-Instrumental-Bias.html"/>
+        <link href="https://www.cdslab.org/2010/10/03/Human-Perception-and-Instrumental-Bias.html"/>
         <updated>2010-10-03T00:00:00-04:00</updated>
-        <id>/2010/10/03/Human-Perception-and-Instrumental-Bias</id>
+        <id>https://www.cdslab.org/2010/10/03/Human-Perception-and-Instrumental-Bias</id>
         <content type="html">&lt;p&gt;&lt;b&gt; References: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;https://mnras.oxfordjournals.org/content/411/3/1843&quot; target=&quot;_blank&quot;&gt;The Possible Impact of Gamma-Ray Burst Detector Thresholds on Cosmological Standard Candles&lt;/a&gt;&lt;br /&gt;
   –  &lt;a href=&quot;http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3155940&quot; target=&quot;_blank&quot;&gt;How Real Detector Thresholds Create False Standard Candles&lt;/a&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -53,7 +53,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;!--
-&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://www.cdslab.org/img/research/aca/20101004_hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.cdslab.org/img/research/aca/20101004_hardness_brightness.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
 --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;

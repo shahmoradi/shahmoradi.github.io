@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Computational Data Science Lab - success</title>
-    <link href="/tag/success/index.xml" rel="self"/>
-    <link href="/tag/success/"/>
-    <updated>2019-09-17T19:05:50-04:00</updated>
-    <id>/tag/success.html</id>
+    <link href="https://www.cdslab.org/tag/success/index.xml" rel="self"/>
+    <link href="https://www.cdslab.org/tag/success/"/>
+    <updated>2019-10-28T19:06:46-04:00</updated>
+    <id>https://www.cdslab.org/tag/success.html</id>
     <author>
         <name>site.author</name>
     </author>
     
     <entry>
+        <title>Joshua Osborne wins the outstanding student presentation award of the 2019 Texas APS meeting</title>
+        <link href="https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award.html"/>
+        <updated>2019-10-26T00:00:00-04:00</updated>
+        <id>https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award</id>
+        <content type="html">&lt;p&gt;It is our great pleasure to announce that &lt;a href=&quot;https://www.cdslab.org/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Alexander Osborne&lt;/a&gt;, a senior undergraduate student of the CDSLab, has won the outstanding student presentation award of the 2019 Texas section meeting of the American Physical Society. The meeting was held in Lubbock, TX, Oct 24-26, 2019. Joshua presented his most recent work in the field of High-Energy Astrophysics, on the relationship between the lag observed in the lightcurves of Gamma-Ray Bursts (GRBs) at different energy bands and the relationship of these lags with the GRB intrinsic luminosities. For this work, Joshua used the data in the largest catalog of GRBs available to this date: the BATSE catalog of 2704 GRBs. Since BATSE GRBs do not have measured redshift, Joshua used the predicted redshifts of BATSE GRBs from the earlier works in the lab to compute the intrinsic brightness of individual GRBs. Using this data, he was then able to reconstruct the long-held relationship between the lag and luminosity of GRBs. His preliminary results indicate that the strength of the lag-luminosity relationship as hypothesized by the GRB community is likely weaker what is currently perceived.&lt;/p&gt;
+
+&lt;p&gt;What makes Joshua’s award unique is the fact that he was presenting the results of his first-ever research project in Physics for the first time in his academic life at a conference. Joshua intends to publish the final results of his works in a peer-reviewed journal in the following months.&lt;/p&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2019-10-26-Joshua-Osborne-outstanding-presentation-award/AwardCertificate.png&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2019-10-26-Joshua-Osborne-outstanding-presentation-award/AwardCertificate.png&quot; alt=&quot;AwardCertificate.png&quot; width=&quot;100%&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;!--more--&gt;
+</content>
+    </entry>
+    
+    <entry>
         <title>101. You and Your Career: Hamming’s crash-course on career success</title>
-        <link href="/2016/02/11/101-you-and-your-career.html"/>
+        <link href="https://www.cdslab.org/2016/02/11/101-you-and-your-career.html"/>
         <updated>2016-02-11T00:00:00-04:00</updated>
-        <id>/2016/02/11/101-you-and-your-career</id>
+        <id>https://www.cdslab.org/2016/02/11/101-you-and-your-career</id>
         <content type="html">&lt;p&gt;&lt;b&gt;
-    Reference: &lt;a href=&quot;/pubs/Shahmoradi_2016c.pdf&quot; target=&quot;_blank&quot;&gt;101. You and Your Career: Hamming’s crash-course on career success&lt;/a&gt;
+    Reference: &lt;a href=&quot;https://www.cdslab.org/pubs/Shahmoradi_2016c.pdf&quot; target=&quot;_blank&quot;&gt;101. You and Your Career: Hamming’s crash-course on career success&lt;/a&gt;
 &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i&gt;
