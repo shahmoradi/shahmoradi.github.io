@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - physics</title>
     <link href="https://www.cdslab.org/tag/physics/index.xml" rel="self"/>
     <link href="https://www.cdslab.org/tag/physics/"/>
-    <updated>2019-10-30T18:18:35-04:00</updated>
+    <updated>2020-01-11T20:33:21-05:00</updated>
     <id>https://www.cdslab.org/tag/physics.html</id>
     <author>
         <name>site.author</name>
@@ -12,7 +12,7 @@
     <entry>
         <title>Joshua Osborne wins the outstanding student presentation award of the 2019 Texas APS meeting</title>
         <link href="https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award.html"/>
-        <updated>2019-10-26T00:00:00-04:00</updated>
+        <updated>2019-10-26T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award</id>
         <content type="html">&lt;p&gt;It is our great pleasure to announce that &lt;a href=&quot;https://www.cdslab.org/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Alexander Osborne&lt;/a&gt;, a senior undergraduate student of the CDSLab and the Department of Physics at UT Arlington, has won the outstanding student presentation award of the 2019 Texas section meeting of the American Physical Society. The meeting was held in Lubbock, TX, Oct 24-26, 2019. Joshua presented his most recent work in the field of High-Energy Astrophysics, on the relationship between the lag observed in the lightcurves of Gamma-Ray Bursts (GRBs) at different energy bands and the relationship of these lags with the GRB intrinsic luminosities. For this work, Joshua used the data in the largest catalog of GRBs available to this date: the BATSE catalog of 2704 GRBs. Since BATSE GRBs do not have measured redshift, Joshua used the predicted redshifts of BATSE GRBs from the earlier works in the lab to compute the intrinsic brightness of individual GRBs. Using this data, he was then able to reconstruct the long-held relationship between the lag and luminosity of GRBs. His preliminary results indicate that the strength of the lag-luminosity relationship, as hypothesized in the GRB community, is likely weaker than what is currently perceived.&lt;/p&gt;
 
@@ -34,7 +34,7 @@
     <entry>
         <title>Data Science with Python - Fall 2019</title>
         <link href="https://www.cdslab.org/2019/08/22/DSP2019F.html"/>
-        <updated>2019-08-22T00:00:00-04:00</updated>
+        <updated>2019-08-22T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2019/08/22/DSP2019F</id>
         <content type="html">&lt;p&gt;
     This 2019 fall semester, I will be teaching  
@@ -65,7 +65,7 @@
     <entry>
         <title>Methods of Applied Physics II - Computers in Physics - Summer 2019</title>
         <link href="https://www.cdslab.org/2019/05/23/MAPCP2019U.html"/>
-        <updated>2019-05-23T00:00:00-04:00</updated>
+        <updated>2019-05-23T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2019/05/23/MAPCP2019U</id>
         <content type="html">&lt;p&gt;
     This 2019 summer semester, I will be teaching  
@@ -96,7 +96,7 @@
     <entry>
         <title>Beyond Univariate Luminosity Functions for Long Gamma-Ray Bursts</title>
         <link href="https://www.cdslab.org/2012/09/02/Beyond-Univariate-Luminosity-Functions.html"/>
-        <updated>2012-09-02T00:00:00-04:00</updated>
+        <updated>2012-09-02T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2012/09/02/Beyond-Univariate-Luminosity-Functions</id>
         <content type="html">&lt;p&gt;&lt;b&gt; Reference: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;http://adsabs.harvard.edu/abs/2013ApJ...766..111S&quot; target=&quot;_blank&quot;&gt;A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
@@ -174,7 +174,7 @@
     <entry>
         <title>Human Perception and Instrumental Bias</title>
         <link href="https://www.cdslab.org/2010/10/03/Human-Perception-and-Instrumental-Bias.html"/>
-        <updated>2010-10-03T00:00:00-04:00</updated>
+        <updated>2010-10-03T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2010/10/03/Human-Perception-and-Instrumental-Bias</id>
         <content type="html">&lt;p&gt;&lt;b&gt; References: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;https://mnras.oxfordjournals.org/content/411/3/1843&quot; target=&quot;_blank&quot;&gt;The Possible Impact of Gamma-Ray Burst Detector Thresholds on Cosmological Standard Candles&lt;/a&gt;&lt;br /&gt;
@@ -226,7 +226,7 @@
     <entry>
         <title>Hardness as a proxy for the spectral peak energy of Gamma-Ray Bursts</title>
         <link href="https://www.cdslab.org/2010/04/06/hardness-as-measure-of-peak-energy.html"/>
-        <updated>2010-04-06T00:00:00-04:00</updated>
+        <updated>2010-04-06T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2010/04/06/hardness-as-measure-of-peak-energy</id>
         <content type="html">&lt;p&gt;&lt;b&gt; Reference: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;https://academic.oup.com/mnras/article/407/4/2075/998195&quot; target=&quot;_blank&quot;&gt;Hardness as a Spectral Peak Estimator for Gamma-Ray Bursts&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
@@ -314,7 +314,7 @@
     <entry>
         <title>BSc project: Cygnus X-3 and the Muon Excess Puzzle</title>
         <link href="https://www.cdslab.org/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle.html"/>
-        <updated>2007-05-22T00:00:00-04:00</updated>
+        <updated>2007-05-22T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2007/05/22/Cygnus-X3-Muon-Excess-Puzzle</id>
         <content type="html">&lt;p&gt;After months of research and article reading, my undergraduate degree project is complete and available to view &lt;a target=&quot;_blank&quot; href=&quot;/pubs/Shahmoradi_2007.pdf&quot;&gt;here&lt;/a&gt; (it’s all in &lt;a href=&quot;https://en.wikipedia.org/wiki/Persian_language&quot; target=&quot;_blank&quot;&gt;Persian language&lt;/a&gt;).&lt;/p&gt;
 </content>

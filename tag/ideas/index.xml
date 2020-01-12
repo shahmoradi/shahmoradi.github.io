@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - ideas</title>
     <link href="https://www.cdslab.org/tag/ideas/index.xml" rel="self"/>
     <link href="https://www.cdslab.org/tag/ideas/"/>
-    <updated>2019-10-30T18:18:35-04:00</updated>
+    <updated>2020-01-11T20:33:21-05:00</updated>
     <id>https://www.cdslab.org/tag/ideas.html</id>
     <author>
         <name>site.author</name>
@@ -12,7 +12,7 @@
     <entry>
         <title>101. You and Your Career: Hamming’s crash-course on career success</title>
         <link href="https://www.cdslab.org/2016/02/11/101-you-and-your-career.html"/>
-        <updated>2016-02-11T00:00:00-04:00</updated>
+        <updated>2016-02-11T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2016/02/11/101-you-and-your-career</id>
         <content type="html">&lt;p&gt;&lt;b&gt;
     Reference: &lt;a href=&quot;https://www.cdslab.org/pubs/Shahmoradi_2016c.pdf&quot; target=&quot;_blank&quot;&gt;101. You and Your Career: Hamming’s crash-course on career success&lt;/a&gt;
@@ -45,7 +45,7 @@
 
 &lt;p&gt;Why do so few scientists become so famous for their achievements? One thing is known for sure; once famous, it is relatively easy to remain or become more famous. But what does it take to become famous or to do great work? What is the difference between the very capable people and those who do not contribute significantly to the advancement of science? Is there a broad set of principles that everyone could use to achieve career success?&lt;/p&gt;
 
-&lt;p&gt;February 11th 2016 marked the 101st anniversary of the birth of Richard W. Hamming. A well-known and prolific mathematician and computer scientist, Hamming believed that success and successful people come in many forms and flavors. However, despite the apparent great variety on the surface, there are many common elements and traits underlying their success.  Hamming spent the last two decades of his life at the U.S. Naval Postgraduate School in Monterey, California, focusing mostly on education. There he held a series of lectures on the definition and the art of doing significant research and summarized them in his book titled “The Art of Doing Science and Engineering: Learning to Learn”.1 The essence of the book, according to Hamming himself, is one sentence: “Success is to do the right thing, at the right time, in the right way”. Leaving the context for success to the reader, Hamming signifies and explains the approach and “style” that can lead to success which, he argues, are remarkably similar among most professions and careers.&lt;/p&gt;
+&lt;p&gt;February 11th 2016 marked the 101st anniversary of the birth of Richard W. Hamming. A well-known and prolific mathematician and computer scientist, Hamming believed that success and successful people come in many forms and flavors. However, despite the apparent great variety on the surface, there are many common elements and traits underlying their success.  Hamming spent the last two decades of his life at the U.S. Naval Postgraduate School in Monterey, California, focusing mostly on education. There he held a series of lectures on the definition and the art of doing significant research and summarized them in his book titled “The Art of Doing Science and Engineering: Learning to Learn” [1]. The essence of the book, according to Hamming himself, is one sentence: “Success is to do the right thing, at the right time, in the right way”. Leaving the context for success to the reader, Hamming signifies and explains the approach and “style” that can lead to success which, he argues, are remarkably similar among most professions and careers.&lt;/p&gt;
 
 &lt;p&gt;Hamming’s advice on career success could be summarized by three steps:&lt;/p&gt;
 &lt;ol&gt;
@@ -64,11 +64,11 @@
 
 &lt;h1 id=&quot;genius-is-99-perspiration-and-1-inspiration-thomas-edison&quot;&gt;&lt;strong&gt;Genius is 99% perspiration and 1% inspiration (Thomas Edison).&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;Exceptional talent is another major criterion that is often deemed necessary for success. Yet, Isaac Newton, arguably the greatest natural scientist in history2, observed if others would think as hard as he did then they would be able to make the same discoveries as he did. To a great extent, it is constant hard work applied over many years that can lead to creative act. The very able people work very hard, all the time. High IQ may be a help, but is not a necessity for success.&lt;/p&gt;
+&lt;p&gt;Exceptional talent is another major criterion that is often deemed necessary for success. Yet, Isaac Newton, arguably the greatest natural scientist in history [2], observed if others would think as hard as he did then they would be able to make the same discoveries as he did. To a great extent, it is constant hard work applied over many years that can lead to creative act. The very able people work very hard, all the time. High IQ may be a help, but is not a necessity for success.&lt;/p&gt;
 
 &lt;h1 id=&quot;confidence-and-courage-are-essential-components-of-success&quot;&gt;&lt;strong&gt;Confidence and courage are essential components of success.&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;There is an old saying that “a prophet is without honor in his own nation”. 3 Great people often face opposition on their way. A common important trait of them however is courage and self-confidence in that they can do great work. There is of course a fine line between overconfidence and lack of confidence. Lack of confidence often leads to abandoning a good idea too soon, and overconfidence often results in sticking to a bad idea too long. The courage to continue is also essential since great research often has long periods with no success and many discouragements.&lt;/p&gt;
+&lt;p&gt;There is an old saying that “a prophet is without honor in his own nation” [3]. Great people often face opposition on their way. A common important trait of them however is courage and self-confidence in that they can do great work. There is of course a fine line between overconfidence and lack of confidence. Lack of confidence often leads to abandoning a good idea too soon, and overconfidence often results in sticking to a bad idea too long. The courage to continue is also essential since great research often has long periods with no success and many discouragements.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;2-developing-a-long-term-vision-for-success&quot;&gt;&lt;strong&gt;2. Developing a long-term vision for success&lt;/strong&gt;&lt;/h3&gt;
@@ -112,7 +112,7 @@
 
 &lt;h1 id=&quot;good-ideas-must-be-presented-well&quot;&gt;&lt;strong&gt;Good ideas must be presented well.&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;Many scientists think good ideas will win out automatically and need not be carefully presented. Unfortunately, many good ideas in the history of science had to be rediscovered by a different person because they were not well presented the first time, years before rediscovery.  For example, many of the great works of Ernst Stueckelberg, a prominent mathematician and physicist of the 20th century, remained unrecognized for years due to his lack of contact with scientific community. As a result, Stueckelberg did not contribute in a clearly visible way to the advancement of his field of science (the theory of elementary particles) in spite of his exceptionally original and novel ideas.4 According to Hamming, selling new ideas requires mastering three forms of communication: formal presentations, written reports, and informal presentations as they happen to occur. To master the presentation of ideas, Hamming suggests adopting the habit of privately critiquing the “style” of other people’s presentations, asking the opinions of others about them, and adopting those presentation styles that seem to be personally effective for better communication. This includes the gentle art of telling jokes.&lt;/p&gt;
+&lt;p&gt;Many scientists think good ideas will win out automatically and need not be carefully presented. Unfortunately, many good ideas in the history of science had to be rediscovered by a different person because they were not well presented the first time, years before rediscovery.  For example, many of the great works of Ernst Stueckelberg, a prominent mathematician and physicist of the 20th century, remained unrecognized for years due to his lack of contact with scientific community. As a result, Stueckelberg did not contribute in a clearly visible way to the advancement of his field of science (the theory of elementary particles) in spite of his exceptionally original and novel ideas [4]. According to Hamming, selling new ideas requires mastering three forms of communication: formal presentations, written reports, and informal presentations as they happen to occur. To master the presentation of ideas, Hamming suggests adopting the habit of privately critiquing the “style” of other people’s presentations, asking the opinions of others about them, and adopting those presentation styles that seem to be personally effective for better communication. This includes the gentle art of telling jokes.&lt;/p&gt;
 
 &lt;h1 id=&quot;fame-can-be-a-curse-to-quality-productivity&quot;&gt;&lt;strong&gt;Fame can be a curse to quality productivity.&lt;/strong&gt;&lt;/h1&gt;
 
@@ -141,7 +141,7 @@
     <entry>
         <title>Last Teaching Assistantship of Graduate Life</title>
         <link href="https://www.cdslab.org/2015/02/06/last-TAship.html"/>
-        <updated>2015-02-06T00:00:00-04:00</updated>
+        <updated>2015-02-06T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2015/02/06/last-TAship</id>
         <content type="html">&lt;p&gt;I have always been fond of teaching all my life. It's a great feeling of responsibility and power when you go to the chalkboard in front of tens of students with brains like a white paper, ready to register whatever they are taught, permanently in their mind. and there comes the great responsibility on teacher. Depending on what you teach and how you teach, you can change not only the lives of your students but also generations to come. I can still very well remember those few teachers during elementary school and high school, who made me who I am today. and there are examples of great influential teachers in science too: &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Arnold_Sommerfeld&quot;&gt;Arnold Sommerfeld&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/John_Archibald_Wheeler&quot;&gt;John Archibald Wheeler&lt;/a&gt;. Almost the entire structure of modern physics (and even chemistry) was built by the students of these two physicists and their descendants.&lt;/p&gt;
 
@@ -192,7 +192,7 @@
     <entry>
         <title>What Every Scientist Needs to Know</title>
         <link href="https://www.cdslab.org/2014/11/30/what-every-scientist-needs-to-know.html"/>
-        <updated>2014-11-30T00:00:00-04:00</updated>
+        <updated>2014-11-30T00:00:00-05:00</updated>
         <id>https://www.cdslab.org/2014/11/30/what-every-scientist-needs-to-know</id>
         <content type="html">&lt;p&gt;&lt;b&gt; Reference: &lt;/b&gt;&lt;br /&gt;
   –  &lt;a href=&quot;https://beacon-center.org/blog/2014/12/01/beacon-researchers-at-work-what-every-scientist-needs-to-know/&quot; target=&quot;_blank&quot;&gt;BEACON Researchers at Work: What Every Scientist Needs to Know&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
