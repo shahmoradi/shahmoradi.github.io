@@ -290,6 +290,39 @@ body, html {
   /*
   */ }
 
+#container-radialWhitTransparentBox {
+  background: url(../img/radialWhitTranSq.png) no-repeat top center;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  /*
+  background: rgba(256,256,256,1);
+  border: 2px solid rgb(220,220,220);
+  padding: 25px;
+  margin: 25px;
+  */
+  font-weight: normal;
+  text-align: center;
+  align-content: center;
+  text-justify: newspaper;
+  text-kashida-space: 50%;
+  /* margin-bottom: 20px; */
+  display: flex;
+  float: center;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  /*
+  vertical-align:center;
+  horizontal-align:center;
+  position: relative;
+  padding-top: %100;
+  */
+  /*
+  */ }
+
 #about-extension {
   /*
   background: rgba(224,170,15,0.5);
@@ -879,6 +912,24 @@ a.anchor {
   position: relative;
   float: center;
   display: block; }
+
+.glowingContainer {
+  -webkit-filter: brightness(95%);
+  width: 100%;
+  font-weight: normal;
+  text-align: center;
+  align-content: center;
+  text-justify: newspaper;
+  text-kashida-space: 50%;
+  /* margin-bottom: 20px; */
+  display: block;
+  vertical-align: top;
+  position: relative;
+  float: center;
+  display: block; }
+
+.glowingContainer:hover {
+  -webkit-filter: brightness(105%); }
 
 .three-column {
   width: 33.33333333%;
