@@ -896,7 +896,10 @@ a.anchor {
   position: relative;
   float: center;
   display: block;
-  transition: 0.2s ease-in-out; }
+  transition: 0.2s ease-in-out;
+  /*
+  */
+  transform: translate3d(0, 0, 0); }
 
 .glowingContainer:hover {
   -webkit-filter: brightness(110%); }
