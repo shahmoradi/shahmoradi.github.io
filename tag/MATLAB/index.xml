@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - MATLAB</title>
     <link href="https://www.cdslab.org/tag/matlab/index.xml" rel="self"/>
     <link href="https://www.cdslab.org/tag/MATLAB/"/>
-    <updated>2020-12-01T00:42:11-05:00</updated>
+    <updated>2021-05-14T02:25:24+00:00</updated>
     <id>https://www.cdslab.org/tag/MATLAB.html</id>
     <author>
         <name>site.author</name>
@@ -12,7 +12,7 @@
     <entry>
         <title>Joshua Osborne wins the outstanding student presentation award of the 2019 Texas APS meeting</title>
         <link href="https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award.html"/>
-        <updated>2019-10-26T00:00:00-05:00</updated>
+        <updated>2019-10-26T00:00:00+00:00</updated>
         <id>https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award</id>
         <content type="html">&lt;p&gt;It is our great pleasure to announce that &lt;a href=&quot;https://www.cdslab.org/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Alexander Osborne&lt;/a&gt;, a senior undergraduate student of the CDSLab and the Department of Physics at UT Arlington, has won the outstanding student presentation award of the 2019 Texas section meeting of the American Physical Society. The meeting was held in Lubbock, TX, Oct 24-26, 2019. Joshua presented his most recent work in the field of High-Energy Astrophysics, on the relationship between the lag observed in the lightcurves of Gamma-Ray Bursts (GRBs) at different energy bands and the relationship of these lags with the GRB intrinsic luminosities. For this work, Joshua used the data in the largest catalog of GRBs available to this date: the BATSE catalog of 2704 GRBs. Since BATSE GRBs do not have measured redshift, Joshua used the predicted redshifts of BATSE GRBs from the earlier works in the lab to compute the intrinsic brightness of individual GRBs. Using this data, he was then able to reconstruct the long-held relationship between the lag and luminosity of GRBs. His preliminary results indicate that the strength of the lag-luminosity relationship, as hypothesized in the GRB community, is likely weaker than what is currently perceived.&lt;/p&gt;
 
@@ -34,7 +34,7 @@
     <entry>
         <title>Methods of Applied Physics II - Computers in Physics - Summer 2019</title>
         <link href="https://www.cdslab.org/2019/05/23/MAPCP2019U.html"/>
-        <updated>2019-05-23T00:00:00-05:00</updated>
+        <updated>2019-05-23T00:00:00+00:00</updated>
         <id>https://www.cdslab.org/2019/05/23/MAPCP2019U</id>
         <content type="html">&lt;p&gt;
     This 2019 summer semester, I will be teaching  
@@ -65,7 +65,7 @@
     <entry>
         <title>Introduction to Computer Programming - Fall 2017</title>
         <link href="https://www.cdslab.org/2017/08/29/ICP2017F.html"/>
-        <updated>2017-08-29T00:00:00-05:00</updated>
+        <updated>2017-08-29T00:00:00+00:00</updated>
         <id>https://www.cdslab.org/2017/08/29/ICP2017F</id>
         <content type="html">&lt;p&gt;
 This semester I will be teaching the &lt;a href=&quot;https://www.cdslab.org/ICP2017F/about/&quot; target=&quot;_blank&quot;&gt;Introduction to Computer Programming&lt;/a&gt; for Engineering Computation Program at UT Austin as well as the Department of Aerospace Engineering and Engineering Mechanics. The focus of the course will be on MATLAB, C++, and Fortran programming languages. All the course material and news will be available on-the-fly on the &lt;a href=&quot;https://www.cdslab.org/ICP2017F/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; that I have designed for this course.
