@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Computational Data Science Lab - undergraduate</title>
-    <link href="https://www.cdslab.org/tag/undergraduate/index.xml" rel="self"/>
-    <link href="https://www.cdslab.org/tag/undergraduate/"/>
-    <updated>2021-06-16T06:05:07+00:00</updated>
-    <id>https://www.cdslab.org/tag/undergraduate.html</id>
+    <link href="/tag/undergraduate/index.xml" rel="self"/>
+    <link href="/tag/undergraduate/"/>
+    <updated>2021-07-10T19:51:00+00:00</updated>
+    <id>/tag/undergraduate.html</id>
     <author>
         <name>site.author</name>
     </author>
     
     <entry>
         <title>Joshua Osborne's research featured on the UTA College of Science website</title>
-        <link href="https://www.cdslab.org/2020/02/11/Joshua-Osborne-featured-in-cos.html"/>
+        <link href="/2020/02/11/Joshua-Osborne-featured-in-cos.html"/>
         <updated>2020-02-11T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2020/02/11/Joshua-Osborne-featured-in-cos</id>
+        <id>/2020/02/11/Joshua-Osborne-featured-in-cos</id>
         <content type="html">
-&lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Osborne&lt;/a&gt;’s research work in the field of High Energy Astrophysics and Gamma-Ray Bursts was featured on the &lt;a href=&quot;https://www.uta.edu/science/news/2020/02-11-joshuaOsborne-2020.php&quot; target=&quot;_blank&quot;&gt;UTA College of Science website&lt;/a&gt;. Joshua joined the CDSLab in Spring 2020 as a PhD candidate in Physics. Before then, Josh was a senior undergraduate student in the CDSLab for about one year. Congratulations Josh!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Osborne&lt;/a&gt;’s research work in the field of High Energy Astrophysics and Gamma-Ray Bursts was featured on the &lt;a href=&quot;https://www.uta.edu/science/news/2020/02-11-joshuaOsborne-2020.php&quot; target=&quot;_blank&quot;&gt;UTA College of Science website&lt;/a&gt;. Joshua joined the CDSLab in Spring 2020 as a PhD candidate in Physics. Before then, Josh was a senior undergraduate student in the CDSLab for about one year. Congratulations Josh!&lt;/p&gt;
 
 &lt;!--more--&gt;
 </content>
@@ -23,10 +23,10 @@
     
     <entry>
         <title>Joshua Osborne wins the outstanding student presentation award of the 2019 Texas APS meeting</title>
-        <link href="https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award.html"/>
+        <link href="/2019/10/26/Joshua-Osborne-outstanding-presentation-award.html"/>
         <updated>2019-10-26T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2019/10/26/Joshua-Osborne-outstanding-presentation-award</id>
-        <content type="html">&lt;p&gt;It is our great pleasure to announce that &lt;a href=&quot;https://www.cdslab.org/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Alexander Osborne&lt;/a&gt;, a senior undergraduate student of the CDSLab and the Department of Physics at UT Arlington, has won the outstanding student presentation award of the 2019 Texas section meeting of the American Physical Society. The meeting was held in Lubbock, TX, Oct 24-26, 2019. Joshua presented his most recent work in the field of High-Energy Astrophysics, on the relationship between the lag observed in the lightcurves of Gamma-Ray Bursts (GRBs) at different energy bands and the relationship of these lags with the GRB intrinsic luminosities. For this work, Joshua used the data in the largest catalog of GRBs available to this date: the BATSE catalog of 2704 GRBs. Since BATSE GRBs do not have measured redshift, Joshua used the predicted redshifts of BATSE GRBs from the earlier works in the lab to compute the intrinsic brightness of individual GRBs. Using this data, he was then able to reconstruct the long-held relationship between the lag and luminosity of GRBs. His preliminary results indicate that the strength of the lag-luminosity relationship, as hypothesized in the GRB community, is likely weaker than what is currently perceived.&lt;/p&gt;
+        <id>/2019/10/26/Joshua-Osborne-outstanding-presentation-award</id>
+        <content type="html">&lt;p&gt;It is our great pleasure to announce that &lt;a href=&quot;/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Alexander Osborne&lt;/a&gt;, a senior undergraduate student of the CDSLab and the Department of Physics at UT Arlington, has won the outstanding student presentation award of the 2019 Texas section meeting of the American Physical Society. The meeting was held in Lubbock, TX, Oct 24-26, 2019. Joshua presented his most recent work in the field of High-Energy Astrophysics, on the relationship between the lag observed in the lightcurves of Gamma-Ray Bursts (GRBs) at different energy bands and the relationship of these lags with the GRB intrinsic luminosities. For this work, Joshua used the data in the largest catalog of GRBs available to this date: the BATSE catalog of 2704 GRBs. Since BATSE GRBs do not have measured redshift, Joshua used the predicted redshifts of BATSE GRBs from the earlier works in the lab to compute the intrinsic brightness of individual GRBs. Using this data, he was then able to reconstruct the long-held relationship between the lag and luminosity of GRBs. His preliminary results indicate that the strength of the lag-luminosity relationship, as hypothesized in the GRB community, is likely weaker than what is currently perceived.&lt;/p&gt;
 
 &lt;p&gt;What makes Joshua’s award unique is the fact that he was presenting the results of his first-ever research project in Physics for the first time in his academic life at a conference. Joshua intends to publish the final results of his works in a peer-reviewed journal in the following months.&lt;/p&gt;
 
@@ -45,10 +45,10 @@
     
     <entry>
         <title>Bernadette Duhan starts graduate school at the University of Illinois Urbana-Champaign</title>
-        <link href="https://www.cdslab.org/2019/09/01/bernadette-duhan-starts-graduate-school-at-uiuc.html"/>
+        <link href="/2019/09/01/bernadette-duhan-starts-graduate-school-at-uiuc.html"/>
         <updated>2019-09-01T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2019/09/01/bernadette-duhan-starts-graduate-school-at-uiuc</id>
-        <content type="html">&lt;p&gt;It is our great pleasure to announce that a former senior undergraduate member of our lab, &lt;a href=&quot;https://www.cdslab.org/people/#bernadette-duhan&quot; target=&quot;_blank&quot;&gt;Bernadette Duhan&lt;/a&gt;, has accepted an offer of admission from the Department of Physics at the University of Illinois Urbana-Champaign (UIUC). Bernadette will officially start her Ph.D. studies in the field of biophysics at UIUC in fall 2019. Bernie joined our lab in 2018, with research interest in bioinformatics, in particular, proteomics and the relationship between protein evolution and dynamics. Congratulations Bernadette!&lt;/p&gt;
+        <id>/2019/09/01/bernadette-duhan-starts-graduate-school-at-uiuc</id>
+        <content type="html">&lt;p&gt;It is our great pleasure to announce that a former senior undergraduate member of our lab, &lt;a href=&quot;/people/#bernadette-duhan&quot; target=&quot;_blank&quot;&gt;Bernadette Duhan&lt;/a&gt;, has accepted an offer of admission from the Department of Physics at the University of Illinois Urbana-Champaign (UIUC). Bernadette will officially start her Ph.D. studies in the field of biophysics at UIUC in fall 2019. Bernie joined our lab in 2018, with research interest in bioinformatics, in particular, proteomics and the relationship between protein evolution and dynamics. Congratulations Bernadette!&lt;/p&gt;
 
 &lt;!--more--&gt;
 </content>
@@ -56,9 +56,9 @@
     
     <entry>
         <title>Data Science with Python - Fall 2019</title>
-        <link href="https://www.cdslab.org/2019/08/22/DSP2019F.html"/>
+        <link href="/2019/08/22/DSP2019F.html"/>
         <updated>2019-08-22T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2019/08/22/DSP2019F</id>
+        <id>/2019/08/22/DSP2019F</id>
         <content type="html">&lt;p&gt;
     This 2019 fall semester, I will be teaching  
     &lt;a href=&quot;https://www.cdslab.org/DSP2019F/about/&quot; target=&quot;_blank&quot;&gt;
@@ -87,10 +87,10 @@
     
     <entry>
         <title>Travis Driver starts graduate school at the Georgia Institute of Technology</title>
-        <link href="https://www.cdslab.org/2019/08/17/Travis-Driver-starts-graduate-school-at-gatech.html"/>
+        <link href="/2019/08/17/Travis-Driver-starts-graduate-school-at-gatech.html"/>
         <updated>2019-08-17T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2019/08/17/Travis-Driver-starts-graduate-school-at-gatech</id>
-        <content type="html">&lt;p&gt;It is our great pleasure to announce that a former senior undergraduate member of our lab, &lt;a href=&quot;https://www.cdslab.org/people/#travis-p.-driver&quot; target=&quot;_blank&quot;&gt;Travis Driver&lt;/a&gt;, has accepted an offer of admission from the Department of Aerospace at Georgia Institute of Technology. Travis will officially start his Ph.D. studies in fall 2019 at Georgia Tech. Travis joined the research efforts of our lab in 2017, upon taking a course in Python programming and computational engineering. He was able to quickly learn multiple different languages in addition to Python, including Fortran/C/C++, and contributed to our research in the field of machine learning algorithm development. The same year, Travis received several prestigious internships from NASA. Upon concluding his internships, Travis decided to pursue graduate studies in the field of Aerospace Engineering and received admissions to multiple schools, including Stanford, Georgia Tech, UT Austin, TAMU, and CU Boulder. Upon evaluating his choices and plans, Travis decided to begin his Ph.D. studies as part of Georgia Tech. Congratulations Travis!&lt;/p&gt;
+        <id>/2019/08/17/Travis-Driver-starts-graduate-school-at-gatech</id>
+        <content type="html">&lt;p&gt;It is our great pleasure to announce that a former senior undergraduate member of our lab, &lt;a href=&quot;/people/#travis-p.-driver&quot; target=&quot;_blank&quot;&gt;Travis Driver&lt;/a&gt;, has accepted an offer of admission from the Department of Aerospace at Georgia Institute of Technology. Travis will officially start his Ph.D. studies in fall 2019 at Georgia Tech. Travis joined the research efforts of our lab in 2017, upon taking a course in Python programming and computational engineering. He was able to quickly learn multiple different languages in addition to Python, including Fortran/C/C++, and contributed to our research in the field of machine learning algorithm development. The same year, Travis received several prestigious internships from NASA. Upon concluding his internships, Travis decided to pursue graduate studies in the field of Aerospace Engineering and received admissions to multiple schools, including Stanford, Georgia Tech, UT Austin, TAMU, and CU Boulder. Upon evaluating his choices and plans, Travis decided to begin his Ph.D. studies as part of Georgia Tech. Congratulations Travis!&lt;/p&gt;
 
 &lt;!--more--&gt;
 </content>
@@ -98,9 +98,9 @@
     
     <entry>
         <title>Methods of Applied Physics II - Computers in Physics - Summer 2019</title>
-        <link href="https://www.cdslab.org/2019/05/23/MAPCP2019U.html"/>
+        <link href="/2019/05/23/MAPCP2019U.html"/>
         <updated>2019-05-23T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2019/05/23/MAPCP2019U</id>
+        <id>/2019/05/23/MAPCP2019U</id>
         <content type="html">&lt;p&gt;
     This 2019 summer semester, I will be teaching  
     &lt;a href=&quot;https://www.cdslab.org/MAPCP2019U/about/&quot; target=&quot;_blank&quot;&gt;
@@ -129,9 +129,9 @@
     
     <entry>
         <title>Introduction to Computer Programming - Fall 2017</title>
-        <link href="https://www.cdslab.org/2017/08/29/ICP2017F.html"/>
+        <link href="/2017/08/29/ICP2017F.html"/>
         <updated>2017-08-29T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2017/08/29/ICP2017F</id>
+        <id>/2017/08/29/ICP2017F</id>
         <content type="html">&lt;p&gt;
 This semester I will be teaching the &lt;a href=&quot;https://www.cdslab.org/ICP2017F/about/&quot; target=&quot;_blank&quot;&gt;Introduction to Computer Programming&lt;/a&gt; for Engineering Computation Program at UT Austin as well as the Department of Aerospace Engineering and Engineering Mechanics. The focus of the course will be on MATLAB, C++, and Fortran programming languages. All the course material and news will be available on-the-fly on the &lt;a href=&quot;https://www.cdslab.org/ICP2017F/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; that I have designed for this course.
 &lt;/p&gt;
@@ -193,9 +193,9 @@ $(function() {
     
     <entry>
         <title>Engineering Computation Lab - Spring 2017</title>
-        <link href="https://www.cdslab.org/2017/01/16/ECL2017S.html"/>
+        <link href="/2017/01/16/ECL2017S.html"/>
         <updated>2017-01-16T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2017/01/16/ECL2017S</id>
+        <id>/2017/01/16/ECL2017S</id>
         <content type="html">&lt;p&gt;
 This semester I will be teaching the &lt;a href=&quot;https://www.cdslab.org/ECL2017S/about/&quot; target=&quot;_blank&quot;&gt;Engineering Computation Lab&lt;/a&gt; for Aerospace undergraduate students. All the course material and news will be available on-the-fly on the &lt;a href=&quot;https://www.cdslab.org/ECL2017S/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; that I have designed for this course.
 &lt;/p&gt;

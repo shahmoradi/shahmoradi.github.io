@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Computational Data Science Lab - graduate</title>
-    <link href="https://www.cdslab.org/tag/graduate/index.xml" rel="self"/>
-    <link href="https://www.cdslab.org/tag/graduate/"/>
-    <updated>2021-06-16T06:05:07+00:00</updated>
-    <id>https://www.cdslab.org/tag/graduate.html</id>
+    <link href="/tag/graduate/index.xml" rel="self"/>
+    <link href="/tag/graduate/"/>
+    <updated>2021-07-10T19:51:00+00:00</updated>
+    <id>/tag/graduate.html</id>
     <author>
         <name>site.author</name>
     </author>
     
     <entry>
         <title>Data Science with Python - Fall 2019</title>
-        <link href="https://www.cdslab.org/2019/08/22/DSP2019F.html"/>
+        <link href="/2019/08/22/DSP2019F.html"/>
         <updated>2019-08-22T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2019/08/22/DSP2019F</id>
+        <id>/2019/08/22/DSP2019F</id>
         <content type="html">&lt;p&gt;
     This 2019 fall semester, I will be teaching  
     &lt;a href=&quot;https://www.cdslab.org/DSP2019F/about/&quot; target=&quot;_blank&quot;&gt;
@@ -42,9 +42,9 @@
     
     <entry>
         <title>Methods of Applied Physics II - Computers in Physics - Summer 2019</title>
-        <link href="https://www.cdslab.org/2019/05/23/MAPCP2019U.html"/>
+        <link href="/2019/05/23/MAPCP2019U.html"/>
         <updated>2019-05-23T00:00:00+00:00</updated>
-        <id>https://www.cdslab.org/2019/05/23/MAPCP2019U</id>
+        <id>/2019/05/23/MAPCP2019U</id>
         <content type="html">&lt;p&gt;
     This 2019 summer semester, I will be teaching  
     &lt;a href=&quot;https://www.cdslab.org/MAPCP2019U/about/&quot; target=&quot;_blank&quot;&gt;
