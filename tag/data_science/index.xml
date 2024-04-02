@@ -3,7 +3,7 @@
     <title>Computational Data Science Lab - data_science</title>
     <link href="/tag/data_science/index.xml" rel="self"/>
     <link href="/tag/data_science/"/>
-    <updated>2022-11-16T06:55:10+00:00</updated>
+    <updated>2024-04-02T15:11:22-04:00</updated>
     <id>/tag/data_science.html</id>
     <author>
         <name>site.author</name>
@@ -12,7 +12,7 @@
     <entry>
         <title>Joshua Osborne's research featured on the UTA College of Science website</title>
         <link href="/2020/02/11/Joshua-Osborne-featured-in-cos.html"/>
-        <updated>2020-02-11T00:00:00+00:00</updated>
+        <updated>2020-02-11T00:00:00-04:00</updated>
         <id>/2020/02/11/Joshua-Osborne-featured-in-cos</id>
         <content type="html">
 &lt;p&gt;&lt;a href=&quot;/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Osborne&lt;/a&gt;’s research work in the field of High Energy Astrophysics and Gamma-Ray Bursts was featured on the &lt;a href=&quot;https://www.uta.edu/science/news/2020/02-11-joshuaOsborne-2020.php&quot; target=&quot;_blank&quot;&gt;UTA College of Science website&lt;/a&gt;. Joshua joined the CDSLab in Spring 2020 as a PhD candidate in Physics. Before then, Josh was a senior undergraduate student in the CDSLab for about one year. Congratulations Josh!&lt;/p&gt;
@@ -24,7 +24,7 @@
     <entry>
         <title>Joshua Osborne wins the outstanding student presentation award of the 2019 Texas APS meeting</title>
         <link href="/2019/10/26/Joshua-Osborne-outstanding-presentation-award.html"/>
-        <updated>2019-10-26T00:00:00+00:00</updated>
+        <updated>2019-10-26T00:00:00-04:00</updated>
         <id>/2019/10/26/Joshua-Osborne-outstanding-presentation-award</id>
         <content type="html">&lt;p&gt;It is our great pleasure to announce that &lt;a href=&quot;/people/#joshua-alexander-osborne&quot; target=&quot;_blank&quot;&gt;Joshua Alexander Osborne&lt;/a&gt;, a senior undergraduate student of the CDSLab and the Department of Physics at UT Arlington, has won the outstanding student presentation award of the 2019 Texas section meeting of the American Physical Society. The meeting was held in Lubbock, TX, Oct 24-26, 2019. Joshua presented his most recent work in the field of High-Energy Astrophysics, on the relationship between the lag observed in the lightcurves of Gamma-Ray Bursts (GRBs) at different energy bands and the relationship of these lags with the GRB intrinsic luminosities. For this work, Joshua used the data in the largest catalog of GRBs available to this date: the BATSE catalog of 2704 GRBs. Since BATSE GRBs do not have measured redshift, Joshua used the predicted redshifts of BATSE GRBs from the earlier works in the lab to compute the intrinsic brightness of individual GRBs. Using this data, he was then able to reconstruct the long-held relationship between the lag and luminosity of GRBs. His preliminary results indicate that the strength of the lag-luminosity relationship, as hypothesized in the GRB community, is likely weaker than what is currently perceived.&lt;/p&gt;
 
@@ -46,7 +46,7 @@
     <entry>
         <title>Data Science with Python - Fall 2019</title>
         <link href="/2019/08/22/DSP2019F.html"/>
-        <updated>2019-08-22T00:00:00+00:00</updated>
+        <updated>2019-08-22T00:00:00-04:00</updated>
         <id>/2019/08/22/DSP2019F</id>
         <content type="html">&lt;p&gt;
     This 2019 fall semester, I will be teaching  
