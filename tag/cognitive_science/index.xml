@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Computational Data Science Lab - cognitive_science</title>
+    <link href="/tag/cognitive_science/index.xml" rel="self"/>
+    <link href="/tag/cognitive_science/"/>
+    <updated>2024-07-05T00:22:22-04:00</updated>
+    <id>/tag/cognitive_science.html</id>
+    <author>
+        <name>site.author</name>
+    </author>
+    
+    <entry>
+        <title>Human Perception and Instrumental Bias</title>
+        <link href="/2010/10/03/Human-Perception-and-Instrumental-Bias.html"/>
+        <updated>2010-10-03T00:00:00-04:00</updated>
+        <id>/2010/10/03/Human-Perception-and-Instrumental-Bias</id>
+        <content type="html">&lt;p&gt;&lt;b&gt; References: &lt;/b&gt;&lt;br /&gt;
+  –  &lt;a href=&quot;https://mnras.oxfordjournals.org/content/411/3/1843&quot; target=&quot;_blank&quot;&gt;The Possible Impact of Gamma-Ray Burst Detector Thresholds on Cosmological Standard Candles&lt;/a&gt;&lt;br /&gt;
+  –  &lt;a href=&quot;http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3155940&quot; target=&quot;_blank&quot;&gt;How Real Detector Thresholds Create False Standard Candles&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The psychological literature is full of studies that demonstrate how the humans’ limited senses can result in cognitive flaws and biases in our understanding of the universe. In fact, psychologists have pinpointed many specific biases that affect not only the way we see but how we think about and perceive the world. &lt;a href=&quot;https://en.wikipedia.org/wiki/Confirmation_bias&quot; target=&quot;_blank&quot;&gt;Confirmation bias&lt;/a&gt;, for example, is the tendency to notice, accept, and remember data that confirms what we already believe, and &lt;i&gt;to ignore, forget, or explain away&lt;/i&gt; data that is contradictory to our beliefs. To make things worse, add the (unknown) limitations of instruments by which human probes the universe. The combined effects of human and instrument biases can result in erroneous conclusions and predictions.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/SameColorIllusion.png&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/SameColorIllusion.png&quot; alt=&quot;SameColorIllusion.png&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;https://apod.nasa.gov/apod/ap070717.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_SameColorIllusion.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fortunately, many of such biases are now well understood by scientists, in particular, experimental physicists, observational astronomers and quantitative biologists. An example, is the well-known &lt;a href=&quot;https://en.wikipedia.org/wiki/Malmquist_bias&quot; target=&quot;_blank&quot;&gt;Malmquist bias&lt;/a&gt; in Observational Astronomy. Nevertheless, &lt;a href=&quot;https://www.goodreads.com/quotes/143906-as-our-circle-of-knowledge-expands-so-does-the-circumference&quot; target=&quot;_blank&quot;&gt;as our circle of knowledge expands, so does the circumference of darkness surrounding it&lt;/a&gt;, bringing new types of biases and &lt;a href=&quot;https://en.wikipedia.org/wiki/Selection_bias&quot; target=&quot;_blank&quot;&gt;selection effects&lt;/a&gt; with it, that might affect humans’ understanding of natural phenomena.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Back in 2008, I and my adviser – &lt;a href=&quot;https://apod.nasa.gov/htmltest/rjn.html&quot; target=&quot;_blank&quot;&gt;professor Robert Nemiroff&lt;/a&gt; – began to model the unknown selection effects and biases that might happen during the detection process and spectral analysis of &lt;a href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burst&quot; target=&quot;_blank&quot;&gt;Long-duration Gamma-Ray Bursts&lt;/a&gt; (LGRBs). Surprisingly, it turned out that apparently a large fraction of LGRBs go undetected by gamma-ray detectors (e.g. &lt;a href=&quot;https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory#BATSE&quot; target=&quot;_blank&quot;&gt;BATSE&lt;/a&gt;, &lt;a href=&quot;https://heasarc.nasa.gov/docs/swift/&quot; target=&quot;_blank&quot;&gt;Swift&lt;/a&gt;). In addition, a significant number of &lt;i&gt;detected&lt;/i&gt; LGRBs are generally ignored in data analysis due to low quality data. The combined effects of the two biases, together with the unknown selection effects on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Redshift&quot; target=&quot;_blank&quot;&gt;redshift&lt;/a&gt; measurements of LGRBs can artificially signify the strength of (or even create) some of the well-known LGRB spectral correlations. In particular, we found that a significant fraction (&amp;gt;19%) of BATSE LGRBs are likely inconsistent with &lt;a href=&quot;https://www.aanda.org/index.php?option=com_article&amp;amp;access=doi&amp;amp;doi=10.1051/0004-6361:20020722&amp;amp;Itemid=129&quot; target=&quot;_blank&quot;&gt;the Amati relation&lt;/a&gt; at &amp;gt;3σ significance level. This would in turn undermine the utilities of LGRBs as cosmological tools to probe &lt;a href=&quot;https://en.wikipedia.org/wiki/Dark_energy&quot; target=&quot;_blank&quot;&gt;Dark Energy&lt;/a&gt;’s equation of state (e.g., &lt;a href=&quot;http://adsabs.harvard.edu//abs/2007ApJ...660...16S&quot; target=&quot;_blank&quot;&gt;Schaefer 2007&lt;/a&gt;, &lt;a href=&quot;http://adsabs.harvard.edu/abs/2008MNRAS.391..577A&quot; target=&quot;_blank&quot;&gt;Amati et al. 2008&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is an example graph taken from &lt;a href=&quot;http://adsabs.harvard.edu//abs/2011MNRAS.411.1843S&quot; target=&quot;_blank&quot;&gt;Shahmoradi &amp;amp; Nemiroff (2011)&lt;/a&gt;, demonstrating the extent of BATSE LGRBs inconsistency with the proposed Amati &amp;amp; Yonetoku relations for LGRBs:&lt;/p&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;a href=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;/img/2010-10-03-Human-Perception-and-Instrumental-Bias/hardness_brightness.png&quot; alt=&quot;hardness_brightness.png&quot; /&gt;
+        &lt;/a&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;&lt;a href=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/research/aca/20101004_hardness_brightness.png&quot; title=&quot;&quot; border=&quot;0&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</content>
+    </entry>
+    
+</feed>
