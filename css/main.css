@@ -1304,6 +1304,48 @@ a.anchor {
   -webkit-filter: brightness(130%);
 }
 
+.icon-medrxiv {
+  width: 213.19444444px;
+  height: 100px;
+  margin: 0 auto 0 auto;
+  background: url(../img/logos/medrxiv.png);
+  background-size: 100% 100%;
+  display: block;
+  overflow: hidden;
+  transition: 0.25s ease-in-out;
+}
+@media screen and (max-width: 790px) {
+  .icon-medrxiv {
+    width: 71.06481481px;
+    height: 33.33333333px;
+  }
+}
+
+.icon-medrxiv:hover {
+  -webkit-filter: brightness(130%);
+}
+
+.icon-pubmed {
+  width: 287.95180722px;
+  height: 100px;
+  margin: 0 auto 0 auto;
+  background: url(../img/logos/pubmed.png);
+  background-size: 100% 100%;
+  display: block;
+  overflow: hidden;
+  transition: 0.25s ease-in-out;
+}
+@media screen and (max-width: 790px) {
+  .icon-pubmed {
+    width: 95.98393574px;
+    height: 33.33333333px;
+  }
+}
+
+.icon-pubmed:hover {
+  -webkit-filter: brightness(130%);
+}
+
 /* Resizes iframe */
 .squeezewrap {
   width: 100%;
