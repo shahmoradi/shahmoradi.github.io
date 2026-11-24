@@ -133,7 +133,7 @@ pre > code {
  */
 .wrapper {
   max-width: -webkit-calc(850px - (30px * 2));
-  max-width: calc(850px - (30px * 2));
+  max-width: calc(850px - 30px * 2);
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
@@ -198,12 +198,6 @@ body, html {
   /*
   @include media-query($on-palm) {
   */
-  /*
-   *-webkit-background-size: cover;
-   *-moz-background-size: cover;
-   *-o-background-size: cover;
-   *background-size: cover;
-   */
 }
 @media all and (max-aspect-ratio: 5/3) {
   #cover {
@@ -213,6 +207,14 @@ body, html {
     -o-background-size: auto 100%;
     background-size: auto 100%;
   }
+}
+#cover {
+  /*
+   *-webkit-background-size: cover;
+   *-moz-background-size: cover;
+   *-o-background-size: cover;
+   *background-size: cover;
+   */
 }
 
 #headline {
@@ -239,15 +241,17 @@ body, html {
   /* background: #15161d; */
   /* background: #000000; */
   color: #ffffff;
-  /* a:link{color:#2a7ae2}; */ /* This is light blue */
-  /* a:visited{color:#2a7ae2} */ /*  This is light blue */
-  /* mouse over link         */
 }
 #about-block a:link {
   color: #ffef99;
 }
 #about-block a:visited {
   color: #ffef99;
+}
+#about-block {
+  /* a:link{color:#2a7ae2}; */ /* This is light blue */
+  /* a:visited{color:#2a7ae2} */ /*  This is light blue */
+  /* mouse over link         */
 }
 #about-block a:hover {
   color: #e8e8e8;
@@ -339,20 +343,21 @@ body, html {
   -o-background-size: cover;
   background-size: cover;
   color: #000000;
-  /* This is light blue */
-  /*  This is light blue */
-  /* mouse over link         */
-  /*  This is UT burnt Orange color (PMS 159 U PMS 166 C Burnt Orange) */
 }
 #about-extension a:link {
   color: #2a7ae2;
 }
+#about-extension { /* This is light blue */ }
 #about-extension a:visited {
   color: #2a7ae2;
+}
+#about-extension { /*  This is light blue */
+  /* mouse over link         */
 }
 #about-extension a:hover {
   color: #CC5500;
 }
+#about-extension { /*  This is UT burnt Orange color (PMS 159 U PMS 166 C Burnt Orange) */ }
 
 /**
  * People page
@@ -395,7 +400,7 @@ body, html {
   margin: 0px;
   margin-top: 2px;
   background: #c0c0c0;
-  color: #144b92;
+  color: rgb(7.8010046994%, 29.3210176633%, 57.2970345163%);
   border-radius: 2px;
 }
 .people-icon:hover {
@@ -407,8 +412,8 @@ body, html {
   top: 26px;
   left: 0px;
   background-color: #e0e0e0;
-  color: #424242;
-  border-color: #424242;
+  color: rgb(25.9803921569%, 25.9803921569%, 25.9803921569%);
+  border-color: rgb(25.9803921569%, 25.9803921569%, 25.9803921569%);
   border-style: solid;
   border-width: 0.5px;
   border-radius: 2px;
@@ -479,11 +484,6 @@ a.anchor {
   min-height: 56px;
   background-color: black;
   color: #e0e0e0;
-  /* mouse over link */
-  /*
-      // Positioning context for the mobile navigation icon
-      position: relative;
-      */
 }
 .site-header a:link {
   color: #ffef99;
@@ -491,8 +491,17 @@ a.anchor {
 .site-header a:visited {
   color: #ffef99;
 }
+.site-header {
+  /* mouse over link */
+}
 .site-header a:hover {
   color: #e8e8e8;
+}
+.site-header {
+  /*
+      // Positioning context for the mobile navigation icon
+      position: relative;
+      */
 }
 
 .site-title {
@@ -526,7 +535,7 @@ a.anchor {
     top: 9px;
     right: 30px;
     background-color: black;
-    border: 1px solid #424242;
+    border: 1px solid rgb(25.9803921569%, 25.9803921569%, 25.9803921569%);
     border-radius: 5px;
     text-align: right;
   }
@@ -572,17 +581,19 @@ a.anchor {
   color: #c0c0c0;
   padding: 30px 0;
   /* */
-  /* This makes the color of links golden */
-  min-height: 180px;
 }
 .site-footer a:link {
   color: #ffef99;
 }
+.site-footer { /* This makes the color of links golden */ }
 .site-footer a:visited {
   color: #ffef99;
 }
+.site-footer {
+  min-height: 180px;
+}
 .site-footer a {
-  color: #84b2ee;
+  color: rgb(51.6771998055%, 69.8266083293%, 93.4208394101%);
 }
 .site-footer a:hover {
   color: #c0c0c0;
@@ -624,35 +635,35 @@ a.anchor {
 
 .footer-col-1 {
   width: -webkit-calc(33% - (30px / 2));
-  width: calc(33% - (30px / 2));
+  width: calc(33% - 30px / 2);
 }
 
 .footer-col-2 {
   width: -webkit-calc(22% - (30px / 2));
-  width: calc(22% - (30px / 2));
+  width: calc(22% - 30px / 2);
 }
 
 .footer-col-3 {
   width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2));
+  width: calc(45% - 30px / 2);
 }
 
 @media screen and (max-width: 850px) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (30px / 2));
-    width: calc(50% - (30px / 2));
+    width: calc(50% - 30px / 2);
   }
   .footer-col-3 {
     width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2));
+    width: calc(100% - 30px / 2);
   }
 }
 @media screen and (max-width: 790px) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2));
+    width: calc(100% - 30px / 2);
   }
 }
 /**
@@ -670,11 +681,13 @@ a.anchor {
 .post-list {
   margin-left: 0;
   list-style: none;
-  text-align: justify;
 }
 .post-list h2 {
   font-weight: bold;
   text-align: left;
+}
+.post-list {
+  text-align: justify;
 }
 .post-list > li {
   margin-bottom: 30px;
@@ -706,6 +719,12 @@ a.anchor {
   font-size: 1.2rem;
   */
   font-size: 1.2rem;
+}
+.news-archive-link:hover {
+  text-decoration: none;
+  color: Coral;
+}
+.news-archive-link {
   /* "fas fa-archive"; */
   /*
   &:before {
@@ -716,10 +735,6 @@ a.anchor {
   */
   -webkit-transition: color 0.2s ease-in-out;
 }
-.news-archive-link:hover {
-  text-decoration: none;
-  color: Coral;
-}
 
 /* **************************************** */
 /*      style for the RSS Feeds tags        */
@@ -727,6 +742,12 @@ a.anchor {
 .rss-feed-link {
   color: crimson;
   font-size: 1.2rem;
+}
+.rss-feed-link:hover {
+  text-decoration: none;
+  color: Coral;
+}
+.rss-feed-link {
   /* "fas fa-rss"; */
   /*
   &:before {
@@ -736,10 +757,6 @@ a.anchor {
   }
       */
   -webkit-transition: color 0.2s ease-in-out;
-}
-.rss-feed-link:hover {
-  text-decoration: none;
-  color: Coral;
 }
 
 /* **************************************** */
@@ -768,10 +785,6 @@ a.anchor {
     padding-right: .5em;
   }
     */
-  -webkit-transition: color 0.2s ease-in-out;
-  /* 
-  @include transition(all .1s ease-in-out);
-    */
 }
 .post-tag:hover {
   text-decoration: none;
@@ -780,6 +793,12 @@ a.anchor {
   */
   background: crimson;
   color: white; /* white */
+}
+.post-tag {
+  -webkit-transition: color 0.2s ease-in-out;
+  /* 
+  @include transition(all .1s ease-in-out);
+    */
 }
 
 .tags {
@@ -956,12 +975,6 @@ a.anchor {
   -o-background-size: 100%;
   background-size: 100%;
   /* @include media-query($on-palm) { */
-  /*
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  */
 }
 @media all and (max-aspect-ratio: 2000/1107) {
   #amir_shahmoradi {
@@ -971,6 +984,14 @@ a.anchor {
     -o-background-size: auto 100%;
     background-size: auto 100%;
   }
+}
+#amir_shahmoradi {
+  /*
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  */
 }
 
 .firstcharacter {
@@ -1799,7 +1820,7 @@ select:focus {
   /*
   border-bottom: 1px solid #fd264f;
   */
-  border-bottom: 1px solid #424242;
+  border-bottom: 1px solid rgb(25.9803921569%, 25.9803921569%, 25.9803921569%);
 }
 
 .tabs [class^=tab] [type=radio]:checked,
@@ -1807,7 +1828,7 @@ select:focus {
   /*
   border-bottom: 2px solid #fd264f;
   */
-  border-bottom: 2px solid #424242;
+  border-bottom: 2px solid rgb(25.9803921569%, 25.9803921569%, 25.9803921569%);
 }
 
 .tabs [class^=tab] [type=radio]:checked + div,
